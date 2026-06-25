@@ -1,0 +1,34 @@
+services:
+  hermes:
+    image: ghcr.io/hostinger/hvps-hermes-agent:latest
+    container_name: hermes-agent-7llb-hermes-agent-1
+    restart: unless-stopped
+    ports:
+    - 8642:8642
+    - 4860:4860
+    environment:
+    - PYTHONUNBUFFERED=1
+    - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
+    - ADMIN_USERNAME=admin
+    - ADMIN_PASSWORD=admin123
+    - API_SERVER_ENABLED=true
+    - API_SERVER_PORT=8642
+    - VAULT_PATH=/data/obsidian-vault
+    - VAULT_API_URL=http://goldie-obsidian-vault:8200
+    volumes:
+    - obsidian-vault-data:/data/obsidian-vault
+    networks:
+    - root_default
+    labels:
+    - traefik.enable=true
+    - traefik.http.routers.hermes.rule=Host("hermes.srv1121935.hstgr.cloud")
+    - traefik.http.routers.hermes.entrypoints=websecure
+    - traefik.http.routers.hermes.tls=true
+    - traefik.http.routers.hermes.tls.certresolver=mytlschallenge
+    - traefik.http.services.hermes.loadbalancer.server.port=4860
+volumes:
+  obsidian-vault-data:
+    external: true
+networks:
+  root_default:
+    external: true

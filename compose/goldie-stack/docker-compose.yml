@@ -1,0 +1,51 @@
+services:
+  obsidian-vault:
+    build:
+      context: .
+      dockerfile: Dockerfile.obsidian
+    container_name: goldie-obsidian-vault
+    restart: unless-stopped
+    ports:
+    - 8200:8200
+    environment:
+    - VAULT_PATH=/data/obsidian-vault
+    volumes:
+    - obsidian-vault-data:/data/obsidian-vault
+    networks:
+    - root_default
+    labels:
+    - traefik.enable=true
+    - traefik.http.routers.obsidian.rule=Host("obsidian.srv1121935.hstgr.cloud")
+    - traefik.http.routers.obsidian.entrypoints=websecure
+    - traefik.http.routers.obsidian.tls=true
+    - traefik.http.routers.obsidian.tls.certresolver=mytlschallenge
+    - traefik.http.services.obsidian.loadbalancer.server.port=8200
+  memory-engine:
+    build:
+      context: ./memory-engine
+      dockerfile: Dockerfile
+    container_name: goldie-memory-engine
+    restart: unless-stopped
+    ports:
+    - 8100:8100
+    environment:
+    - VAULT_PATH=/data/obsidian-vault
+    - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
+    - LLM_MODEL=openrouter/owl-alpha
+    volumes:
+    - obsidian-vault-data:/data/obsidian-vault
+    networks:
+    - root_default
+    labels:
+    - traefik.enable=true
+    - traefik.http.routers.memory.rule=Host("memory.srv1121935.hstgr.cloud")
+    - traefik.http.routers.memory.entrypoints=websecure
+    - traefik.http.routers.memory.tls=true
+    - traefik.http.routers.memory.tls.certresolver=mytlschallenge
+    - traefik.http.services.memory.loadbalancer.server.port=8100
+volumes:
+  obsidian-vault-data:
+    external: true
+networks:
+  root_default:
+    external: true

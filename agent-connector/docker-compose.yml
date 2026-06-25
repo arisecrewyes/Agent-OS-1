@@ -1,0 +1,22 @@
+services:
+  connector:
+    image: ghcr.io/arisecrewyes/agent-connector:latest
+    container_name: agentos-connector
+    restart: unless-stopped
+    expose:
+    - '8888'
+    environment:
+    - NODE_ENV=production
+    - PORT=8888
+    - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
+    - VAULT_PATH=/data/obsidian-vault
+    volumes:
+    - obsidian-vault-data:/data/obsidian-vault:ro
+    networks:
+    - root_default
+volumes:
+  obsidian-vault-data:
+    external: true
+networks:
+  root_default:
+    external: true
