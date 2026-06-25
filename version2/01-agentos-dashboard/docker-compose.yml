@@ -1,0 +1,66 @@
+# Agent OS Dashboard + Connector — Skool Post #1
+# Deploy on Hostinger VPS via Docker Compose
+# Network: root_default (shared with Traefik, n8n, OpenClaw)
+
+services:
+  agent-os:
+    image: ghcr.io/arisecrewyes/agent-os:latest
+    container_name: agent-os
+    restart: unless-stopped
+    expose:
+      - "3000"
+    depends_on:
+      - connector
+    environment:
+      - NODE_ENV=production
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
+      - VAULT_PATH=${VAULT_PATH:-/data/agentos-vault}
+      - NEXT_PUBLIC_APP_URL=${NEXT_PUBLIC_APP_URL:-https://agentos.srv1121935.hstgr.cloud}
+      - CONNECTOR_URL=http://agentos-connector:8888
+    volumes:
+      - agentos-data:/data
+    networks:
+      - root_default
+    labels:
+      - "traefik.enable=true"
+      # HTTPS Router (primary)
+      - "traefik.http.routers.agentos.rule=Host(`agentos.srv1121935.hstgr.cloud`)"
+      - "traefik.http.routers.agentos.entrypoints=websecure"
+      - "traefik.http.routers.agentos.tls=true"
+      - "traefik.http.routers.agentos.tls.certresolver=mytlschallenge"
+      - "traefik.http.routers.agentos.middlewares=agentos-headers"
+      # HTTP Router (redirect to HTTPS)
+      - "traefik.http.routers.agentos-http.rule=Host(`agentos.srv1121935.hstgr.cloud`)"
+      - "traefik.http.routers.agentos-http.entrypoints=web"
+      - "traefik.http.routers.agentos-http.middlewares=agentos-redirect"
+      # Middlewares
+      - "traefik.http.middlewares.agentos-headers.headers.SSLRedirect=true"
+      - "traefik.http.middlewares.agentos-headers.headers.STSSeconds=315360000"
+      - "traefik.http.middlewares.agentos-headers.headers.browserXSSFilter=true"
+      - "traefik.http.middlewares.agentos-headers.headers.contentTypeNosniff=true"
+      - "traefik.http.middlewares.agentos-headers.headers.forceSTSHeader=true"
+      - "traefik.http.middlewares.agentos-headers.headers.SSLHost=srv1121935.hstgr.cloud"
+      - "traefik.http.middlewares.agentos-headers.headers.STSIncludeSubdomains=true"
+      - "traefik.http.middlewares.agentos-headers.headers.STSPreload=true"
+      - "traefik.http.middlewares.agentos-redirect.redirectscheme.scheme=https"
+      # Service
+      - "traefik.http.services.agentos.loadbalancer.server.port=3000"
+
+  connector:
+    image: ghcr.io/arisecrewyes/agent-connector:latest
+    container_name: agentos-connector
+    restart: unless-stopped
+    expose:
+      - "8888"
+    environment:
+      - NODE_ENV=production
+      - PORT=8888
+    networks:
+      - root_default
+
+volumes:
+  agentos-data:
+
+networks:
+  root_default:
+    external: true
