@@ -25,9 +25,10 @@ Then open `https://agentos.your-domain.com`
 
 ## Posts
 
-- **#1** (this): Base Agent OS Dashboard + Connector — 2 containers
-- **#2**: Infinite Memory upgrade — coming soon
-- **#3+**: Extensions — coming soon
+- **#1** (this): Base Agent OS Dashboard + Connector — 2 containers ✅
+- **#2**: Infinite Memory upgrade (Goldie Stack) — ✅
+- **#3**: OpenClaw capability reference — ✅ `docs/openclaw-capabilities-general.md`
+- **#4+**: Extensions — coming soon
 
 ## Infrastructure Requirements
 
@@ -35,6 +36,16 @@ Then open `https://agentos.your-domain.com`
 - Traefik for SSL (optional but recommended)
 - `root_default` Docker bridge network
 - OpenRouter API key (for chat features)
+
+## Documentation
+
+| File | Purpose |
+|------|---------|
+| `docs/VPS-AUDIT.md` | Post-installation VPS audit |
+| `docs/openclaw-capabilities-general.md` | OpenClaw capability reference (general) |
+| `docs/openclaw-capabilities-vps-annotated.md` | OpenClaw capability reference (VPS-annotated) |
+| `docs/openclaw-agentos-ecosystem.md` | OpenClaw ↔ Agent OS integration guide |
+| `version2/DEPLOYMENT.md` | Version 2 deployment guide |
 
 ## License
 
