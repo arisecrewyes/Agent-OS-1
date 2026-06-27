@@ -30,6 +30,7 @@ Then open `https://agentos.your-domain.com`
 - **#3**: OpenClaw capability reference — ✅ Documented
 - **#4**: Hermes Agent capability reference — ✅ Documented
 - **#5**: Hermes Agent — Build & Automate Anything (condensed tutorial, v0.9 features) — ✅ Documented
+- **#6**: Lead Connector Derivatives + Goldie SEO Framework + Landing Pages — ✅ Documented
 
 ## Infrastructure Requirements
 
@@ -126,6 +127,8 @@ Then open `https://agentos.your-domain.com`
 | `docs/landing-pages-websites-sop.md` | SOP for building landing pages & websites with AI |
 | `docs/highlevel-funnels-reference.md` | HighLevel 5 funnel templates reference |
 | `docs/landing-pages-prompts.md` | AI prompts library for landing page copywriting |
+| `docs/goldie-seo-framework.md` | Goldie SEO Framework — 5-phase AI SEO website framework (6 case studies) |
+| `docs/stackbase-template-conversion.md` | GHL → GoStackBase clickable template conversion guide |
 
 ### 📊 Other
 | File | Purpose |
