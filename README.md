@@ -116,6 +116,17 @@ Then open `https://agentos.your-domain.com`
 | `docs/hermes-one-click-setups.md` | One-Click Setups (Ollama + MaxHermes) |
 | `docs/hermes-commands-reference.md` | Complete CLI command reference |
 
+### 📄 Lead Connector Derivatives (Post #6)
+| File | Purpose |
+|------|---------|
+| `docs/lead-connector-derivatives-comparison.md` | Platform comparison (GHL, LC, GoStackBase, BuildwithOS) |
+| `docs/ghl-to-stackbase-conversion.md` | GHL → GoStackBase template conversion system |
+| `docs/ghl-to-buildwithos-conversion.md` | GHL → BuildwithOS template conversion system |
+| `docs/agent-os-lead-connector-integration.md` | Full integration guide (OpenClaw + Hermes + n8n ↔ all platforms) |
+| `docs/landing-pages-websites-sop.md` | SOP for building landing pages & websites with AI |
+| `docs/highlevel-funnels-reference.md` | HighLevel 5 funnel templates reference |
+| `docs/landing-pages-prompts.md` | AI prompts library for landing page copywriting |
+
 ### 📊 Other
 | File | Purpose |
 |------|---------|
