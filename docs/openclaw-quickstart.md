@@ -69,6 +69,31 @@ Send a message to your bot via Telegram:
 Hello! Can you help me write a blog post about AI automation?
 ```
 
+## When NOT to Use OpenClaw
+
+- ❌ You need enterprise-grade security compliance
+- ❌ You want zero technical setup
+- ❌ You're uncomfortable with command line basics
+- ❌ You need guaranteed uptime/support
+- ❌ You handle extremely sensitive data
+
+## When TO Use OpenClaw
+
+- ✅ You want a personal AI assistant that actually does things
+- ✅ You're comfortable with some technical setup
+- ✅ You want to automate repetitive tasks
+- ✅ You're a content creator/founder/automation builder
+- ✅ You want control over your AI and data
+
+## Key Comparisons
+
+| Tool | Strength | OpenClaw Advantage |
+|------|----------|--------------------|
+| ChatGPT | Browser-only, no memory | OpenClaw: lives in apps, remembers, takes actions |
+| Make/Zapier | Pre-built workflows | OpenClaw: natural language, infinite flexibility |
+| N8N | Node-based workflows | OpenClaw: plain English → it figures out the workflow |
+| Claude Desktop/MCP | Tool access from Claude | OpenClaw: AI comes to you in messaging, 24/7 |
+
 ## Next Steps
 
 - Read the full capability reference: `openclaw-capabilities-general.md`

@@ -25,10 +25,10 @@ Then open `https://agentos.your-domain.com`
 
 ## Posts
 
-- **#1** (this): Base Agent OS Dashboard + Connector — 2 containers ✅
-- **#2**: Infinite Memory upgrade (Goldie Stack) — ✅
-- **#3**: OpenClaw capability reference — ✅ `docs/openclaw-capabilities-general.md`
-- **#4**: Hermes Agent capability reference — ✅ `docs/hermes-agent-capabilities-general.md`
+- **#1** (this): Base Agent OS Dashboard + Connector — ✅ Deployed
+- **#2**: Infinite Memory upgrade (Goldie Stack: Obsidian + Memory Engine + Hermes) — ✅ Deployed
+- **#3**: OpenClaw capability reference — ✅ Documented
+- **#4**: Hermes Agent capability reference — ✅ Documented
 - **#5+**: Extensions — coming soon
 
 ## Infrastructure Requirements
@@ -40,46 +40,87 @@ Then open `https://agentos.your-domain.com`
 
 ## Documentation
 
-### Capability References
+### 🔧 Master System
+| File | Purpose |
+|------|---------|
+| `docs/master-skool-post-conversion-system.md` | The complete unified process for converting any Skool post into Agent OS docs |
+
+### 📖 Tutorials
+| File | Purpose |
+|------|---------|
+| `docs/tutorial-skool-post-conversion.md` | DIY tutorial: How to convert a Skool post into Agent OS docs (Posts #3 & #4 walkthrough) |
+
+### 📋 Capability References (General — for anyone)
+| File | Purpose |
+|------|---------|
+| `docs/openclaw-capabilities-general.md` | OpenClaw capability reference (general) |
+| `docs/hermes-agent-capabilities-general.md` | Hermes Agent capability reference (general) |
+
+### 🖥️ Capability References (VPS-Annotated — for Agent OS users)
+| File | Purpose |
+|------|---------|
+| `docs/openclaw-capabilities-vps-annotated.md` | OpenClaw capability reference (VPS/Docker annotations) |
+| `docs/hermes-agent-capabilities-vps-annotated.md` | Hermes Agent capability reference (VPS/Docker annotations) |
+
+### 🔗 Ecosystem Cross-References
+| File | Purpose |
+|------|---------|
+| `docs/openclaw-agentos-ecosystem.md` | OpenClaw ↔ Agent OS integration guide |
+| `docs/hermes-agent-agentos-ecosystem.md` | Hermes ↔ Agent OS integration guide |
+
+### 🚀 QuickStart Guides
+| File | Purpose |
+|------|---------|
+| `docs/agentos-base-quickstart.md` | Agent OS Base — Step-by-step walkthrough |
+| `docs/goldie-stack-quickstart.md` | Goldie Stack — Step-by-step walkthrough |
+| `docs/openclaw-quickstart.md` | OpenClaw — Step-by-step walkthrough |
+| `docs/hermes-quickstart.md` | Hermes Agent — Step-by-step walkthrough |
+
+### 📅 Launch Plans
+| File | Purpose |
+|------|---------|
+| `docs/agentos-base-launch-plan.md` | Agent OS Base — Structured timeline |
+| `docs/goldie-stack-launch-plan.md` | Goldie Stack — 30-day roadmap (day-by-day, week-by-week) |
+| `docs/openclaw-launch-plan.md` | OpenClaw — Onboarding timeline |
+| `docs/hermes-launch-plan.md` | Hermes Agent — 30-day phased plan |
+
+### 🤖 AI Prompt Libraries
+| File | Purpose | Count |
+|------|---------|-------|
+| `docs/agentos-base-prompts.md` | Agent OS Base — Build & usage prompts | ~15 |
+| `docs/goldie-stack-prompts.md` | Goldie Stack — 100+ power prompts (10 categories) | 100+ |
+| `docs/openclaw-prompts.md` | OpenClaw — Content, research, social, workflow prompts | ~30 |
+| `docs/hermes-prompts.md` | Hermes Agent — Social, research, pipeline, advanced prompts | ~30 |
+
+### 📐 SOPs (Standard Operating Procedures)
+| File | Purpose |
+|------|---------|
+| `docs/goldie-stack-sop.md` | Goldie Stack — Full 30-step SOP across 7 phases |
+
+### 🧠 Frameworks & Concepts
+| File | Purpose |
+|------|---------|
+| `docs/goldie-stack-framework.md` | The Infinite Context Engine™ — 4-layer framework (Capture → Organise → Store → Deploy) |
+| `docs/goldie-stack-limiting-beliefs.md` | 7 Limiting beliefs about AI memory — and the truth |
+
+### 🛠️ Tool References
+| File | Purpose |
+|------|---------|
+| `docs/goldie-stack-omi-tool.md` | OMI — The memory capture engine (Layer 1 & 2 of the Infinite Context Engine) |
+
+### 📊 Other
 | File | Purpose |
 |------|---------|
 | `docs/VPS-AUDIT.md` | Post-installation VPS audit |
-| `docs/openclaw-capabilities-general.md` | OpenClaw capability reference (general) |
-| `docs/openclaw-capabilities-vps-annotated.md` | OpenClaw capability reference (VPS-annotated) |
-| `docs/openclaw-agentos-ecosystem.md` | OpenClaw ↔ Agent OS integration guide |
-| `docs/hermes-agent-capabilities-general.md` | Hermes Agent capability reference (general) |
-| `docs/hermes-agent-capabilities-vps-annotated.md` | Hermes Agent capability reference (VPS-annotated) |
-| `docs/hermes-agent-agentos-ecosystem.md` | Hermes ↔ Agent OS integration guide |
 
-### QuickStart Guides
-| File | Purpose |
-|------|---------|
-| `docs/agentos-base-quickstart.md` | Agent OS Base — QuickStart |
-| `docs/goldie-stack-quickstart.md` | Goldie Stack — QuickStart |
-| `docs/openclaw-quickstart.md` | OpenClaw — QuickStart |
-| `docs/hermes-quickstart.md` | Hermes Agent — QuickStart |
+## Storage Note
 
-### Launch Plans
-| File | Purpose |
-|------|---------|
-| `docs/agentos-base-launch-plan.md` | Agent OS Base — Launch Plan |
-| `docs/goldie-stack-launch-plan.md` | Goldie Stack — Launch Plan |
-| `docs/openclaw-launch-plan.md` | OpenClaw — Launch Plan |
-| `docs/hermes-launch-plan.md` | Hermes Agent — Launch Plan |
+All documentation files are only created when content exists — no empty/placeholder files. This keeps the repo lean and VPS storage minimal.
 
-### AI Prompt Libraries
-| File | Purpose |
-|------|---------|
-| `docs/agentos-base-prompts.md` | Agent OS Base — Prompts |
-| `docs/goldie-stack-prompts.md` | Goldie Stack — Prompts |
-| `docs/openclaw-prompts.md` | OpenClaw — Prompts |
-| `docs/hermes-prompts.md` | Hermes Agent — Prompts |
+## Security Flags
 
-### Tutorials & Deployment
-| File | Purpose |
-|------|---------|
-| `version2/DEPLOYMENT.md` | Version 2 deployment guide |
-| `docs/tutorial-skool-post-conversion.md` | DIY tutorial: How to convert a Skool post into Agent OS docs |
+- 🔴 **Hermes Agent:** Hardcoded `ADMIN_PASSWORD=*** in the compose file. Change this immediately if you haven't already.
+- 🔴 **OpenClaw:** Should not be exposed on VPS without proper authentication. Use Traefik + Cloudflare Workers.
 
 ## License
 

@@ -1,73 +1,94 @@
-# Goldie Stack — Launch Plan
+# Goldie Stack — 30-Day Roadmap
 
-> Structured timeline for deploying the Goldie Stack (Infinite Memory).
+> Week-by-week, day-by-week action plan for implementing The Infinite Context Engine™
 > Source: Julian Goldie SEO — Skool Post #2
-> Related: [[goldie-stack-capabilities-general]] | [[goldie-stack-quickstart]]
+> Related: [[goldie-stack-sop]] | [[goldie-stack-quickstart]] | [[goldie-stack-capabilities-general]]
 
 ---
 
-## Prerequisites
+## 📅 WEEK 1: INSTALL & CAPTURE (Days 1–7)
 
-- [ ] Agent OS Dashboard deployed (Post #1)
-- [ ] OpenClaw running (for agent integration)
-- [ ] Docker and Docker Compose installed
-- [ ] OpenRouter API key configured
-- [ ] Traefik configured for SSL
+The goal of Week 1 is to get all three tools installed and connected.
 
-## Day 1: Deploy the Stack
+- [ ] **Day 1.** Download OMI and grant it microphone and screen access.
+- [ ] **Day 2.** Download Obsidian and create your memory vault.
+- [ ] **Day 3.** Connect OMI to Obsidian and run your first export.
+- [ ] **Day 4.** Locate your file path and paste it into Hermes Agent.
+- [ ] **Day 5.** Test the memory by asking Hermes 10 questions about your business.
+- [ ] **Day 6.** Do the same with OpenClaw and any other AI tool you use.
+- [ ] **Day 7.** Review your memory file — add any extra notes about your business manually.
 
-- [ ] Create Obsidian vault directory: `mkdir -p /data/obsidian-vault`
-- [ ] Navigate to `compose/goldie-stack/`
-- [ ] Copy `.env.example` to `.env` and add API key
-- [ ] Run `docker compose up -d`
-- [ ] Verify both containers are running
-- [ ] Test Obsidian Vault web UI (port 8200)
-- [ ] Test Memory Engine API (port 8100)
+---
 
-## Day 2: Configure Integration
+## 📅 WEEK 2: PERSONALISE (Days 8–14)
 
-- [ ] Verify Docker volume `obsidian-vault-data` is created
-- [ ] Connect OpenClaw agents to vault
-- [ ] Connect Hermes Agent to vault
-- [ ] Test Memory Engine can index vault content
-- [ ] Verify Traefik routing for `obsidian.yourdomain.com`
-- [ ] Verify Traefik routing for `memory.yourdomain.com`
+The goal of Week 2 is to make the memory file rich with YOUR specific context.
 
-## Day 3: Test Memory Persistence
+- [ ] **Day 8.** Add a section to your memory file about your top 3 business goals.
+- [ ] **Day 9.** Add a section about your ideal client and what problems they have.
+- [ ] **Day 10.** Add a section about your team structure and roles.
+- [ ] **Day 11.** Add a section about your content strategy and brand voice.
+- [ ] **Day 12.** Ask Hermes Agent to write content for your business — see how much better it is now.
+- [ ] **Day 13.** Ask Hermes Agent to suggest automation ideas specifically for your business.
+- [ ] **Day 14.** Review Week 2 — what's working, what needs improving?
 
-- [ ] Create notes in Obsidian via web UI
-- [ ] Wait for Memory Engine to index them
-- [ ] Ask OpenClaw agent to find information from vault
-- [ ] Ask Hermes Agent to generate a briefing from vault
-- [ ] Verify notes persist after container restart
-- [ ] Test vault access from multiple agents simultaneously
+---
 
-## Week 1: Populate & Organize
+## 📅 WEEK 3: AUTOMATE (Days 15–21)
 
-- [ ] Create organized folder structure in Obsidian
-- [ ] Set up daily notes template
-- [ ] Set up memory capture workflow
-- [ ] Import existing knowledge into vault
-- [ ] Test Jarvis Briefing feature (reads vault contents)
+The goal of Week 3 is to start building real automations using your memory.
 
-## Week 2: Automate
+- [ ] **Day 15.** Use Hermes Agent with your memory file to build your first automated workflow.
+- [ ] **Day 16.** Connect your OMI memory to your email drafting process.
+- [ ] **Day 17.** Connect your OMI memory to your content creation process.
+- [ ] **Day 18.** Set up a weekly reminder to refresh your Obsidian memory vault.
+- [ ] **Day 19.** Use the memory system to personalise outreach messages.
+- [ ] **Day 20.** Use the memory system to build a standard operating procedure with Hermes Agent.
+- [ ] **Day 21.** Review what you've automated — track time saved this week.
 
-- [ ] Set up automated daily briefings
-- [ ] Configure Memory Engine to index new notes automatically
-- [ ] Set up knowledge base workflows
-- [ ] Create custom templates in Obsidian
+---
 
-## Month 1: Scale
+## 📅 WEEK 4: SCALE (Days 22–30)
 
-- [ ] Full knowledge base populated
-- [ ] All agents connected to vault
-- [ ] Daily briefings running
-- [ ] Memory persistence verified across restarts
-- [ ] Backups configured for vault data
+The goal of Week 4 is to scale the system across your business and team.
 
-## Ongoing
+- [ ] **Day 22.** Share the file path setup with your team — get them using shared memory files too.
+- [ ] **Day 23.** Create a team memory file with your company context, tone of voice, and brand guidelines.
+- [ ] **Day 24.** Connect that team memory file to your agency's AI tools.
+- [ ] **Day 25.** Use Hermes Agent and the memory system to produce a full week of content in one session.
+- [ ] **Day 26.** Use the memory system to build a client onboarding workflow.
+- [ ] **Day 27.** Use the memory system to write a full email sequence for your business.
+- [ ] **Day 28.** Review your results — what's the time saved this month?
+- [ ] **Day 29.** Add your biggest lessons to your memory vault so future AI sessions learn from them.
+- [ ] **Day 30.** Share your results inside AI Profit Boardroom and get feedback from the community.
 
-- [ ] Back up vault data weekly
-- [ ] Monitor Memory Engine health
-- [ ] Add new knowledge to vault regularly
-- [ ] Review and organize vault contents monthly
+---
+
+## After 30 Days: The Compounding Effect
+
+The system doesn't stop at 30 days. By now:
+- Your AI knows your business, goals, team, clients, and brand voice
+- Automations are running on a schedule
+- Your memory file is rich with months of accumulated context
+- Every new AI session starts with full context — zero repetition
+
+**The key insight:** The longer you use it, the smarter it gets. This is not a one-time setup — it's a compounding system.
+
+---
+
+## For VPS / Docker Users
+
+If you're running the Goldie Stack on a VPS (like the Agent OS system):
+- Days 1-3 (OMI setup) are replaced by deploying the Goldie Stack compose project
+- The Obsidian vault is pre-configured at `/data/obsidian-vault/`
+- Hermes Agent and OpenClaw are already connected to the vault
+- Focus your first 30 days on **populating the vault** with your business context and **building automations**
+
+---
+
+## Related
+
+- For the full 30-step SOP: `goldie-stack-sop.md`
+- For the quickstart (Docker/VPS deployment): `goldie-stack-quickstart.md`
+- For the prompt library: `goldie-stack-prompts.md`
+- For the capability reference: `goldie-stack-capabilities-general.md`

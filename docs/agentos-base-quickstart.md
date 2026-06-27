@@ -107,6 +107,12 @@ Open an agent → give it a real task (e.g. "draft a content plan from my goals"
 
 ---
 
+## Resources & Updates
+
+- **ZIP file** — available in the Resources section of the Skool post (contains full Agent OS project + README)
+- **UPDATE.md / UPDATE-WITH-AI.md** — included in the zip file for updating old versions
+- **Last updated:** 27th June 2026 (check the Skool post for the latest version)
+
 ## Notes
 
 - ZIP file available in Resources section of the Skool post
