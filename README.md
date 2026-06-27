@@ -28,7 +28,8 @@ Then open `https://agentos.your-domain.com`
 - **#1** (this): Base Agent OS Dashboard + Connector — 2 containers ✅
 - **#2**: Infinite Memory upgrade (Goldie Stack) — ✅
 - **#3**: OpenClaw capability reference — ✅ `docs/openclaw-capabilities-general.md`
-- **#4+**: Extensions — coming soon
+- **#4**: Hermes Agent capability reference — ✅ `docs/hermes-agent-capabilities-general.md`
+- **#5+**: Extensions — coming soon
 
 ## Infrastructure Requirements
 
@@ -45,6 +46,9 @@ Then open `https://agentos.your-domain.com`
 | `docs/openclaw-capabilities-general.md` | OpenClaw capability reference (general) |
 | `docs/openclaw-capabilities-vps-annotated.md` | OpenClaw capability reference (VPS-annotated) |
 | `docs/openclaw-agentos-ecosystem.md` | OpenClaw ↔ Agent OS integration guide |
+| `docs/hermes-agent-capabilities-general.md` | Hermes Agent capability reference (general) |
+| `docs/hermes-agent-capabilities-vps-annotated.md` | Hermes Agent capability reference (VPS-annotated) |
+| `docs/hermes-agent-agentos-ecosystem.md` | Hermes ↔ Agent OS integration guide |
 | `version2/DEPLOYMENT.md` | Version 2 deployment guide |
 
 ## License
