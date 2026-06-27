@@ -40,6 +40,7 @@ Then open `https://agentos.your-domain.com`
 
 ## Documentation
 
+### Capability References
 | File | Purpose |
 |------|---------|
 | `docs/VPS-AUDIT.md` | Post-installation VPS audit |
@@ -49,6 +50,34 @@ Then open `https://agentos.your-domain.com`
 | `docs/hermes-agent-capabilities-general.md` | Hermes Agent capability reference (general) |
 | `docs/hermes-agent-capabilities-vps-annotated.md` | Hermes Agent capability reference (VPS-annotated) |
 | `docs/hermes-agent-agentos-ecosystem.md` | Hermes ↔ Agent OS integration guide |
+
+### QuickStart Guides
+| File | Purpose |
+|------|---------|
+| `docs/agentos-base-quickstart.md` | Agent OS Base — QuickStart |
+| `docs/goldie-stack-quickstart.md` | Goldie Stack — QuickStart |
+| `docs/openclaw-quickstart.md` | OpenClaw — QuickStart |
+| `docs/hermes-quickstart.md` | Hermes Agent — QuickStart |
+
+### Launch Plans
+| File | Purpose |
+|------|---------|
+| `docs/agentos-base-launch-plan.md` | Agent OS Base — Launch Plan |
+| `docs/goldie-stack-launch-plan.md` | Goldie Stack — Launch Plan |
+| `docs/openclaw-launch-plan.md` | OpenClaw — Launch Plan |
+| `docs/hermes-launch-plan.md` | Hermes Agent — Launch Plan |
+
+### AI Prompt Libraries
+| File | Purpose |
+|------|---------|
+| `docs/agentos-base-prompts.md` | Agent OS Base — Prompts |
+| `docs/goldie-stack-prompts.md` | Goldie Stack — Prompts |
+| `docs/openclaw-prompts.md` | OpenClaw — Prompts |
+| `docs/hermes-prompts.md` | Hermes Agent — Prompts |
+
+### Tutorials & Deployment
+| File | Purpose |
+|------|---------|
 | `version2/DEPLOYMENT.md` | Version 2 deployment guide |
 | `docs/tutorial-skool-post-conversion.md` | DIY tutorial: How to convert a Skool post into Agent OS docs |
 
