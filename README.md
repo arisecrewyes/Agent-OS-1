@@ -50,6 +50,7 @@ Then open `https://agentos.your-domain.com`
 | `docs/hermes-agent-capabilities-vps-annotated.md` | Hermes Agent capability reference (VPS-annotated) |
 | `docs/hermes-agent-agentos-ecosystem.md` | Hermes ↔ Agent OS integration guide |
 | `version2/DEPLOYMENT.md` | Version 2 deployment guide |
+| `docs/tutorial-skool-post-conversion.md` | DIY tutorial: How to convert a Skool post into Agent OS docs |
 
 ## License
 
