@@ -99,6 +99,30 @@ This imports: SOUL.md, memories, skills, command allowlist, messaging settings, 
 
 > Julian's take: "Hermes is by far the best AI agent I've ever used." But OpenClaw's community and ecosystem are larger.
 
+## 🆕 New in v0.9 (From Post #5)
+
+### Hermes Dashboard
+```bash
+hermes dashboard
+```
+Launches a full mission control web interface at `localhost`. Includes:
+- Scheduled tasks (24/7 autonomous automations)
+- Skills manager (saved expert automations)
+- Config panel (models, delegation, memory, voice, API keys)
+- Token usage analytics and session monitoring
+
+### Agent Teams
+Run multiple Hermes agents together:
+- **Profiles:** `hermes profile create <name>` → isolated personalities
+- **Telegram Group Chat:** connect multiple agents to the same group
+- **Paperclipip:** https://github.com/NousResearch/hermes-paperclip-adapter
+- **Hermes Workspace:** https://github.com/outsourc-e/hermes-workspace
+- **Multica:** https://github.com/multica-ai/multica
+
+### One-Click Setups
+- **Ollama:** `curl -fsSL https://ollama.com/install.sh | sh` then `ollama launch hermes`
+- **MaxHermes:** alternative one-click install (simpler but less reliable)
+
 ## Key Principles
 
 1. **The more you use it, the better it gets.** This is a compounding effect.

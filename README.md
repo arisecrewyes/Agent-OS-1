@@ -29,7 +29,7 @@ Then open `https://agentos.your-domain.com`
 - **#2**: Infinite Memory upgrade (Goldie Stack: Obsidian + Memory Engine + Hermes) — ✅ Deployed
 - **#3**: OpenClaw capability reference — ✅ Documented
 - **#4**: Hermes Agent capability reference — ✅ Documented
-- **#5+**: Extensions — coming soon
+- **#5**: Hermes Agent — Build & Automate Anything (condensed tutorial, v0.9 features) — ✅ Documented
 
 ## Infrastructure Requirements
 
@@ -107,6 +107,14 @@ Then open `https://agentos.your-domain.com`
 | File | Purpose |
 |------|---------|
 | `docs/goldie-stack-omi-tool.md` | OMI — The memory capture engine (Layer 1 & 2 of the Infinite Context Engine) |
+
+### 📋 Hermes Agent — Post #5 Updates (v0.9)
+| File | Purpose |
+|------|---------|
+| `docs/hermes-agent-teams.md` | Agent Teams deep-dive (Profiles, Telegram, Paperclipip, Hermes Workspace, Multica) |
+| `docs/hermes-dashboard.md` | Hermes Dashboard (v0.9) — mission control, scheduled tasks, skills, config |
+| `docs/hermes-one-click-setups.md` | One-Click Setups (Ollama + MaxHermes) |
+| `docs/hermes-commands-reference.md` | Complete CLI command reference |
 
 ### 📊 Other
 | File | Purpose |

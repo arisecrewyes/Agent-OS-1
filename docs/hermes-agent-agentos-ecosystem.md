@@ -271,5 +271,51 @@ For the full capability reference, see:
 
 - Tags: `agent-os`, `architecture`, `hermes`, `integration`, `ecosystem`
 - VPS: Hostinger 31.220.62.81 (srv1121935)
-- Hermes Version: v0.6 (at time of course)
+- Hermes Version: v0.9 (at time of Post #5)
 - Last Updated: 2026-06-27
+
+---
+
+## 🆕 Agent Teams (v0.9 — Post #5 Update)
+
+Hermes supports running multiple agents as a team. On the Agent OS VPS:
+
+### Profiles
+Run multiple isolated Hermes instances via Docker. Each profile = separate container with own config/model/memory.
+```bash
+hermes profile create <name>
+```
+
+### Telegram Group Chat
+Connect multiple Hermes agents to the same Telegram group. No additional Docker config needed.
+
+### Agent Team Frameworks
+Open-source frameworks deployable alongside Hermes on the VPS:
+- **Paperclipip:** https://github.com/NousResearch/hermes-paperclip-adapter
+- **Hermes Workspace:** https://github.com/outsourc-e/hermes-workspace
+- **Multica:** https://github.com/multica-ai/multica
+
+> ⚠️ These require additional Docker configuration and Traefik routing for web dashboard access.
+
+## 🆕 Hermes Dashboard (v0.9)
+
+`hermes dashboard` launches a web-based mission control. On the VPS it runs inside the Hermes Docker container and requires SSH tunnel or Traefik route for external access.
+
+Features:
+- Scheduled tasks (24/7 autonomous automations)
+- Skills manager (saved expert automations on demand)
+- Config panel (models, delegation, memory, voice, API keys)
+- Token usage analytics and session monitoring
+
+## 🆕 One-Click Setups
+
+- **Ollama:** Add to Docker compose with GPU passthrough for local models. `ollama launch hermes` for one-click Hermes startup.
+- **MaxHermes:** Alternative Docker image for quick setup. Less control but easier.
+
+## Related
+
+- For agent teams details: `hermes-agent-teams.md`
+- For the dashboard: `hermes-dashboard.md`
+- For one-click setups: `hermes-one-click-setups.md`
+- For the general capability reference: `hermes-agent-capabilities-general.md`
+- For the VPS-annotated reference: `hermes-agent-capabilities-vps-annotated.md`

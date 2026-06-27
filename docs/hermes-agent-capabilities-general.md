@@ -1,10 +1,12 @@
 # Hermes Agent — Complete Capability Reference (General Version)
 
-> Source: Julian Goldie SEO — Skool Post #4: "Hermes: Full 2 Hour Course!"
-> Original Video: https://www.youtube.com/watch?v=8avW0D2sEn8
+> Source: Julian Goldie SEO — Skool Post #4: "Hermes: Full 2 Hour Course!" + Post #5 updates
+> Original Video: https://www.youtube.com/watch?v=8avW0D2sEn8 (Post #4) + https://www.youtube.com/watch?v=0oVCerqrR7A (Post #5)
 > GitHub: https://github.com/NousResearch/hermes-agent
 > Date: 2026-06-27
 > Purpose: Comprehensive capability reference for any Hermes Agent user
+
+> 🆕 **Post #5 Updates:** Agent Teams (Profiles, Telegram, Paperclipip, Hermes Workspace, Multica), Hermes Dashboard (v0.9), One-Click Setups (Ollama, MaxHermes). See dedicated files for full details.
 
 ---
 
