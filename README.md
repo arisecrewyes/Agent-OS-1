@@ -135,6 +135,12 @@ Then open `https://agentos.your-domain.com`
 |------|---------|
 | `docs/VPS-AUDIT.md` | Post-installation VPS audit |
 
+## Skills
+
+| Skill | Purpose |
+|-------|---------|
+| `skills/lead-connector-bridge/` | Connect AI agents to GHL, GoStackBase, BuildwithOS — template recreation, contacts, funnels, automations |
+
 ## Storage Note
 
 All documentation files are only created when content exists — no empty/placeholder files. This keeps the repo lean and VPS storage minimal.
