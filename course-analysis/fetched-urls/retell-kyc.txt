@@ -1,0 +1,36 @@
+KYC Verification - Retell AI
+Documentation Index
+Fetch the complete documentation index at:
+/llms.txt
+Use this file to discover all available pages before exploring further.
+Skip to main content
+Search...
+Navigation
+Accounts and Workspace
+KYC Verification
+Before you can make outbound calls with Retell, you’ll need to complete KYC (Know Your Customer) verification. Depending on your account information, there are a few ways to pass KYC.
+​
+How to Pass KYC
+​
+Automatic verification
+We may automatically verify your account based on the information you provided during registration. If this applies, your KYC will be approved without any additional steps.
+​
+Verification via Persona
+If automatic verification is not possible, you will be asked to complete KYC through Persona using your government-issued ID.
+You can go to “Phone Numbers”, click on any of your numbers, and you’ll see the interface where you can start the KYC process.
+We currently support verification in 83 countries.
+If your country is not listed, please contact us — we will review your case based on risk and business needs and may enable verification for your country.
+​
+ID Verification Restrictions
+Each person can verify only one account. Our system detects duplicate identities, so even using a different government ID may be flagged as a duplicate. If your previous account was verified and later deleted, contact our support team to request a manual review.
+Was this page helpful?
+Yes
+No
+Access Control
+Previous
+Billing overview and usage tracking
+Next
+⌘
+I
+Assistant
+Responses are generated using AI and may contain mistakes.

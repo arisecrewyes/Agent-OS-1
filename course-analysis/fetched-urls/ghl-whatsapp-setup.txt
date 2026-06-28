@@ -1,0 +1,222 @@
+How to Set Up WhatsApp for a Sub-Account in HighLevel : HighLevel Support Portal
+All
+Articles
+Recent Searches
+Clear all
+No recent searches
+Popular Articles
+Articles
+View all
+Topics
+View all
+Tickets
+View all
+Sorry! nothing found for
+How to Set Up WhatsApp for a Sub-Account
+Modified on: Fri, 10 Apr, 2026 at  4:46 AM
+WhatsApp Business Integration Guide
+Connect your WhatsApp Business account to LeadConnector. Choose the method that fits your situation.
+Choose Your Method
+1
+Connect Your Existing WhatsApp Business App
+Keep using your existing app alongside the platform (Coexistence)
+2
+Connect a New WhatsApp Business Number
+Starting fresh with a brand-new number
+3
+Migrate from an Existing BSP
+Switch from another Business Solution Provider
+Method 1
+Connect Your Existing WhatsApp Business App
+Unsupported Countries
+The Coexistence feature is not available for phone numbers from
+Nigeria
+or
+South Africa
+.
+1
+Start the Signup Process
+Navigate to
+Settings > WhatsApp
+and select
+Connect your WhatsApp
+2
+Continue with Signup
+Follow the on-screen instructions to begin the registration process.
+3
+Connect to LeadConnector
+Click
+Continue
+to proceed with the integration.
+4
+Select WhatsApp Business App
+Click
+Connect a WhatsApp Business App
+, then tap
+Next
+.
+5
+Enter Your Phone Number
+Add your WhatsApp Business phone number and tap
+Next
+.
+6
+Verify Your Account Details
+Review your WhatsApp Business Account details and make any corrections before proceeding.
+7
+Import Contacts & Chat History
+Import contacts and up to six months of chat history from the WhatsApp Business App into LeadConnector.
+Update your WhatsApp Business App to the
+latest version
+before this step.
+Look for a message from the official Facebook Business account and
+scan the QR code
+when prompted.
+8
+Connect to the Business Platform
+Scan the QR code to complete the connection. You can continue using your WhatsApp Business App alongside the Business Platform.
+9
+Share Chat History & Contacts
+Your contacts and conversations will be securely synced with LeadConnector.
+10
+Setup Complete
+Your WhatsApp Business App is now successfully integrated with LeadConnector.
+11
+Review and Confirm
+Check all entered details carefully, then click
+Confirm
+.
+✓
+Integration Complete
+Click
+Finish
+. Your WhatsApp Business App is fully integrated with LeadConnector.
+NOTE
+1. Sending template messages is not supported via the WhatsApp Business App — they can only be sent through the CRM.
+2. You will manage your WhatsApp profile from the WhatsApp Business App, not the CRM.
+3. You can only have a maximum of one phone number under Coexistence.
+Method 2
+Connect a New WhatsApp Business Number
+1
+Start the Signup Process
+Navigate to
+Settings > WhatsApp
+and click
+Create a new WhatsApp business account.
+2
+Continue with Facebook
+Click
+Continue with Facebook
+and log in using the Facebook account associated with your business.
+3
+Begin Setup
+Tap
+Continue
+to initiate the integration process.
+4
+Enter Business Details
+Fill in all required business information, select
+Create WhatsApp Business Account
+, then click
+Next
+.
+5
+Add Your Phone Number
+Enter the phone number you want to integrate. Make sure it's active and accessible for verification.
+6
+Verify via OTP
+Enter the one-time password received by SMS or voice call, then click
+Next
+.
+7
+Review and Confirm
+Check all entered details carefully, then click
+Confirm
+.
+✓
+Integration Complete
+Your WhatsApp Business Account is now successfully integrated and ready to use.
+Method 3
+Migrate from an Existing BSP
+1
+Start the Signup Process
+Navigate to
+Settings > WhatsApp
+and click
+Migrating from an existing BSP (Business Solution Provider)
+.
+2
+Begin Setup
+Tap
+Continue
+to initiate the migration process.
+3
+Select Business Assets
+Choose the business assets you'd like to migrate. Make sure you select the correct WhatsApp Business Account and associated assets.
+4
+Enter Business Details
+Fill in all required business information accurately, then click
+Next
+.
+5
+Add Your Phone Number
+Enter the phone number you wish to migrate. Ensure it's active and accessible for verification, then click
+Next
+.
+6
+Verify Your Phone Number
+Click
+Next
+to receive your verification code and proceed with number verification.
+7
+Enter the OTP
+Enter the one-time password received by SMS or voice call, then click
+Next
+.
+8
+Review and Confirm
+Check all entered details carefully, then click
+Confirm
+to complete the migration.
+✓
+Migration Complete
+Your WhatsApp Account has been successfully migrated and is ready to use.
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article
+Print
+Articles in this Folder
+WhatsApp Full Setup Guide for Agency
+WhatsApp - Messaging Limits
+How to Set Up WhatsApp for a Sub-Account
+WhatsApp Pricing, Billing, and Rebilling Guide
+WhatsApp Template Statuses and Best Practice
+How to create a WhatsApp Template?
+Related Articles
+WhatsApp Full Setup Guide for Agency
+How to Use the WhatsApp Business Onboarding Checklist
+How to use LeadConnector/Twilio phone number for WhatsApp Business Account
+WhatsApp Pricing, Billing, and Rebilling Guide
+Conversations AI Bots can now Respond to Audio
+HighLevel Pricing Guide
+X
+0 of 0

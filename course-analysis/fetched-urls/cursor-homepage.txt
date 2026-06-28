@@ -1,0 +1,205 @@
+Cursor: AI coding agent
+Product
+→
+Enterprise
+Pricing
+Resources
+→
+Sign in
+Contact
+Contact sales
+Download
+Cursor is your coding agent for building ambitious software.
+Download for macOS
+⤓
+Get started
+→
+Request a demo
+→
+This element contains an interactive demo for sighted users showing multiple Cursor interfaces: Cursor Desktop interface, Cursor CLI interface. The interface is displayed over a subtle, solid brand background.
+Cursor Desktop
+Get Cursor
+In Progress
+3
+Build Landing Page
+Reading docs
+Analyze Tab vs Agent Usage Patterns
+Fetching data
+Plan Mission Control
+Generating plan
+Ready for Review
+3
+PyTorch MNIST Experiments
+10m
+PyTorch MNIST Experiments
+Set up Cursor Rules for Dashboard
+30m
+Set up Cursor Rules for Dashboard
+Bioinformatics Tools
+45m
++
+135
+-
+21
+·
+Bioinformatics Tools
+http://localhost:3000
+Software creation is changing. We are a group of researchers, engineers, and technologists inventing at the edge of what's useful and possible.
+We have much to learn, try, and build.
+See projects
+Join our team →
+2026
+Secure codebase indexing
+Published
+2026
+Semantic search
+Published
+2025
+Reinforcement learning
+Published
+2024
+Shadow workspaces
+Published
+2024
+Multi-agent collaboration
+Published
+2023
+Context-aware completions
+Published
+2023
+Intelligent code navigation
+Published
+2022
+Fast inference optimization
+Published
+2022
+Language model fine-tuning
+Published
+Build Landing Page
+make a landing page based on attached docs explaining what we do
+Agent
+Composer 2.5
+Cursor CLI
+Get CLI
+Cursor Agent
+~/cursor/cursor-web
+Analyze Tab vs Agent Usage Patterns
+Help me understand how teams split their focus between the tab view and the agents panel across our workspaces.
+→
+Composer 2.5
+/
+for commands ·
+@
+for files
+Trusted every day by teams that build world-class software
+Agents turn ideas into code
+Accelerate development by handing off tasks to Cursor, while you focus on making decisions.
+Learn about agentic development
+→
+This element contains an interactive demo for sighted users. It's a demonstration of Cursor's IDE showing AI-powered coding assistance features. The interface is displayed over a subtle, solid brand background.
+Cursor
+Get Cursor
+feature-prd.md
+presence.ts
+Plans
+feature-prd.md
+Composer 2.5
+Build
+Mission Control Interface
+A grid view of all open windows as scaled previews, allowing quick selection to bring any window to front.
+Trigger
+Menu item in MenuBar.tsx (View > Mission Control), hotkey F3, or double-tap desktop.
+View Behavior
+Overlay existing windows into a grid of live previews with spring-based layout animations and shared element transitions.
+3
+Tasks
+Add multiplayer mode to useAppStore.ts
+Create a new MissionControlView.tsx component
+Update AppManager.tsx to apply expose modes.
+Add a task, ⌘K to generate...
+Plan Mission Control
+let's build a mission control interface, similar to the expose-style window manager on macOS
+Plan
+Composer 2.5
+Works autonomously, runs in parallel
+Agents use their own computers to build, test, and demo features end to end for you to review.
+Learn about cloud agents →
+
+cursor.com/agent
+
+This Week
+Acme Research Dashboard
+
+Live Telemetry Pipeline
+
+Zero-Downtime Deploys
+This Month
+
+Binary Protocol Parser
+Edge Cache Invalidation
+
+Auth Token Rotation
+Acme Research Dashboard
+let's build a dashboard to make our research findings interactive
+Explored
+12 files, 4 searches
+On it. I'll build the dashboard using your theme config, wire up the research data, and add interactive charts with public access controls.
+Worked for 14m 22s
+Processed
+screen recording
+Done! Here's a walkthrough of the dashboard.
+Acme Labs
+Summary
+Built the interactive dashboard with realtime charts, data from Snowflake, and shadcn components. Deployed to staging via Vercel.
+Add a follow up...
+Agent
+Opus 4.8
+In every tool, at every step
+Cursor runs in your terminal, collaborates in Slack, and reviews PRs in GitHub.
+curl
+https://cursor.com/install
+-fsS
+|
+bash
+This element contains an interactive demo for sighted users showing multiple Cursor interfaces: the CLI with command-line assistance, Slack integration for team communication. The interface is displayed over a scenic painted landscape wallpaper, giving the demo an artistic backdrop.
+Slack
+Get Cursor for Slack
+#feature-realtime-sync
+8 members
+swhitmore
+5m
+i wanna be able to go to cursor.com/changelog#1.0 to see 1.0 changelog
+eric
+4m
+checks out
+@cursor
+can you take a stab?
+Cursor
+APP
+2m
+I added direct linking for changelog entries and updated the Node.js version constraints across the project for better maintainability.
+View PR
+Open in Cursor
+Open in Web
+cursor-agent
+Get CLI
+>
+agent
+Cursor Agent
+~/anysphere/research · main
+→
+Plan, search, build anything
+GPT-5.5 Extra High Fast
+/
+commands
+·
+@
+files
+·
+!
+shell
+Magically accurate autocomplete
+Our specialized Tab model predicts your next action with striking speed and precision.
+Learn about Tab
+→
+This element contains an interactive demo for sighted users. It's a demonstration of Cursor's IDE showing AI-powered c

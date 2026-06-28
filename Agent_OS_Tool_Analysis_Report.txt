@@ -1,0 +1,2945 @@
+================================================================================
+AGENT OS TOOL ANALYSIS — COMPLETE RESULTS
+================================================================================
+
+Total tools analyzed: 463
+Duplicates removed: 253
+Original entries: 716
+
+================================================================================
+SECTION 1: TOOLS MATCHING EXISTING AGENT OS AGENTS (83 tools)
+================================================================================
+
+--- book-to-skill (2 matching tools) ---
+  • https://github.com/virgiliojr94/book-to-skill
+    Reason: This takes ebooks and/or PDFs and turns them into skills for OpenClaw
+    Category (Pass A): OSINT & Research, Core / Dashboard, Skills & Creation, Automation
+    Category (Pass B): Content Creation & Media, OSINT & Reconnaissance, AI Agent Frameworks, Communication & Messaging, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/ahegazy0/linux-basics-for-hackers-notes
+    Reason: This repo contains structured notes from “Linux Basics for Hackers,” turning the book into a searchable, code-adjacent k
+    Category (Pass A): Automation, Coding & Development, Skills & Creation, OSINT & Research, Memory & Brain, Core / Dashboard
+    Category (Pass B): Cybersecurity & Hacking, Social Media & Marketing, Content Creation & Media, Data & Analytics, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+--- cc-clypra (1 matching tools) ---
+  • https://github.com/AIEraDev/Clypra
+    Reason: About
+A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capc
+    Category (Pass A): Automation, Coding & Development, Skills & Creation, Content Creation, Core / Dashboard
+    Category (Pass B): Data & Analytics, Content Creation & Media, Utilities & Infrastructure, AI Agent Frameworks, Coding & Development, Education & Learning, Finance & Crypto, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: Needs building
+
+--- cc-hyperframes (1 matching tools) ---
+  • https://github.com/heygen-com/hyperframes?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev
+    Reason: HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 vid
+    Category (Pass A): Automation, Coding & Development, Skills & Creation, Content Creation, Core / Dashboard, AI Workspace
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Utilities & Infrastructure, AI Agent Frameworks, Communication & Messaging, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+--- cc-leads (1 matching tools) ---
+  • https://github.com/Geolavor/leads-generator-app
+    Reason: Prospects AI browser — extract contact details from the Internet in real time
+    Category (Pass A): Automation, Core / Dashboard, Coding & Development, Content Creation
+    Category (Pass B): Coding & Development, Social Media & Marketing, AI & Machine Learning, Communication & Messaging
+    SaaS/Chat: SaaS
+    Image: Needs building
+
+--- cc-nango (2 matching tools) ---
+  • https://github.com/NangoHQ/nango
+    Reason: Nango is an open-source unified API for SaaS integrations, letting you connect to dozens of third-party services (HubSpo
+    Category (Pass A): Automation, Coding & Development, Content Creation, Core / Dashboard, AI Workspace
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Data & Analytics, Utilities & Infrastructure, AI Agent Frameworks, Coding & Development, Finance & Crypto, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/rmyndharis/OpenWA
+    Reason: OpenWA appears here in the context of WhatsApp automation/agent integration, likely a fork or wrapper around WhatsApp We
+    Category (Pass A): Automation, Core / Dashboard, Coding & Development, Content Creation
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Utilities & Infrastructure, AI Agent Frameworks, Coding & Development
+    SaaS/Chat: Both
+    Image: Needs building
+
+--- cc-open-gen-ai (2 matching tools) ---
+  • https://github.com/Anil-matcha/Open-Generative-AI
+    Reason: About
+Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Mi
+    Category (Pass A): Automation, Coding & Development, Content Creation, Core / Dashboard, AI Workspace
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Data & Analytics, Communication & Messaging, Coding & Development, Education & Learning, Productivity & Organization, Finance & Crypto, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: Needs building
+
+  • https://github.com/Anil-matcha/Open-Generative-AI (also in B)
+    Reason: See above.
+    Category (Pass A): Core / Dashboard
+    Category (Pass B): Coding & Development, AI & Machine Learning
+    SaaS/Chat: TBD
+    Image: Needs building
+
+--- cc-reclip (1 matching tools) ---
+  • https://github.com/averygan/reclip
+    Reason: About
+Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
+    Category (Pass A): Core / Dashboard, AI Workspace, Coding & Development, Content Creation
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Utilities & Infrastructure, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: SaaS
+    Image: Needs building
+
+--- cc-salesgpt (1 matching tools) ---
+  • https://github.com/filip-michalsky/SalesGPT
+    Reason: Context-aware AI Sales Agent — automates sales outreach via voice, email, SMS, WhatsApp
+    Category (Pass A): Automation, Core / Dashboard, Coding & Development, Content Creation
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, AI Agent Frameworks, Communication & Messaging, Coding & Development, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+--- cc-social-scrape (1 matching tools) ---
+  • https://github.com/cporter202/social-media-scraping-apis
+    Reason: A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebo
+    Category (Pass A): Automation, Coding & Development, Skills & Creation, Content Creation, OSINT & Research, Core / Dashboard
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, OSINT & Reconnaissance, Data & Analytics, Utilities & Infrastructure, Communication & Messaging, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: Needs building
+
+--- cc-vibevoice (1 matching tools) ---
+  • https://github.com/microsoft/VibeVoice
+    Reason: Open-Source Frontier Voice AI
+    Category (Pass A): Core / Dashboard, Content Creation
+    Category (Pass B): Coding & Development, Content Creation & Media, AI & Machine Learning
+    SaaS/Chat: TBD
+    Image: Needs building
+
+--- cc-video-use (1 matching tools) ---
+  • https://github.com/browser-use/video-use
+    Reason: Agent controlling browsers with video-style reasoning (probably built on browser-use). Good for complex web workflows th
+    Category (Pass A): Automation, Coding & Development, Content Creation, Core / Dashboard, AI Workspace
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, AI Agent Frameworks, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: Needs building
+
+--- cc-vimax (1 matching tools) ---
+  • https://github.com/HKUDS/ViMax
+    Reason: Agentic Video Generation — Director, Screenwriter, Producer, Generator All-in-One
+    Category (Pass A): Automation, Core / Dashboard, Coding & Development, Content Creation
+    Category (Pass B): Coding & Development, Content Creation & Media, AI & Machine Learning, AI Agent Frameworks
+    SaaS/Chat: Chat
+    Image: Needs building
+
+--- cc-wa-automate (1 matching tools) ---
+  • https://github.com/open-wa/wa-automate-nodejs
+    Reason: WA-Automate / OpenWA — Node.js WhatsApp automation
+    Category (Pass A): Automation, Core / Dashboard, Coding & Development, Content Creation
+    Category (Pass B): Coding & Development, Social Media & Marketing, Utilities & Infrastructure
+    SaaS/Chat: Chat
+    Image: Needs building
+
+--- goldie-codex (5 matching tools) ---
+  • https://github.com/affaan-m/ECC
+    Reason: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development f
+    Category (Pass A): Coding & Development, Skills & Creation, OSINT & Research, Memory & Brain, Core / Dashboard
+    Category (Pass B): Cybersecurity & Hacking, Data & Analytics, Utilities & Infrastructure, AI Agent Frameworks, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/Lum1104/Understand-Anything
+    Reason: Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and 
+    Category (Pass A): Automation, Coding & Development, Skills & Creation, Content Creation, OSINT & Research, Memory & Brain, Core / Dashboard
+    Category (Pass B): Data & Analytics, Content Creation & Media, Utilities & Infrastructure, AI Agent Frameworks, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/ultraworkers/claw-code
+    Reason: 100K+ stars repo — built in Rust using oh-my-codex
+    Category (Pass A): Automation, Core / Dashboard, Coding & Development
+    Category (Pass B): Coding & Development
+    SaaS/Chat: SaaS
+    Image: Needs building
+
+  • https://github.com/openai/codex
+    Reason: This is the OpenAI Codex repository, which historically documented and demoed the Codex model used for code generation a
+    Category (Pass A): Automation, AI Workspace, Coding & Development, Core / Dashboard
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, AI Agent Frameworks, Communication & Messaging, Coding & Development, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: Needs building
+
+  • https://github.com/duolahypercho/fusion-fable
+    Reason: About
+Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via code
+    Category (Pass A): Core / Dashboard, AI Workspace, Coding & Development, Skills & Creation
+    Category (Pass B): Coding & Development, Education & Learning, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+--- hermes (43 matching tools) ---
+  • https://github.com/0x4m4/hexstrike-ai
+    Reason: hexstrike-ai
+HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomo
+    Category (Pass A): Automation, Coding & Development, OSINT & Research, Core / Dashboard, AI Workspace
+    Category (Pass B): Cybersecurity & Hacking, Social Media & Marketing, Content Creation & Media, Data & Analytics, Utilities & Infrastructure, AI Agent Frameworks, Coding & Development, Education & Learning, Productivity & Organization, Finance & Crypto, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://hermes-agent.nousresearch.com/docs/skills/
+    Reason: Hermes Agent Skills Hub
+    Category (Pass A): OSINT & Research, AI Workspace, Skills & Creation, Core / Dashboard
+    Category (Pass B): Data & Analytics, Education & Learning, AI Agent Frameworks
+    SaaS/Chat: Chat
+    Image: N/A - Not a GitHub URL
+
+  • https://github.com/aliasrobotics/cai
+    Reason: Cybersecurity AI (CAI) is a lightweight, open-source framework that empowers security professionals to build and deploy 
+    Category (Pass A): OSINT & Research, Core / Dashboard, Coding & Development, Automation
+    Category (Pass B): Cybersecurity & Hacking, Social Media & Marketing, Content Creation & Media, Data & Analytics, Utilities & Infrastructure, AI Agent Frameworks, Communication & Messaging, Coding & Development, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: Needs building
+
+  • https://www.reddit.com/r/AIAgentsInAction/comments/1tuvhvq/the_soulmd_template_behind_my_hermes_agent_never/?rdt=62423
+    Reason: SOUL to repo Ai Agnt Fraework for Hermes Agent
+    Category (Pass A): Automation, AI Workspace, Core / Dashboard
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, AI Agent Frameworks, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: N/A - Not a GitHub URL
+
+  • https://github.com/kaymen99/sales-outreach-automation-langgraph
+    Reason: Automate lead research, qualification, outreach with AI agents + LangGraph + CRM
+    Category (Pass A): OSINT & Research, Core / Dashboard, Automation
+    Category (Pass B): Social Media & Marketing, Data & Analytics, Utilities & Infrastructure, AI Agent Frameworks, Coding & Development, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/mautic/mautic
+    Reason: Mautic — open-source marketing automation platform
+    Category (Pass A): Automation, AI Workspace, Core / Dashboard
+    Category (Pass B): Coding & Development, Social Media & Marketing, Utilities & Infrastructure, Productivity & Organization
+    SaaS/Chat: Both
+    Image: Needs building
+
+  • https://github.com/n8n-io/n8n
+    Reason: Open-source workflow automation (30k+ stars) — visual low-code lead gen workflows
+    Category (Pass A): Automation, AI Workspace, Coding & Development, Core / Dashboard
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Utilities & Infrastructure, Coding & Development, Productivity & Organization
+    SaaS/Chat: Both
+    Image: Needs building
+
+  • https://github.com/NousResearch/hermes-agent
+    Reason: The agent that grows with you
+    Category (Pass A): OSINT & Research, AI Workspace, Core / Dashboard
+    Category (Pass B): Coding & Development, Data & Analytics, AI Agent Frameworks
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/open-wa/wa-automate-nodejs
+    Reason: WA-Automate / OpenWA — Node.js WhatsApp automation
+    Category (Pass A): Automation, Core / Dashboard, Coding & Development, Content Creation
+    Category (Pass B): Coding & Development, Social Media & Marketing, Utilities & Infrastructure
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/parcelvoy/platform
+    Reason: Parcelvoy — open-source multi-channel marketing automation (email, SMS, push)
+    Category (Pass A): Automation, Core / Dashboard
+    Category (Pass B): Social Media & Marketing, Utilities & Infrastructure, Communication & Messaging, Coding & Development, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: Needs building
+
+  • https://github.com/PaulleDemon/Email-automation
+    Reason: Open-source cold email outreach tool with drip sequences
+    Category (Pass A): Automation, Core / Dashboard
+    Category (Pass B): Social Media & Marketing, Utilities & Infrastructure, Communication & Messaging, Coding & Development, Education & Learning, AI & Machine Learning
+    SaaS/Chat: TBD
+    Image: Needs building
+
+  • https://github.com/smicallef/spiderfoot
+    Reason: SpiderFoot — open-source intelligence automation tool
+    Category (Pass A): OSINT & Research, Core / Dashboard, Coding & Development, Automation
+    Category (Pass B): Social Media & Marketing, Utilities & Infrastructure, OSINT & Reconnaissance, Communication & Messaging, Coding & Development, Education & Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/OpenJarvis/OpenJarvis
+    Reason: Open Jarvis-style assistant/agent (voice, tasks, automations). General assistant you can extend. Unique in being voice/a
+    Category (Pass A): Automation, Core / Dashboard, Content Creation
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Utilities & Infrastructure, AI Agent Frameworks, Coding & Development, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://ultimatewebscraper.com/
+    Reason: SaaS/course/tool around large-scale scraping automation. Might provide UI + code templates. Unique by being a packaged c
+    Category (Pass A): Automation, Coding & Development, Content Creation, OSINT & Research, Core / Dashboard
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, OSINT & Reconnaissance, Utilities & Infrastructure, Coding & Development, Education & Learning, Productivity & Organization
+    SaaS/Chat: Both
+    Image: N/A - Not a GitHub URL
+
+  • https://digitaldfyproducts.com/products/the-ultimate-n8n-automation-bundle
+    Reason: Bundle of n8n workflows/templates. You can use them as reference architectures. Unique for dense prebuilt n8n scenarios.
+    Category (Pass A): Automation, AI Workspace, Coding & Development, Core / Dashboard
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Utilities & Infrastructure, Coding & Development, Education & Learning, Productivity & Organization
+    SaaS/Chat: Both
+    Image: N/A - Not a GitHub URL
+
+  • https://github.com/Moh4696/websites-100-audit
+    Reason: This repo appears to provide resources or scripts to audit 100+ websites or a structured methodology for “website audit 
+    Category (Pass A): OSINT & Research, Core / Dashboard, Coding & Development, Automation
+    Category (Pass B): Cybersecurity & Hacking, Social Media & Marketing, Content Creation & Media, Utilities & Infrastructure, Coding & Development, Productivity & Organization, Finance & Crypto
+    SaaS/Chat: Both
+    Image: Needs building
+
+  • https://github.com/pullfrog/pullfrog
+    Reason: Pullfrog is an open-source AI-powered GitHub bot that runs entirely via GitHub Actions to review pull requests, triage i
+    Category (Pass A): Automation, Coding & Development, Skills & Creation, Content Creation, Core / Dashboard, AI Workspace
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Data & Analytics, Utilities & Infrastructure, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://repodir.com/repo/cporter202-api-mega-list
+    Reason: This Repodir page points to cporter202-api-mega-list, a mega-list of APIs categorized by use case. It’s extremely useful
+    Category (Pass A): Automation, Coding & Development, Content Creation, OSINT & Research, Memory & Brain
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, OSINT & Reconnaissance, Utilities & Infrastructure, AI Agent Frameworks, Coding & Development, Finance & Crypto, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: N/A - Not a GitHub URL
+
+  • https://github.com/NangoHQ/nango
+    Reason: Nango is an open-source unified API for SaaS integrations, letting you connect to dozens of third-party services (HubSpo
+    Category (Pass A): Automation, Coding & Development, Content Creation, Core / Dashboard, AI Workspace
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Data & Analytics, Utilities & Infrastructure, AI Agent Frameworks, Coding & Development, Finance & Crypto, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/rmyndharis/OpenWA
+    Reason: OpenWA appears here in the context of WhatsApp automation/agent integration, likely a fork or wrapper around WhatsApp We
+    Category (Pass A): Automation, Core / Dashboard, Coding & Development, Content Creation
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Utilities & Infrastructure, AI Agent Frameworks, Coding & Development
+    SaaS/Chat: Both
+    Image: Needs building
+
+  • https://github.com/apurvsinghgautam/robin
+    Reason: robin is likely a personal automation or agent that handles recurring tasks (email, scheduling, notifications) akin to a
+    Category (Pass A): Automation, AI Workspace, Coding & Development, Core / Dashboard
+    Category (Pass B): Social Media & Marketing, Utilities & Infrastructure, AI Agent Frameworks, Communication & Messaging, Coding & Development, Education & Learning, Productivity & Organization, Finance & Crypto, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: Needs building
+
+  • https://github.com/chrysb/alphaclaw
+    Reason: alphaclaw is part of the Claw ecosystem, likely integrating agentic workflows with “alpha” capabilities (e.g., trading, 
+    Category (Pass A): Automation, Coding & Development, Content Creation, Memory & Brain, AI Workspace, Core / Dashboard
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Data & Analytics, Utilities & Infrastructure, AI Agent Frameworks, Coding & Development, Productivity & Organization, Finance & Crypto, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/cporter202/automate-faceless-content
+    Reason: This repo contains scripts and workflows for automating faceless content creation (shorts, posts, etc.) using AI. It lik
+    Category (Pass A): Automation, Coding & Development, Content Creation, Core / Dashboard, AI Workspace
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Utilities & Infrastructure, Communication & Messaging, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/DigitalPlatDev/FreeDomain
+    Reason: FreeDomain looks like an automation or utility project to help acquire or manage free domains or DNS setups. That can be
+    Category (Pass A): OSINT & Research, Core / Dashboard, Coding & Development, Automation
+    Category (Pass B): Social Media & Marketing, Utilities & Infrastructure, OSINT & Reconnaissance, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: Needs building
+
+  • https://repodir.com/repo/rmyndharis-openwa
+    Reason: Repodir’s page for rmyndharis/OpenWA provides metadata, description, and possibly mirrors for that WhatsApp automation p
+    Category (Pass A): Automation, Core / Dashboard, Coding & Development, Content Creation
+    Category (Pass B): Social Media & Marketing, Data & Analytics, Utilities & Infrastructure, Communication & Messaging, Coding & Development, Productivity & Organization
+    SaaS/Chat: Chat
+    Image: N/A - Not a GitHub URL
+
+  • https://www.skool.com/codespring-3000/about?bhlid=80929698dc73eaa6fed5652aa762e9d796803e68
+    Reason: This Skool page describes the “CodeSpring 3000” community/course, likely focused on AI agents, automation, or coding. It
+    Category (Pass A): Automation, Coding & Development, Content Creation, Core / Dashboard, AI Workspace
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Utilities & Infrastructure, AI Agent Frameworks, Communication & Messaging, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: N/A - Not a GitHub URL
+
+  • https://omma.build/pricing
+    Reason: Omma.build’s pricing page outlines the cost tiers and features of their product (likely an automation or app-building pl
+    Category (Pass A): Automation, Coding & Development, Content Creation, Core / Dashboard, AI Workspace
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Utilities & Infrastructure, Coding & Development, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: N/A - Not a GitHub URL
+
+  • https://github.com/ruzin/stenoai
+    Reason: StenoAI is likely a tool that provides transcription, summarization, or note-taking automation, possibly for meetings or
+    Category (Pass A): Automation, Coding & Development, Content Creation, OSINT & Research, Core / Dashboard, AI Workspace
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, OSINT & Reconnaissance, Data & Analytics, AI Agent Frameworks, Utilities & Infrastructure, Communication & Messaging, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: Needs building
+
+  • https://cobalt.tools/
+    Reason: cobalt.tools is a web tool suite (often used for multimedia downloading/processing, historically YouTube-related). It ca
+    Category (Pass A): Automation, Coding & Development, Content Creation, Core / Dashboard, AI Workspace
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Data & Analytics, Utilities & Infrastructure, Communication & Messaging, Coding & Development, Education & Learning, Productivity & Organization
+    SaaS/Chat: Both
+    Image: N/A - Not a GitHub URL
+
+  • https://www.hostinger.com/openclaw?session=…
+    Reason: This is Hostinger’s OpenClaw landing/offer page, bundling hosting tailored for OpenClaw-based projects. It likely emphas
+    Category (Pass A): Automation, AI Workspace, Coding & Development, Core / Dashboard
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Utilities & Infrastructure, AI Agent Frameworks, Communication & Messaging, Coding & Development, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: N/A - Not a GitHub URL
+
+  • https://getle.ad/?utm_id=…
+    Reason: GetLe.ad appears to be a lead generation/automation product, automating outreach and follow-up. The page is likely an ad
+    Category (Pass A): Automation, AI Workspace, Coding & Development, Core / Dashboard
+    Category (Pass B): Social Media & Marketing, Data & Analytics, Utilities & Infrastructure, Communication & Messaging, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: N/A - Not a GitHub URL
+
+  • https://getbasecase.com/products/the-executive-uhd?campaign_id=…
+    Reason: “The Executive UHD” from BaseCase is a compact, portable workstation/monitor setup geared to remote professionals. It co
+    Category (Pass A): OSINT & Research, Core / Dashboard, Coding & Development, Automation
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, OSINT & Reconnaissance, Utilities & Infrastructure, Communication & Messaging, Coding & Development, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: N/A - Not a GitHub URL
+
+  • https://botcommerce.app/lifetime-deal/?utm_id=…
+    Reason: BotCommerce’s lifetime deal page; BotCommerce is likely a chatbot/automation platform for e‑commerce or sales. The page 
+    Category (Pass A): Automation, AI Workspace, Coding & Development, Core / Dashboard
+    Category (Pass B): Utilities & Infrastructure, Social Media & Marketing, Communication & Messaging, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: N/A - Not a GitHub URL
+
+  • https://appsumo.com/products/the-black-friday-bundle/?utm_id=…
+    Reason: AppSumo listing for a “Black Friday Bundle,” bundling multiple tools at a deal price. Great for seeing how bundles are p
+    Category (Pass A): OSINT & Research, Core / Dashboard, Coding & Development, Automation
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, OSINT & Reconnaissance, Utilities & Infrastructure, Coding & Development
+    SaaS/Chat: Both
+    Image: N/A - Not a GitHub URL
+
+  • https://www.aikido.dev/?ad_id=…
+    Reason: Aikido.dev is a developer-first security platform that monitors repos/infrastructure for vulnerabilities and issues. The
+    Category (Pass A): Automation, Coding & Development, Content Creation, OSINT & Research, Core / Dashboard
+    Category (Pass B): Cybersecurity & Hacking, Social Media & Marketing, Content Creation & Media, OSINT & Reconnaissance, Utilities & Infrastructure, AI Agent Frameworks, Coding & Development, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: N/A - Not a GitHub URL
+
+  • https://dealify.com/products/n8nitro?utm_id=…
+    Reason: Dealify’s page for n8NITRO, likely a performance-enhancing add-on/toolkit for n8n automations. It may include templates,
+    Category (Pass A): Automation, Core / Dashboard, Coding & Development
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Data & Analytics, Utilities & Infrastructure, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: N/A - Not a GitHub URL
+
+  • https://github.com/cporter202/API-mega-list
+    Reason: About
+This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simpl
+    Category (Pass A): Automation, Core / Dashboard, Coding & Development, Content Creation
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Utilities & Infrastructure, Coding & Development, Education & Learning
+    SaaS/Chat: Both
+    Image: Needs building
+
+  • https://github.com/nicotsx/zerobyte
+    Reason: About
+Backup automation for self-hosters. Built on top of restic
+
+zerobyte.app
+    Category (Pass A): Automation, Core / Dashboard, Coding & Development
+    Category (Pass B): Coding & Development, Social Media & Marketing, Utilities & Infrastructure, Productivity & Organization
+    SaaS/Chat: Both
+    Image: Needs building
+
+  • https://github.com/cporter202/stock-market-signal-automation
+    Reason: About
+Build your own data-driven market edge with swing-trade signal webhooks, dashboards, alerts, AI agents, and automa
+    Category (Pass A): Automation, Core / Dashboard, Coding & Development
+    Category (Pass B): Social Media & Marketing, Data & Analytics, Utilities & Infrastructure, AI Agent Frameworks, Communication & Messaging, Coding & Development, Finance & Crypto, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: Needs building
+
+  • https://github.com/opentabs-dev/opentabs
+    Reason: About
+Browser automation clicks buttons. OpenTabs calls APIs.
+
+opentabs.dev
+    Category (Pass A): Automation, Core / Dashboard, Coding & Development
+    Category (Pass B): Coding & Development, Social Media & Marketing, Utilities & Infrastructure, Communication & Messaging
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/loxy0devlp/RedTiger-Tools
+    Reason: About
+RedTiger-Tools is a multifunction automation tool dedicated to pentesting and OSINT. The project is open source an
+    Category (Pass A): Automation, Coding & Development, Content Creation, OSINT & Research, Core / Dashboard
+    Category (Pass B): Cybersecurity & Hacking, Social Media & Marketing, Content Creation & Media, OSINT & Reconnaissance, Data & Analytics, Utilities & Infrastructure, Coding & Development, Education & Learning, Productivity & Organization
+    SaaS/Chat: Both
+    Image: Needs building
+
+  • https://github.com/Salomondiei08/oh-my-hermes
+    Reason: About
+An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent
+    Category (Pass A): Automation, AI Workspace, Coding & Development, Core / Dashboard
+    Category (Pass B): Coding & Development, Social Media & Marketing, Productivity & Organization, AI Agent Frameworks
+    SaaS/Chat: Both
+    Image: Needs building
+
+  • https://github.com/LiteLLM-Labs/litellm-agent-control-plane
+    Reason: About
+1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAgents.
+
+docs.li
+    Category (Pass A): Automation, AI Workspace, Coding & Development, Core / Dashboard
+    Category (Pass B): Social Media & Marketing, AI Agent Frameworks, Communication & Messaging, Coding & Development, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: Needs building
+
+--- mem-deer-flow (3 matching tools) ---
+  • https://github.com/bytedance/deer-flow
+    Reason: About
+An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, me
+    Category (Pass A): Automation, Coding & Development, Skills & Creation, OSINT & Research, Memory & Brain, Core / Dashboard
+    Category (Pass B): Social Media & Marketing, Data & Analytics, Utilities & Infrastructure, AI Agent Frameworks, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/bytedance/deer-flow (already in A)
+    Reason: See above.
+    Category (Pass A): Core / Dashboard
+    Category (Pass B): Coding & Development
+    SaaS/Chat: TBD
+    Image: Needs building
+
+  • https://github.com/bytedance/deer-flow (already above)
+    Reason: See above.
+    Category (Pass A): Core / Dashboard
+    Category (Pass B): Coding & Development
+    SaaS/Chat: TBD
+    Image: Needs building
+
+--- mem-memanto (1 matching tools) ---
+  • https://github.com/moorcheh-ai/memanto
+    Reason: MEMANTO is a memory agent. It remembers, recalls, and answers — so your agents can achieve long-term goals and avoid con
+    Category (Pass A): Automation, Coding & Development, Content Creation, Memory & Brain, AI Workspace, Core / Dashboard
+    Category (Pass B): Data & Analytics, Content Creation & Media, Utilities & Infrastructure, AI Agent Frameworks, Communication & Messaging, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: Needs building
+
+--- mem-turbovec (1 matching tools) ---
+  • https://github.com/RyanCodrai/turbovec
+    Reason: A vector index built on TurboQuant, written in Rust with Python bindings
+    Category (Pass A): Memory & Brain, Core / Dashboard, Coding & Development
+    Category (Pass B): Coding & Development, AI & Machine Learning
+    SaaS/Chat: SaaS
+    Image: Needs building
+
+--- memory-engine (1 matching tools) ---
+  • https://github.com/MemPalace/mempalace
+    Reason: MemPalace is an AI memory system / benchmark that went viral for achieving extremely high scores on LongMemEval. The rep
+    Category (Pass A): Memory & Brain, Core / Dashboard, Automation, Content Creation
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, AI Agent Frameworks, Communication & Messaging, Coding & Development, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+--- odysseus-agent (1 matching tools) ---
+  • https://github.com/pewdiepie-archdaemon/odysseus
+    Reason: odysseus :A self-hosted AI workspace -- meant to be the self-hosted version of the UI experience you get from ChatGPT an
+    Category (Pass A): Core / Dashboard, AI Workspace, Coding & Development
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Data & Analytics, Communication & Messaging, Coding & Development, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: Needs building
+
+--- openclaw (10 matching tools) ---
+  • https://github.com/virgiliojr94/book-to-skill
+    Reason: This takes ebooks and/or PDFs and turns them into skills for OpenClaw
+    Category (Pass A): OSINT & Research, Core / Dashboard, Skills & Creation, Automation
+    Category (Pass B): Content Creation & Media, OSINT & Reconnaissance, AI Agent Frameworks, Communication & Messaging, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/alibaba/open-code-review/tree/main
+    Reason: Viladates and reviews open soruced oded AI Agent skills for OPenClaw skills
+    Category (Pass A): Core / Dashboard, Coding & Development, Skills & Creation
+    Category (Pass B): Data & Analytics, Content Creation & Media, Utilities & Infrastructure, AI Agent Frameworks, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/Alishahryar1/free-claude-code
+    Reason: Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+    Category (Pass A): Core / Dashboard, Coding & Development, Content Creation
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Utilities & Infrastructure, Coding & Development, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/bytedance/deer-flow
+    Reason: About
+An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, me
+    Category (Pass A): Automation, Coding & Development, Skills & Creation, OSINT & Research, Memory & Brain, Core / Dashboard
+    Category (Pass B): Social Media & Marketing, Data & Analytics, Utilities & Infrastructure, AI Agent Frameworks, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/iamlukethedev/Claw3D
+    Reason: Open source 3D engine built on OpenClaw for games/simulations
+    Category (Pass A): Core / Dashboard, Coding & Development, Content Creation
+    Category (Pass B): Coding & Development, Data & Analytics, Content Creation & Media, Finance & Crypto
+    SaaS/Chat: SaaS
+    Image: Needs building
+
+  • https://www.hostinger.com/openclaw?session=…
+    Reason: This is Hostinger’s OpenClaw landing/offer page, bundling hosting tailored for OpenClaw-based projects. It likely emphas
+    Category (Pass A): Automation, AI Workspace, Coding & Development, Core / Dashboard
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Utilities & Infrastructure, AI Agent Frameworks, Communication & Messaging, Coding & Development, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: N/A - Not a GitHub URL
+
+  • https://github.com/OpenClaw/OpenClaw
+    Reason: OpenClaw is the high-profile agentic framework and “Claude-powered IDE/agent environment” that exploded in popularity (1
+    Category (Pass A): Automation, Core / Dashboard, Coding & Development, Skills & Creation
+    Category (Pass B): Social Media & Marketing, Utilities & Infrastructure, AI Agent Frameworks, Communication & Messaging, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/refactoringhq/tolaria
+    Reason: 💧 Tolaria
+Tolaria is a desktop app for macOS, Windows, and Linux for managing markdown knowledge bases. People use it fo
+    Category (Pass A): Automation, Coding & Development, Memory & Brain, AI Workspace, Core / Dashboard
+    Category (Pass B): Data & Analytics, Content Creation & Media, AI Agent Frameworks, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/Gen-Verse/OpenClaw-RL
+    Reason: About
+OpenClaw-RL: Train any agent simply by talking
+
+arxiv.org/abs/2603.10165
+    Category (Pass A): Core / Dashboard
+    Category (Pass B): Coding & Development, AI & Machine Learning, AI Agent Frameworks
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/hesreallyhim/awesome-claude-code
+    Reason: About
+A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude
+    Category (Pass A): Core / Dashboard, Coding & Development, Skills & Creation
+    Category (Pass B): Social Media & Marketing, AI Agent Frameworks, Coding & Development, Education & Learning, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+--- osint-gitrecon (1 matching tools) ---
+  • https://github.com/techenthusiast167/GITRECON
+    Reason: About
+A powerful Python-based OSINT (Open Source Intelligence) tool for comprehensive GitHub reconnaissance, security as
+    Category (Pass A): OSINT & Research, Core / Dashboard, Coding & Development, Automation
+    Category (Pass B): Cybersecurity & Hacking, Data & Analytics, Content Creation & Media, OSINT & Reconnaissance, Utilities & Infrastructure, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: TBD
+    Image: Needs building
+
+--- osint-sherlock (1 matching tools) ---
+  • https://github.com/sherlock-project/sherlock
+    Reason: Username OSINT tool: find accounts on hundreds of platforms. Core identity correlation tool. Unique in focusing exclusiv
+    Category (Pass A): OSINT & Research, Core / Dashboard, Coding & Development
+    Category (Pass B): Data & Analytics, Utilities & Infrastructure, OSINT & Reconnaissance, Communication & Messaging, Coding & Development, Productivity & Organization, Finance & Crypto
+    SaaS/Chat: SaaS
+    Image: Needs building
+
+--- second-brain (2 matching tools) ---
+  • https://github.com/breferrari/obsidian-mind
+    Reason: obsidian-mind connects Obsidian vaults with AI, letting you chat with your notes and run RAG-like queries. It’s ideal fo
+    Category (Pass A): Memory & Brain, AI Workspace, Coding & Development, Core / Dashboard
+    Category (Pass B): Social Media & Marketing, Utilities & Infrastructure, Communication & Messaging, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/refactoringhq/tolaria
+    Reason: 💧 Tolaria
+Tolaria is a desktop app for macOS, Windows, and Linux for managing markdown knowledge bases. People use it fo
+    Category (Pass A): Automation, Coding & Development, Memory & Brain, AI Workspace, Core / Dashboard
+    Category (Pass B): Data & Analytics, Content Creation & Media, AI Agent Frameworks, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+--- skills-humanizer (2 matching tools) ---
+  • https://github.com/blader/humanizer#humanizer
+    Reason: Humanizer
+A skill for Claude Code and OpenCode that removes signs of AI-generated writing from text, making it sound mor
+    Category (Pass A): Core / Dashboard, Coding & Development, Skills & Creation
+    Category (Pass B): Coding & Development, Content Creation & Media, AI & Machine Learning, Education & Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+  • https://github.com/blader/humanizer
+    Reason: humanizer is a Claude Code skill that rewrites text to sound more human, removing typical AI tell‑tale signs. It adjusts
+    Category (Pass A): Automation, Coding & Development, Skills & Creation, Content Creation, Core / Dashboard, AI Workspace
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Data & Analytics, AI Agent Frameworks, Coding & Development, Education & Learning, Productivity & Organization, AI & Machine Learning
+    SaaS/Chat: Both
+    Image: Needs building
+
+--- skills-skillopt (2 matching tools) ---
+  • https://duckduckgo.com/?q=github%3A+microsoft%2FSkillOpt&atb=v457-1&ko=-1&t=ddg_android&ia=web
+    Reason: This DuckDuckGo search URL queries GitHub for microsoft/SkillOpt. You’d use it to quickly jump into GitHub search result
+    Category (Pass A): OSINT & Research, Core / Dashboard, Coding & Development, Skills & Creation
+    Category (Pass B): Social Media & Marketing, Content Creation & Media, Data & Analytics, Utilities & Infrastructure, Coding & Development, Education & Learning, Productivity & Organization
+    SaaS/Chat: SaaS
+    Image: N/A - Not a GitHub URL
+
+  • https://duckduckgo.com/?q=github%3A+microsoft%2FSkillOpt&…
+    Reason: DuckDuckGo search for github: microsoft/SkillOpt. It’s a saved search pivot for discovering SkillOpt context and forks. 
+    Category (Pass A): OSINT & Research, Core / Dashboard, Skills & Creation, Content Creation
+    Category (Pass B): Coding & Development, Data & Analytics, Content Creation & Media, Education & Learning
+    SaaS/Chat: TBD
+    Image: N/A - Not a GitHub URL
+
+--- skills-stop-slop (1 matching tools) ---
+  • https://github.com/hardikpandya/stop-slop
+    Reason: What this is
+AI writing has patterns. Predictable phrases, structures, rhythms. This skill teaches Claude (or any LLM) t
+    Category (Pass A): Automation, AI Workspace, Skills & Creation, Core / Dashboard
+    Category (Pass B): Coding & Development, Content Creation & Media, AI & Machine Learning, Education & Learning
+    SaaS/Chat: Chat
+    Image: Needs building
+
+================================================================================
+SECTION 2: NEW TOOLS NOT IN ORIGINAL PLAN (380 tools)
+================================================================================
+
+--- Automation (159 tools) ---
+  • https://github.com/techenthusiast167/Master-OSINT-Toolkit-
+    OSINT tools that can be automated (the API keys that are required will need to be obained using alia
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/alookai/alook
+    Backup Alternative to Agent OS
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://tools.termuxcommands.com/tookie-osint-in-termux-installation-and-usage-guide/
+    Tookie-OSINT is a powerful username OSINT and social media reconnaissance tool that is used to searc
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://github.com/elm1nst3r/GHOST-osint-crm
+    GHOST - Global Human Operations & Surveillance Tracking: Open-source investigation management platfo
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://github.com/screetsec/Sudomy
+    Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automa
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/usestrix/strix
+    Open-source AI hackers to find and fix your app’s vulnerabilities.
+
+strix.ai    Strix are autonomous
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/revfactory/harness
+    A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/agentwasp/agentwasp
+    WASP is an operational runtime built for operators who need an agent they can actually trust to run 
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/dograh-hq/dograh/
+    About
+Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK acros
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/Crosstalk-Solutions/project-nomad
+    Project N.O.M.A.D. is a self-contained, offline-first knowledge and education server packed with cri
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/yo-yo-yo-jbo/whisper_leak
+    Whisper Leak is a research toolkit that demonstrates how encrypted, streaming conversations with Lar
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://github.com/Thysrael/Horizon?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev
+    What It Does
+Horizon is a calendar application that lets you create events with a more fluid structu
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/anonymousRAID/OSINT-Mapping-Tool
+    About
+An OSINT Mapping tool for research.
+
+Topics
+osint maps mapping nodes google-maps-api osinttool
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/ahujasid/blender-mcp
+    BlenderMCP - Blender Model Context Protocol Integration
+BlenderMCP connects Blender to Claude AI thr
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/appcypher/awesome-mcp-servers
+    Awesome MCP Servers Awesome
+A curated list of awesome Model Context Protocol (MCP) servers. MCP is a
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/cermak-petr/actor-yellowpages-scraper
+    About
+Apify actor for scraping information from Yellow Pages listings based on search term and locat
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/chatwoot/chatwoot
+    About
+Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, 
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/dittofeed/dittofeed
+    About
+Open-source customer engagement. Automate transactional and marketing messages across email, S
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/dmtrKovalenko/fff
+    A file search toolkit for humans and AI agents. Really fast.
+
+Typo-resistant path and content search
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/elder-plinius/OBLITERATUS
+    OBLITERATUS is the most advanced open-source toolkit for understanding and removing refusal behavior
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/HQarroum/docker-android
+    Minimal & customizable Docker image running Android emulator as a service
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/joshiayush/inb
+    Automate the world of LinkedIn — connection requests, messages, endorsements
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/kaymen99/google-maps-lead-generator
+    Extract Google Maps business leads and enrich contact details using AI
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/krayin/laravel-crm
+    Krayin CRM — open-source Laravel CRM
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/Madi-S/Lead-Generation
+    Python scripts to generate robust leads on a mass scale (~140 stars)
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/PDFCraftTool/pdfcraft
+    Free, privacy-focused PDF toolkit with 90 tools — runs entirely in browser
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/RasaHQ/rasa
+    Open-source conversational AI framework — multi-channel bot builder (16k+ stars)
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/socioboard/inboard
+    Inboard — social media management and analytics
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/tiledesk/tiledesk
+    Tiledesk — open-source live chat and chatbot platform
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/timolins/clawdbot
+    Personal AI assistant — Any OS, Any Platform
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://github.com/topics/clawdbot?l=shell
+    GitHub Topics: clawdbot (shell)
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/vas3k/TaxHacker
+    Self-hosted AI accounting app — LLM analyzer for receipts, invoices, transactions
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/0xSteph/pentest-ai
+    AI-assisted pentest framework that uses LLMs to plan and execute security testing workflows. It focu
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/0xSteph/pentest-ai-agents
+    Variant focused on multiple cooperating agents working on different parts of an engagement (recon, e
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/Armur-Ai/Pentest-Swarm-AI
+    AI-powered swarm of agents oriented around penetration testing tasks. It leverages distributed agent
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/bugbasesecurity/pentest-copilot
+    “Copilot” style assistant specialized for pentest workflow: suggests tests, payloads, and next steps
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/FerroxLabs/ijfw
+    Framework for building injection/ fuzzing/ web exploitation workflows. Likely used to automate repea
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/GH05TCREW/pentestagent
+    Pentest-oriented agent integrating several tools and workflows behind a single interface. Its goal i
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection
+    Curated list of LLM-based vulnerability detection projects and research. Great for exploring model-d
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/frishtik/osint-tools-mcp-server
+    MCP server exposing OSINT tools as skills to MPC‑compatible clients (e.g., Claude desktop). Ideal fo
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/gwen001/github-subdomains
+    GitHub-based subdomain discovery using repo content. Ideal when subdomains exist only in code/config
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/agent0ai/agent-zero
+    General-purpose open-source AI agent framework. Designed for building multi-tool, multi-step agents.
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/Agenvoy (pardnchiu/Agenvoy)
+    Agent environment or orchestration layer (name implies Agent + Convoy). Helps manage fleets of agent
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+    Collection of predefined cybersecurity “skills” for Anthropic/Claude. Lets you quickly wire security
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+    Collection of system prompts and model configs for many AI tools. Very valuable for your meta‑learni
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/Agenty/scrapingai
+    AI-augmented scraping framework; integrates models into scraping pipelines. Good for your “lead gen 
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/cporter202/api-mega-list (via repodir link)
+    Mega list of APIs categorized by domain. Great discovery layer for building SaaS integrations. Uniqu
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/D4Vinci/Scrapling
+    Web scraper that emphasizes ant-bot measures and robustness. Good base for stealth scraping flows. U
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/firecrawl/firecrawl
+    Crawler that converts sites into structured data (markdown/JSON) with LLM assistance. Excellent for 
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/public-apis/public-apis
+    Huge list of free/public APIs across many domains. A go-to for finding inputs for your agents. Uniqu
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/affaan-m/everything-claude-code
+    Central repo about Claude Code usage, tips, and workflows. Great for mining patterns for your own Cl
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/luongnv89/claude-howto
+    Practical “how‑to” examples for Claude integration. Good for quick reference on typical patterns. Un
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/nicedreamzapp/claude-code-local
+    Run Claude Code‑style workflows locally with your own stack. Very interesting for privacy/hardening.
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/langflow-ai/langflow
+    Node-based visual builder for LLM workflows (agents, tools, RAG). Great for orchestrating your multi
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/blakeblackshear/frigate
+    NVR solution for IP cameras with real-time object detection. Nice candidate for local AI video analy
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/netgoat-xyz/netgoat
+    Likely a lab environment or toolkit for network security/goat‑targets. Good for training and testing
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://www.autodesk.com/products/flow-studio/overview
+    Autodesk Flow Studio for production workflows (media pipeline orchestration). Could be relevant for 
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://appsumo.com/products/flexifunnels/
+    FlexiFunnels lifetime/SaaS funnel builder. Could complement your current funnel-hosting setup. Uniqu
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://botcommerce.app/lifetime-deal/
+    BotCommerce for chatbot-driven e‑commerce flows. Fits nicely into AI store funnels. Unique as a bot-
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://github.com/scaleapi/scale-agentex
+    scale-agentex is Scale’s open-source example of advanced agent architectures, showcasing planning, t
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/techenthusiast167/OSINTMAILER-
+    OSINTMAILER is a Python OSINT tool focused on analyzing email addresses across social media, known b
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://github.com/OpenOSINT/OpenOSINT
+    OpenOSINT is an AI‑powered OSINT agent for the terminal that uses Claude, GPT‑5 or local models to i
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/Hack-with-Github/Awesome-Hacking
+    Awesome-Hacking is a large curated list of hacking resources, tutorials, tools, and challenges maint
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/Binomica-Labs/SpliceCraft
+    SpliceCraft is a tool for editing and transforming code or data (often bioinformatics/“splicing” adj
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/pullfrog/pullfrog (already above)
+    See above: AI GitHub bot.
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/elkentaro/sharkbot
+    Sharkbot likely addresses detection or analysis related to the Sharkbot malware family (Android bank
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html?m=1#:~:text=DevilNFC%20and%20NFCMultiPay%20Android%20NFC%20Relay%20Malware%20Spotted
+    This is a Hacker News weekly recap article highlighting several security stories, including DevilNFC
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://www.opensourceprojects.dev/post/optimizerduck (meta)
+    Already mentioned as a project profile—can be used alongside API lists when browsing for optimizatio
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://www.autodesk.com/products/flow-studio/overview?utm_id=120239989537040476
+    Autodesk Flow Studio is a workflow/orchestration product for media and production pipelines. You can
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://github.com/adithya-s-k/omniparse
+    OmniParse is a document and media ingestion platform that converts almost any unstructured content (
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/vigolium/vigolium
+    The public site describes Vigolium as an open-source agentic vulnerability scanner that combines det
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://repodir.com/repo/nilbuild-developer-roadmap
+    This Repodir entry points to a “developer roadmap” repository that likely structures learning paths 
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://repodir.com/repo/cporter202-scraping-apis-for-devs
+    This page indexes a repo that catalogs scraping-friendly APIs and techniques specifically targeted a
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://github.com/thewhiteh4t/FinalRecon
+    FinalRecon is an all‑in‑one web reconnaissance tool that performs subdomain discovery, port scanning
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/sepivip/SeekerClaw
+    SeekerClaw is a fork or extension of Seeker that integrates with the “Claw” ecosystem (e.g., Claude 
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/CarterPerez-dev/Cybersecurity-Projects
+    This repo aggregates practical cybersecurity projects—from labs to scripts—for learning and demonstr
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/SnailSploit/Claude-Red
+    Claude-Red is a curated library of offensive security skills for the Claude skills system, extending
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/OpenBMB/VoxCPM
+    VoxCPM is an open-source voice foundation model (multi-lingual, multi-speaker) from OpenBMB for spee
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://cybernews.com/security/ai-voice-bots-hidden-audio-hijack-attacks/?source=cn_facebook&medium=social&campaign=cybernews&content=post
+    This Cybernews article explores how AI voice bots and hidden audio channels can be hijacked for cove
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://www.opensourceprojects.dev/post/omnivoice-studio
+    This page profiles “OmniVoice Studio,” an open-source or indie voice project, summarizing its featur
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • http://sv101.ifastnet.com/cookies.html
+    This is a basic cookie policy page on an ifastnet-hosted site. It’s not itself a tool but could be p
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://github.com/kaifcodec/user-scanner
+    user-scanner appears to be a user enumeration/scanning tool, likely checking usernames or accounts a
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://blink.new/pricing
+    Blink.new’s pricing page details costs and tiers for its product (likely a dev tool, app builder, or
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://github.com/unicodeveloper/globalthreatmap
+    GlobalThreatMap aggregates threat intelligence data and visualizes cyber attacks and indicators on a
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://red-team.tools/course-bundle/photo-and-video-exploit-for-android-and-ios/
+    This is a commercial course bundle focused on exploiting photo and video handling on Android and iOS
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://github.com/Giskard-AI/giskard-oss
+    Giskard is an open-source Python library for evaluating AI systems, including LLMs, RAG agents, and 
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://huggingface.co/SulphurAI/Sulphur-2-base
+    Sulphur-2-base is a base LLM checkpoint hosted on Hugging Face. It’s designed as a foundation model 
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://github.com/higgsfield-ai/higgsfield
+    Higgsfield is an AI content creation / generation platform, with the repo providing SDKs, examples, 
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/H-mmer/pentest-agents
+    pentest-agents is an AI-driven pentest framework where agents plan and execute security testing task
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/six2dez/reconftw
+    reconFTW is a fully automated recon framework that chains a large number of tools for subdomains, po
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/volcengine/OpenViking
+    OpenViking is an open-source context database / “context file system” for AI agents, with filesystem
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://www.google.com/search?q=Data%20scraper%20AI%20Agents%20open%20source%20github
+    This Google search URL is a meta link to search results for “Data scraper AI Agents open source GitH
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://huggingface.co/blog/samihalawa/automating-lead-generation-with-ai
+    This Hugging Face blog post explains how to build an AI-automated lead generation pipeline, combinin
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://github.com/earthtojake/text-to-cad
+    text-to-cad is a project that converts natural language descriptions into 3D CAD models using proced
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/topics/ai-osint
+    This GitHub topic aggregates repositories that combine AI with OSINT—agents, assistants, and pipelin
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://www.google.com/search?q=Jail-break.ai%20open%20source%20agents%20github
+    This Google query URL searches for “Jail-break.ai open source agents GitHub.” It’s effectively a sav
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://github.com/ssrajadh/sentrysearch
+    SentrySearch is a tool for scanning Git repositories (local or remote) to detect secrets, credential
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://www.gitreverse.com/
+    GitReverse is a website that analyzes Git repositories, helping you reverse-engineer project structu
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://allenai.org/multimodal-models
+    This Allen Institute for AI page summarizes their work on multimodal models, including capabilities 
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://github.com/calesthio/Crucix?ref=opensourceprojects.dev
+    Crucix is a project (referenced via opensourceprojects.dev) that you’ve bookmarked in the context of
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/PolymathicAI/the_well/
+    the_well is a 15 TB collection of physics simulation datasets covering 16 domains (fluids, biologica
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://3dsvg.design/
+    3dsvg.design is a site for creating and working with 3D SVG designs. It likely provides design tools
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://www.blueprint.am/
+    blueprint.am is a product (likely a planning/blueprint tool) with a visually-oriented interface for 
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://www.skills.sh/browserbase/skills/autobrowse
+    This Skills.sh page describes an “autobrowse” Skill for Browserbase, exposing high-level browsing ca
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://github.com/NawfalMotii79/PLFM_RADAR
+    PLFM_RADAR is an open-source 10.5 GHz phased-array RADAR system, including hardware design, firmware
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://safishamsi/graphify → https://github.com/safishamsi/graphify
+    Graphify is a project (context suggests graph tooling for AI, e.g., LangGraph-like agents or graph‑b
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://www.google.com/sorry/index?continue=… (YouTube + mcp_token)
+    This is a Google “Sorry” (reCAPTCHA/abuse protection) page that appears when automated or unusual ac
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://hexsec.netlify.app/
+    HexSec is a small site (Netlify-hosted) that likely showcases infosec content, tools, or a persona/b
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://mapstocash.com/free-website-871576?campaign_id=… (two UTM variants)
+    These MapstoCash URLs are campaign-specific landers promising a free website built from Google Maps 
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://app.emergent.sh/landing/
+    Emergent.sh landing page: likely a product or course around AI, agents, or emergent behavior. It’s v
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://hoo.be/marckaz
+    Hoo.be profile page for Marc Kaz, aggregating his links (content, socials, offers). You can study hi
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://payhip.com/InspiredLibrary
+    InspiredLibrary is a Payhip store selling digital products (books, templates, courses) about product
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://ai.erickavelaars.com/ads-opt-in?…
+    This is an ad opt‑in landing page for Eric Kavelaars’ AI-related offer (likely AI ads or funnels). U
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://restream.io/signup?continue=… & https://restream.io/dr/upload-and-stream?… & https://restream.io/pricing?…
+    These are Restream signup, upload-and-stream, and pricing pages. Restream powers multistreaming (sim
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://jail-break.chat/
+    Jail-break.chat is a site dedicated to jailbreak prompts and experiments for AI models. It collects 
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://www.redhat.com/en
+    Red Hat’s main site; relevant for enterprise Linux, OpenShift, Kubernetes, and long-term support. It
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://getle.ad/?… (also under D)
+    Lead-gen product; see above.
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://www.spooky2.com/products/?utm_id=…
+    Spooky2’s products page lists frequency generators and Rife-style hardware systems. While fringe sci
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://www.mobile-hacker.com/
+    Mobile-Hacker is a hardware/software brand around phones, hacking tools, and mobile security gear. I
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://github.com/GP-commits/Git-Secrets
+    Git-Secrets is a repo focused on detecting and handling secrets in Git repositories (naming contextu
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/thinkbold-solutions/GHLDOCS
+    GHLDOCS appears to be documentation or templates for a broader GHLD (GitHub-related or dev tooling) 
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/sooryathejas/METATRON
+    METATRON is a CLI-based AI-powered penetration testing assistant that runs entirely on your local ma
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://socialauditpro.com/how-to-retrieve-a-list-of-your-followers-from-instagram/
+    This article explains methods/tools to extract a list of your Instagram followers. It covers API, sc
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://aiblackmagic.com/?utm_id=…
+    AI Black Magic appears to be a brand around advanced AI prompt engineering or secret tactics. The la
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://drive.google.com/drive/mobile/folders/14jjSnprC7AxqPCo8pl6hDZYtg8tuehs-
+    Drive folder with your own materials. Same use-case: internal corpus. Unique as seed material for pr
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://appsumo.com/products/the-black-friday-bundle/?… (already above)
+    Bundle of tools/courses.
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://academy.pyxa.ai/bundles
+    Pyxa Academy bundles—training packages on AI engineering, agents, or related topics. These are helpf
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://www.hiddenclearances.com/?ref=ig
+    HiddenClearances offers help navigating security clearance processes or revealing hidden government 
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://appsumo.com/products/flexifunnels/ (already in C)
+    Funnel builder listing; see above.
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://github.com/llm-exe/llm-exe and https://github.com/gregreindel/llm-exe?utm_id=…
+    llm-exe is a TypeScript/JavaScript library providing base components to build and maintain LLM-power
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/OpenBB-finance/OpenBB%EF%BF%BC
+    Core OpenBB repo (terminal/platform) for investment research and analytics. It aggregates data sourc
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/FinancialDiets/OpenBBTerminal-Finance
+    A specialization of OpenBB Terminal tailored to personal finance workflows / The Financial Diet audi
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/safishamsi/graphify
+    Graphify is a graph-based framework (likely for AI workflows or graph data) you bookmarked. It struc
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/open-jarvis/OpenJarvis
+    OpenJarvis is a research framework for composable, on‑device AI systems designed to build personal A
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/elementalsouls/Claude-BugHunter
+    Claude-BugHunter is a Claude Code skill bundle for bug hunting and external red‑team work: 51 skills
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/withkynam/vibecode-pro-max-kit/
+    vibecode-pro-max-kit is a bundle of tools, templates, and workflows for building “vibe” code/brands.
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/arainho/awesome-api-security
+    Curated list on API security: best practices, tools, and resources. Useful for designing secure API-
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/confident-ai/deepteam
+    DeepTeam is a simple-to-use, open-source red teaming framework for LLM systems. Think of it as penet
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/1N3/Sn1per
+    About
+Automated penetration testing & attack surface management platform. Recon, scan, exploit, repo
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/psiinon/open-source-web-scanners
+    open-source-web-scanners
+A list of open source web security scanners on GitHub and GitLab, ordered b
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/pydantic/monty
+    Experimental - This project is still in development, and not ready for the prime time.
+
+A minimal, s
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/agent-infra/sandbox
+    sandbox
+All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server i
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://fusion.adam.new/install
+    Install Adam – AI Copilot
+Your AI copilot for Autodesk Fusion. Drives your CAD natively with agents.
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://github.com/braedonsaunders/codeflow
+    About
+Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks i
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/AMAP-ML/SkillClaw?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev
+    SkillClaw: Evolving Agent Skills From Real Conversations
+Imagine you've built an AI agent that handl
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/0xMassi/webclaw
+    About
+Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — al
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/YusufB5/ASCILINE
+    About
+A high-performance, real-time ASCII video rendering engine. Streams binary-encoded frames via 
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/JCodesMore/ai-website-cloner-template
+    About
+Clone any website with one command using AI coding agents
+
+dsc.gg/jcodesmore
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://termux.achik.us/darkfly-in-termux-installation-and-usage-commands/
+    DarkFly-Tool in Termux – Installation & Usage Commands
+DarkFly-Tool is an all-in-one Termux toolkit 
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://github.com/DietrichGebert/ponytail
+    About
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code y
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/TencentCloud/TencentDB-Agent-Memory
+    About
+TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progre
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/Donchitos/Claude-Code-Game-Studios
+    About
+Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complet
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/santifer/career-ops
+    About
+AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generatio
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+    About
+An AI SKILL that provide design intelligence for building professional UI/UX multiple platform
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://github.com/czlonkowski/n8n-mcp
+    About
+A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+
+www
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b
+    Nemotron 3.5 ASR is a multilingual, streaming Automatic Speech Recognition (ASR) model engineered to
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://github.com/LLMQuant/awesome-trading-agents
+    About
+Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, 
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/infoslack/awesome-web-hacking
+    awesome-web-hacking
+This list is for anyone wishing to learn about web application security but do n
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/mukul975/Privacy-Data-Protection-Skills
+    About
+282+ structured privacy & data protection skills for AI agents. GDPR, CCPA, EU AI Act, HIPAA, 
+    SaaS/Chat: Chat | Image: Needs building
+
+--- OSINT & Research (110 tools) ---
+  • https://github.com/pardnchiu/Agenvoy
+    Clear Agent OS replacement
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/Z4nzu/hackingtool
+    Libarary of Hacking Tools
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/husnainfareed/awesome-ethical-hacking-resources
+    Ethical hacking resources
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/vflame6/leaker
+    OSINT intel gatherig tool (Paid and free API keys required)
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://tools.termuxcommands.com/ghosttrack-termux-tutorial-installation-and-usage/
+    GhostTrack is a simple information gathering tool that finds publicly available details related to I
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://tools.termuxcommands.com/how-to-install-and-use-recon-ng-in-termux/
+    Recon-ng is a powerful web reconnaissance framework that helps collect publicly available informatio
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://github.com/ageitgey/face_recognition
+    face_recognition
+The world's simplest facial recognition api for Python and the command line
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/rawfilejson/awesome-osint-arsenal
+    OSINT Arsenal
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/trufflesecurity/trufflehog
+    About
+Find, verify, and analyze leaked credentials
+
+trufflesecurity.com
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/s0md3v/be-a-hacker
+    About
+roadmap for a self-taught hacker
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/JoasASantos/OSCE3-Complete-Guide
+    OSWE, OSEP, OSED, OSEE
+
+Topics
+offensive-security offsec oscp osce osee oswe oswe-prep osep osed osw
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://github.com/jonaslejon/malicious-pdf
+    💀 Generate malicious PDF test files for testing phone-home callbacks, SSRF, XSS, NTLM credential the
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/mandiant/flare-learning-hub
+    Free educational content on reverse engineering and malware analysis from the FLARE team
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/aasthas2022/ColdContactXLSX
+    Overview
+This project automates the process of sending cold emails from a job seeker (you) to recrui
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/aishwaryanr/awesome-generative-ai-guide
+    About
+A one stop repository for generative AI research updates, interview resources, notebooks and m
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/calesthio/Crucix
+    About
+Your personal intelligence agent. Watches the world from multiple data sources and pings you w
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/gosom/google-maps-scraper
+    Google Maps scraper — Go-based, extracts name, address, phone, URL, rating, reviews
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/laramies/theHarvester
+    E-mails, subdomains and names Harvester — OSINT tool (~12k stars)
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/omkarcloud/google-maps-scraper
+    Extract names, addresses, phones, reviews, websites from Google Maps (~1.4k stars)
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://github.com/PurpleAILAB/Decepticon
+    Autonomous Hacking Agent for Red Team
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/ruzinst/enoai
+    Steno — AI powered intelligence layer for confidential conversations
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/tinyhumansai/openhuman
+    Personal AI super intelligence — Private, Simple, extremely powerful
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/Wikkiee/LeadGenPy
+    Google Maps scraper → ChatGPT personalized email → auto-send pipeline
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/ASCIT31/Dark-Moon
+    Pentest-oriented toolkit (offensive scripts/utilities). Useful as a red‑team toolbox rather than a s
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/crowdsecurity/crowdsec
+    Collaborative intrusion detection & prevention, consumable by defenders or adversarial lab setups. U
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/gadievron/raptor
+    Red‑team/offensive security toolkit; can include automated exploitation and lateral movement helpers
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/hahwul/MobileHackersWeapons
+    Curated list of tools for mobile hacking and pentesting (Android/iOS). Good entry point for mobile-s
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/KingOfBugbounty/KingOfBugBountyTips
+    Large collection of bug bounty tips, payloads, and methodology. Very actionable for web bug bounty h
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+    Resource list specifically for beginners in bug bounty. Contains links, videos, tool recommendations
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/OWASP/DockSec
+    OWASP project to secure Docker/container environments. Useful to pentesters and defenders assessing 
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/ytisf/theZoo
+    Repository of live malware samples (for research, AV testing, analysis). Useful in malware labs and 
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://red-team.tools/tools/
+    Directory of red‑team tools spanning exploit, phishing, C2, etc. Good “shopping list” for building a
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://github.com/Astrosp/Awesome-OSINT-List
+    Large curated list of OSINT tools and resources. Great starting map of the OSINT landscape. Unique b
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/Astrosp/Awesome-OSINT-For-Everything
+    Similar OSINT mega-list but organized by specific use cases (“for everything”). Helps match tools to
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/cipher387/osint_stuff_tool_collection
+    Collection of small OSINT tools and scripts. Handy for quick niche OSINT tasks. Unique because it fo
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/elementalsouls/Claude-OSINT
+    Claude-integrated OSINT assistant that wraps multiple recon sources. Lets you query targets in natur
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/obheda12/GitDorker
+    Automates GitHub dorking to find secrets and sensitive data in public repos. Great for code/secret O
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/projectdiscovery/subfinder
+    Subdomain enumeration tool by ProjectDiscovery. Good integration into automated recon pipelines. Uni
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/skynet0x01/tugarecon
+    Recon framework for targets combining multiple sub‑tools. Useful as an integrated recon runner. Uniq
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/vil/h4x-tools
+    Bundle of recon and OSINT scripts. More of a personal toolbox. Unique because it mixes network, web,
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://hackingpassion.com/dorks-eye/
+    Web GUI for search dorks OSINT (Google, etc.). Good for quick web‑based reconnaissance without CLI. 
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://hackingpassion.com/shodan-eye/
+    Web front-end for Shodan-based OSINT. Simplifies device discovery via Shodan queries. Unique as a si
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://dorksearch.com/
+    Dork search engine for quick queries. Useful when you don’t want to write dorks manually. Unique as 
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://github.com/hisxo/gitGraber
+    Real-time GitHub monitoring for secrets and sensitive patterns. Good for continuous OSINT on code ex
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/Rishabh-creator601/Books
+    OSINT/resource repo but focused on PDF/books for learning. Helps build your own OSINT library. Uniqu
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://github.com/AISecurityLab/hackagent
+    Security-focused AI agent for offensive/defensive tasks. Bridges AI planning with security tools. Un
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/msitarzewski/agency-agents
+    Set of agents oriented around agency-style operations (research, outreach, etc.). Fits your “micro-S
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/HarmonicSecurity/claudit-sec
+    Security auditing framework for Claude/LLM prompts and flows. Useful for checking prompt injections,
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/microsoft/agent-governance-toolkit
+    Microsoft toolkit for governance of AI agents: guardrails, policies, monitoring. Good blueprint for 
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/topics/ai-jailbreak-universal
+    GitHub aggregated topic for universal jailbreak tooling. Curated via GitHub topic search. Unique as 
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/
+    GitHub blog/secure-code game teaching agentic AI security. Great at framing security skills via gami
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://github.com/trimstray/the-book-of-secret-knowledge
+    Huge sysadmin/devops/infosec knowledge dump. Excellent for broad system-level awareness. Unique brea
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://github.com/pi-hole/pi-hole
+    Network-wide ad/tracker blocking DNS sinkhole. Perfect for your privacy/OPSEC rigs. Unique as a wide
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/GyulyVGC/sniffnet
+    Cross-platform network traffic monitor with friendly UI. Great for visualizing what’s happening on y
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://yycsnakes.com/andrax/download.html
+    Android-based pentest distribution. Good for mobile on-the-go pentesting. Unique as an Android platf
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://www.withraven.ai/
+    Raven AI product (likely for note-taking, summarization, or meeting intelligence). Integrates with y
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://github.com/reconurge/flowsint
+    Flowsint is a graph-based OSINT and cyber-investigation platform that lets you represent entities (d
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/OpenOSINT/OpenOSINT (already above)
+    See above: terminal OSINT agent with LLMs and MCP.
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/z0m31en7/WhatMail
+    WhatMail is an OSINT tool designed to gather information about email addresses, such as associated b
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/LionSec/katoolin
+    Katoolin is a script that lets you install Kali Linux tools on Ubuntu/Debian-based systems. Instead 
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/yusing/godoxy
+    Godoxy appears to be a security or proxy tool (name suggests “go” + “proxy”). It likely provides a G
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/Hack-with-Github/Awesome-Hacking (also in C)
+    Beyond tools, this list is a learning roadmap with training resources.
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/pullfrog/pullfrog (also in D)
+    Offers a research angle on AI code-review patterns as well as a tool.
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/Dheerajmadhukar/karma_v2
+    karma_v2 is a passive OSINT automated reconnaissance framework for infosec researchers and bug bount
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/sepivip/Seeker
+    Seeker is a tool for gathering detailed geolocation information by generating a phishing page and ca
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/elm1nst3r/GHOST-osint-crm (already above)
+    See above.
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://www.achik.us/theharvester-tutorial-for-beginners/
+    This is a beginner-friendly tutorial explaining how to use theHarvester, a well-known OSINT tool for
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://github.com/urbanadventurer/Android-PIN-Bruteforce
+    This tool exploits Android’s adb interface to brute-force the PIN of a locked device (under certain 
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://github.com/rix4uni/GarudRecon
+    GarudRecon is a recon tool that automates information gathering on targets, combining multiple techn
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/AKCODEZ/hackingtool-plugin
+    This repo provides a plugin for the larger “hackingtool” framework, adding extra recon or exploitati
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://www.reddit.com/r/OSINT/comments/1opzeng/experimenting_with_ai_agents_osint_tools/?…
+    This Reddit thread describes the author’s experience “experimenting with AI agents + OSINT tools” an
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://www.netgear.com/mobile-wifi/hotspots/mh7150/?campaign_id=…
+    This Netgear product page details the MH7150 mobile WiFi hotspot, including specs, bands, speeds, an
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://www.zerotrusted.ai/
+    ZeroTrusted.ai is a site focused on AI + zero-trust security (products, consulting, or content). It 
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://github.com/abhigyanpatwari/GitNexus
+    GitNexus is a project for organizing and managing Git repositories with AI assistance (e.g., summari
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://jobsiterecon.com/?utm_id=…
+    JobSiteRecon is likely a SaaS for reconning job sites or job postings (lead gen, competitor tracking
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://jobsiterecon.com/?utm_id=… (already above)
+    Same product; different tracking.
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://github.com/abhigyanpatwari/GitNexus (also in C)
+    Git intelligence; see above.
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://us.starlabs.systems/pages/byte?campaign_id=…
+    Star Labs’ Byte page advertises a small workstation/laptop optimized for devs/hackers. Great candida
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://ultimatewebscraper.com/ (also under D)
+    Scraping product; see above.
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://rambleofficeanywhere.com/products/the-destination
+    “The Destination” is another mobile office product—desk/monitor/gear solution—for working from anywh
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://netool.io/?utm_id=…
+    Netool sells handheld network analysis hardware that quickly maps network info (VLAN, switchport, et
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://app.selfpublishing.ai/
+    SelfPublishing.ai is a tool/platform for AI-assisted book creation, layout, and publishing. It helps
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://rdctd.pro/
+    rdctd.pro is likely a link shortener or redirector brand. It might tie into link tracking/analytics.
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://trdcrft.com/
+    trdcrft.com looks like a brand site (perhaps “Tradecraft”) oriented around security, tradecraft, or 
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://duckduckgo.com/?q=error%3A+Expected+content-type+to+be+text%2Fevent-stream…
+    This DuckDuckGo search URL encodes a query about an error: “Expected content-type to be text/event-s
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://github.com/search?q=OpenBB-finance&type=repositories
+    GitHub search for “OpenBB-finance,” surfacing the OpenBB ecosystem (terminal, SDK, etc.). It’s a dis
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://github.com/yusufkaraaslan/Skill_Seekers
+    Skill_Seekers is a repo about building or tracking skills (learning paths, projects). It may provide
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/cloudcommunity/Free-Certifications
+    Free-Certifications lists free and discounted certification courses across cloud, security, and more
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/capture0x/AdStrike
+    AdStrike is an ad-blocking or ad-related toolkit (context from naming and hacking focus). It may blo
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/techenthusiast167/OSINTMAILER- (also in C)
+    See above.
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/apurvsinghgautam/dark-web-osint-tools
+    About
+OSINT Tools for the Dark Web
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/NVIDIA/SkillSpector
+    SkillSpector
+Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and s
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/tmylla/Awesome-LLM4Cybersecurity
+    About
+An overview of LLMs for cybersecurity
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/The-Osint-Toolbox/Telephone-OSINT
+    You will find helpful telephone number OSINT tools on this page. Telephone OSINT can be tricky as th
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://github.com/afsh4ck/HackLabs
+    About
+Intentionally Vulnerable Hacking Labs
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/ssl/ezXSS
+    About
+ezXSS is an easy way for penetration testers and bug bounty hunters to test (blind) Cross Site
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/geo-tp/ESP32-Bit-Pirate
+    About
+A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol  https://geo-tp.github.i
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/BullsEye0/ghost_eye
+    About
+Ghost Eye Informationgathering Footprinting Scanner and Recon Tool Release. Ghost Eye is an In
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/HunxByts/GhostTrack
+    About
+Useful tool to track location or mobile number
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/bkerler/exploit_me
+    About
+Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 29 vulnerability
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://hackingpassion.com/atomic-arch-aur-malware/
+    N/A
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://github.com/techenthusiast167/INFOFINDER_PRO
+    About
+A comprehensive Python-based OSINT (Open Source Intelligence) tool for email and phone number 
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/Runnin4ik/dpi-detector
+    About
+DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP, DNS blocking an
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/vivek-threatintel/cybersecurity-competency-framework
+    🛡️ Cybersecurity Competency Framework
+A structured, research-driven roadmap for developing deep cybe
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://termux.achik.us/cupidcr4wl-in-termux-installation-usage-commands/
+    CupidCr4wl in Termux – Installation & Usage Commands
+CupidCr4wl is a simple information gathering to
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://github.com/cocoindex-io/cocoindex-code
+    About
+A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% t
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/crewAIInc/crewAI
+    About
+Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative int
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/google/magika
+    About
+Fast and accurate AI powered file content types detection
+
+securityresearch.google/magika/
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/hahwul/WebHackersWeapons
+    About
+⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happ
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/aadi1011/AI-ML-Roadmap-from-scratch
+    About
+Become skilled in Artificial Intelligence, Machine Learning, Generative AI, Deep Learning, Dat
+    SaaS/Chat: TBD | Image: Needs building
+
+--- Core / Dashboard (70 tools) ---
+  • https://github.com/tw93/Pake
+    Turn any webpage into a desktop app with one command.
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/ticarpi/jwt_tool
+    About
+🐍 A toolkit for testing, tweaking and cracking JSON Web Tokens
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/Adam-CAD/CADAM
+    About
+CADAM is the open source text-to-CAD web application
+
+adam.new/cadam
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/bytedance/UI-TARS-desktop
+    About
+The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/elder-plinius/ST3GG
+    STE.GG‍​‌​‌​​​​​‌​​‌‌​​​‌​​‌​​‌​‌​​‌‌‌​​‌​‌‌​​‌​​‌​​​​​​‌​​‌‌​​​‌​​‌‌‌‌​‌​‌​‌‌​​‌​​​‌​‌​‌​‌​​‌‌​​‌​​
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/fimbox/html-in-canvas/blob/main/plugins/html-cloth.mjs
+    html-cloth.mjs plugin for html-in-canvas
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/github/spec-kit
+    Toolkit to get started with Spec-Driven Development
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/lightningpixel/modly
+    Desktop app to generate 3D models from images using local AI on GPU
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/LvcidPsyche/auto-browser
+    Give AI agent a real browser with human in the loop — Open-source MCP-native
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/microsoft/BitNet
+    Official inference framework for 1-bit LLMs
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/NawfalMotii79/PLFMRADAR
+    Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/nv-tlabs/lyra
+    Project Lyra — Open Generative 3D World Models
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/onyx-dot-app/onyx
+    Open Source AI Platform — AI Chat with advanced features for every LLM
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/OpenBB-finance/OpenBB
+    OpenBB Finance (link broken at time of bookmarking)
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/pedroslopez/whatsapp-web.js
+    WhatsApp Web API client library
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/PolymathicAI/thewell
+    A 15TB Collection of Physics Simulation Datasets
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/rohitg00/ai-engineering-from-scratch
+    AI Engineering from scratch — Learn it. Build it. Ship it.
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://github.com/Significant-Gravitas/AutoGPT
+    AutoGPT — Autonomous GPT-4 agent framework
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/thedotmack/claude-mem
+    Persistent Context Across Sessions for Every Agent
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/WhiskeySockets/Baileys
+    Baileys — WhatsApp Web API library (TypeScript)
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/yusufkaraaslan/SkillSeekers
+    Convert ANY documentation website into a Claude skill
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/NVIDIA/garak
+    Adversarial testing framework targeting LLMs and AI systems. Used to probe model robustness, jailbre
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/akitaonrails/ai-jail
+    AI jailbreak lab/tooling to study jailbreaking patterns. Good for generating and testing adversarial
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
+    Companion repo for the “Hands-on LLMs” book. Focused on practical LLM engineering. Unique as a struc
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/Developer-Y/cs-video-courses
+    Massive curated list of CS courses with video lectures. Great for targeted upskilling. Unique for be
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/sindresorhus/awesome
+    The original “awesome list” aggregator. Useful as a meta-index of many other lists. Unique in that i
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/codecrafters-io/build-your-own-x
+    Tutorials/repos for building your own DBs, interpreters, OS, etc. Great for deep technical mastery. 
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://zerotomastery.io/courses/
+    ZTM course platform across dev/AI topics.
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://github.com/iv-org/invidious
+    Alternative front-end for YouTube, self-hostable. Useful for privacy-friendly viewing. Unique stand-
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://zerotrace.org/shop/
+    Privacy hardware & services (SIM, routers etc.). Supports your “extreme privacy” systems. Unique bec
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://www.dropcourse.com/
+    Course marketplace/downloader oriented platform. Useful to quickly source course content and see cur
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://www.opensourceprojects.dev/post/optimizerduck
+    This page profiles the “optimizerduck” open-source project (most likely a repo) and provides metadat
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://github.com/swisskyrepo/PayloadsAllTheThings (already above)
+    Covered as payload mega‑repo.
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://stan.store/jacobhartmanofficial
+    This is Jacob Hartman’s Stan Store page, a marketplace for his digital products (courses, templates,
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://www.opensourceprojects.dev/post/removerized
+    This is a profile page on opensourceprojects.dev for the project “Removerized,” summarizing its purp
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://www.reddit.com/r/microsaas/comments/1qnla53/built_an_opensource_selfhosted_ai_agent/
+    This Reddit post discusses building an open-source, self-hosted AI agent as a micro‑SaaS. The commen
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://barkod.studio/
+    Barkod Studio is a design/branding/product site—likely a studio offering design, visuals, or brand s
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://vonsel.com/
+    Vonsel is a product or studio site (likely design, dev, or AI-oriented) you’ve bookmarked. It’s a re
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://www.sabrina.dev/p/claude-code-source-leak-analysis?…
+    Sabrina’s article analyzes the Claude Code source leak, explaining architecture decisions, capabilit
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://highticketaioffer.com/
+    HighTicketAIOffer likely sells frameworks/blueprints for high-ticket AI offers or done-for-you servi
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://hiro.fm/sp/lifetime-deal/
+    Hiro.fm’s lifetime deal page offers a one-time price for their platform (likely podcast/audio hostin
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://coddy.tech/
+    Coddy.tech is an educational/coding platform (interactive coding exercises, games, or AI-driven teac
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://github.com/codeforreal1/compressO
+    CompressO is a free, offline, open-source app that compresses any video or image into a tiny size on
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://www.aicut.pro/create?utm_id=…
+    aicut.pro “create” page is likely a tool for AI-powered video or image editing specifically tuned fo
+    SaaS/Chat: Chat | Image: N/A - Not a GitHub URL
+
+  • https://members.garvinacademy.com/plans/1910360?bundle_token=… & https://members.garvinacademy.com/landing?utm_id=…
+    Garvin Academy pages for bundles and the main landing for some tech/business education. Good for obs
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://zerotrace.org/kb/anonymous-sim-card-powered-by-silent-link/
+    Zerotrace KB article explaining anonymous SIM cards via Silent Link. It walks through how they work,
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://www.cnx-software.com/2026/03/15/aeris-10-open-source-hardware-radar-can-track-multiple-objects-up-to-20km-away/
+    This CNX Software article describes Aeris-10, an open-source radar that can track multiple objects u
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://github.com/
+    N/A
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://github.com/chenglou/pretext
+    Pretext is a pure JS/TS library for multiline text measurement and layout that never touches the DOM
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/browser-use/web-ui/tree/main/assets
+    Assets (icons, images, etc.) used by the browser-use web UI. Useful if you want to replicate or exte
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://github.com/nidhinjs/prompt-master
+    prompt-master is a repository for organizing, versioning, and managing prompts, likely providing str
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/withkynam/vibecode-pro-max-kit/ (already above)
+    See above.
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/scaleapi/scale-agentex (also in D)
+    See above.
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/OWASP/DockSec (also in D)
+    See above.
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/tom-doerr/repo_posts
+    repo_posts turns GitHub repos into “blog posts” via AI summarization of codebases. Useful for auto-d
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/rohitg00/ai-engineering-from-scratch (also in B)
+    See above.
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/Alishahryar1/free-claude-code (also in C)
+    See above.
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/mauriceboe/TREK
+    About
+A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support,
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/olalie/tapmap
+    About
+Watch your computer connect across the internet in real time. Discover the world behind your a
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/awesome-foss/awesome-sysadmin
+    About
+A curated list of amazingly awesome open-source sysadmin resources.
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://github.com/FareedKhan-dev/train-llm-from-scratch
+    About
+A straightforward method for training your LLM, from downloading data to generating text.     
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/x90skysn3k/brutespray
+    About
+Fast, multi-protocol credential brute-forcer. Parses Nmap, Nessus, and Nexpose output to autom
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/six2dez/burp-ai-agent
+    About
+Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, p
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://nvlabs.github.io/motionbricks/
+    N/A
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://github.com/iamsrikanthnani/pluely
+    About
+The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that work
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://github.com/obra/superpowers
+    About
+An agentic skills framework & software development methodology that works.
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/gsd-build/get-shit-done
+    About
+A light-weight and powerful meta-prompting, context engineering and spec-driven development sy
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://www.designarena.ai/
+    N/A
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://github.com/ewebdzine/canonify
+    About
+Teach your AI coding assistant how your codebase already does things, so it stops reinventing 
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/OpenCut-app/OpenCut
+    About
+The open-source CapCut alternative
+
+opencut.app
+    SaaS/Chat: SaaS | Image: Needs building
+
+--- Memory & Brain (23 tools) ---
+  • https://github.com/spring-ai-alibaba/deepresearch
+    It is an extra brain that Agent OS can use for Deep Research
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/techenthusiast167/DeepSearch-
+    DeepSearch is a powerful Python-based OSINT utility that leverages Google's advanced search operator
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/safishah/sigraphify
+    AI coding assistant skill — turn any folder of code into a queryable knowledge graph
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/Shubhamsaboo/awesome-llm-apps
+    100 AI Agent & RAG apps you can clone, customize, and ship
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/OWASP-noir/noir
+    OWASP Noir: privacy- and tracking-related tooling for browser/network analysis. Useful for understan
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/swisskyrepo/PayloadsAllTheThings
+    Massive collection of payloads for XSS, SQLi, SSRF, XXE, etc. Core reference for many pentesters. Un
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/rohitg00/agentmemory
+    Persistent memory layer for agents (key-value, embeddings, retrieval). Lets agents remember interact
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/langgenius/dify
+    Full-stack “AI app builder” platform (chatflows, RAG, agents). Strong for deploying internal tools q
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/ZishanAdThandar/pentest
+    This repository collects pentesting and bug bounty notes, cheat sheets, and guides for ethical hacke
+    SaaS/Chat: Both | Image: Needs building
+
+  • https://github.com/laramies/theHarvester#
+    This is just the anchor version of the same repo URL (theHarvester) pointing into its README section
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/MemPalace/mempalace (also in C)
+    Memory system + benchmark; see above.
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/breferrari/obsidian-mind (also in C)
+    Obsidian + AI interface; see above.
+    SaaS/Chat: SaaS | Image: Needs building
+
+  • https://drive.google.com/file/d/1-5ho2aSZ-z0FcW8W_jMUoFSQ5hTKvJ43/view
+    A Google Drive file; likely a PDF/book/course you saved. This is raw content you can convert into sk
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://docs.google.com/document/u/0/d/1V4ddYjEKTHCdiKNbXylaLqKMuF52TQXRu-0Xr0ZflRw/mobilebasic
+    A Google Doc you’ve saved—likely a guide, set of notes, or DIY system. Again, great candidate for co
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://docs.google.com/document/d/1Z5SX89FV6bTy2KKnGGb61xCcS9iPg_fv2USQYi4Wc3g/mobilebasic
+    Another Google Doc you saved; likely a guide or notes on some technical or strategic topic. Unique a
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://github.com/MemPalace/mempalace (referenced earlier)
+    MemPalace is an AI memory system/benchmark that hit high LongMemEval scores. It offers a memory arch
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/rohitg00/agentmemory (also in B)
+    See above.
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://679894f2019f3c5c5707545e.sos.knowledgebases.net/kb
+    GoPhantom Knowledge Base. This is omething that I can refer to for GoStackBase, GoHighlEvel, & Build
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://github.com/vstorm-co/full-stack-ai-agent-template
+    About
+Full-stack AI app generator — FastAPI + Next.js with AI Agents, RAG, streaming, auth, and 20+ 
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/chopratejas/headroom
+    About
+Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tok
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/mito753/Kernel-Exploit-Dojo
+    About
+CTF kernel exploitation notes, PoCs, exploits, and writeups.
+    SaaS/Chat: TBD | Image: Needs building
+
+  • https://github.com/kepano/obsidian-skills
+    About
+Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Mar
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/hkuds/lightrag
+    About
+[EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+
+arxiv.org/abs/2410.057
+    SaaS/Chat: TBD | Image: Needs building
+
+--- Coding & Development (9 tools) ---
+  • https://github.com/The-Art-of-Hacking/h4cker
+    This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources relat
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://github.com/Agenty/scrapingai (duplicate noted)
+    Already above; its uniqueness is still LLM-integrated scraping.
+    SaaS/Chat: Chat | Image: Needs building
+
+  • https://scienceearth.org/
+    ScienceEarth is an educational site (course/blog platform) about science, likely with content that c
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://drive.google.com/… (three folders/files)
+    These Drive links are your own collections—likely PDFs, course dumps, or templates. They are raw mat
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://www.trademarkmystuff.com/?utm_id=…
+    TrademarkMyStuff is a service helping individuals and businesses file trademarks. It simplifies lega
+    SaaS/Chat: SaaS | Image: N/A - Not a GitHub URL
+
+  • https://patrickhinchy.com/
+    Patrick Hinchy’s site (security/privacy, OSINT or digital forensics content). It serves as a persona
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://www.billofexchange.ai/
+    BillOfExchange.ai is likely a product around automating or managing bills of exchange / negotiable i
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://www.imonu.com/home
+    Studio
+/ video engine
+One prompt. Full video. Your keys or ours.
+
+Bring Your Own Keys — any AI API —
+    SaaS/Chat: Both | Image: N/A - Not a GitHub URL
+
+  • https://github.com/akhil-dara/WAInsight
+    About
+Forensic analysis of already-acquired WhatsApp Android databases - browse every chat exactly l
+    SaaS/Chat: SaaS | Image: Needs building
+
+--- AI Workspace (4 tools) ---
+  • https://secretsofhitsongs.com/hooked-checkout-page
+    Checkout page for a “Secrets of Hit Songs” product, likely training on songwriting hooks and product
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://www.bulletproofentrepreneur.io/pm-v?utm_id=…
+    Bulletproof Entrepreneur page for some PM/V (product-market or program) offer—likely mindset/strateg
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://fr.ifixit.com/ifixit-pro-repair-academy?utm_id=…
+    iFixit Pro Repair Academy offers training on professional device repair. It’s hands-on, skills-focus
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://www.linuxsocial.com/p/become-anonymous-private-course.html?m=1
+    LinuxSocial’s course page on becoming anonymous/private. It likely covers OPSEC, privacy tooling, an
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+--- Uncategorized (4 tools) ---
+  • https://zerotomastery.io/courses/ (already above)
+    See above.
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://aiblackmagic.com/?utm_id=… (also in C)
+    AI Black Magic; see above.
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://arena.ai/
+    N/A
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+  • https://pinokio.co/
+    N/A
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+--- Content Creation (1 tools) ---
+  • https://fmhy.net/
+    FMHY: massive directory of free media/resources (including learning). Good for gathering materials. 
+    SaaS/Chat: TBD | Image: N/A - Not a GitHub URL
+
+================================================================================
+SECTION 3: SAAS / MANUAL-USE TOOLS (182 tools)
+================================================================================
+
+  • [Both] https://github.com/pardnchiu/Agenvoy
+    Clear Agent OS replacement
+
+  • [Both] https://github.com/techenthusiast167/Master-OSINT-Toolkit-
+    OSINT tools that can be automated (the API keys that are required will need to be obained using alia
+
+  • [Both] https://github.com/vflame6/leaker
+    OSINT intel gatherig tool (Paid and free API keys required)
+
+  • [Both] https://tools.termuxcommands.com/tookie-osint-in-termux-installation-and-usage-guide/
+    Tookie-OSINT is a powerful username OSINT and social media reconnaissance tool that is used to searc
+
+  • [Both] https://github.com/pewdiepie-archdaemon/odysseus
+    odysseus :A self-hosted AI workspace -- meant to be the self-hosted version of the UI experience you
+
+  • [SaaS] https://github.com/elm1nst3r/GHOST-osint-crm
+    GHOST - Global Human Operations & Surveillance Tracking: Open-source investigation management platfo
+
+  • [SaaS] https://github.com/RyanCodrai/turbovec
+    A vector index built on TurboQuant, written in Rust with Python bindings
+
+  • [Both] https://github.com/screetsec/Sudomy
+    Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automa
+
+  • [Both] https://github.com/usestrix/strix
+    Open-source AI hackers to find and fix your app’s vulnerabilities.
+
+strix.ai    Strix are autonomous
+
+  • [Both] https://github.com/agentwasp/agentwasp
+    WASP is an operational runtime built for operators who need an agent they can actually trust to run 
+
+  • [Both] https://github.com/cporter202/social-media-scraping-apis
+    A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, Tik
+
+  • [Both] https://github.com/moorcheh-ai/memanto
+    MEMANTO is a memory agent. It remembers, recalls, and answers — so your agents can achieve long-term
+
+  • [Both] https://github.com/dograh-hq/dograh/
+    About
+Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK acros
+
+  • [Both] https://github.com/AIEraDev/Clypra
+    About
+A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabili
+
+  • [Both] https://github.com/tw93/Pake
+    Turn any webpage into a desktop app with one command.
+
+  • [SaaS] https://github.com/yo-yo-yo-jbo/whisper_leak
+    Whisper Leak is a research toolkit that demonstrates how encrypted, streaming conversations with Lar
+
+  • [SaaS] https://github.com/JoasASantos/OSCE3-Complete-Guide
+    OSWE, OSEP, OSED, OSEE
+
+Topics
+offensive-security offsec oscp osce osee oswe oswe-prep osep osed osw
+
+  • [Both] https://github.com/Thysrael/Horizon?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev
+    What It Does
+Horizon is a calendar application that lets you create events with a more fluid structu
+
+  • [Both] https://github.com/aliasrobotics/cai
+    Cybersecurity AI (CAI) is a lightweight, open-source framework that empowers security professionals 
+
+  • [SaaS] https://github.com/averygan/reclip
+    About
+Download videos from almost any website. Lightweight, self-hosted media downloader with a clea
+
+  • [Both] https://github.com/jonaslejon/malicious-pdf
+    💀 Generate malicious PDF test files for testing phone-home callbacks, SSRF, XSS, NTLM credential the
+
+  • [Both] https://github.com/anonymousRAID/OSINT-Mapping-Tool
+    About
+An OSINT Mapping tool for research.
+
+Topics
+osint maps mapping nodes google-maps-api osinttool
+
+  • [Both] https://github.com/aasthas2022/ColdContactXLSX
+    Overview
+This project automates the process of sending cold emails from a job seeker (you) to recrui
+
+  • [Both] https://github.com/Adam-CAD/CADAM
+    About
+CADAM is the open source text-to-CAD web application
+
+adam.new/cadam
+
+  • [Both] https://github.com/ahujasid/blender-mcp
+    BlenderMCP - Blender Model Context Protocol Integration
+BlenderMCP connects Blender to Claude AI thr
+
+  • [Both] https://github.com/Anil-matcha/Open-Generative-AI
+    About
+Open-source alternative to AI video platforms — Free AI image & video generation studio with 2
+
+  • [Both] https://github.com/appcypher/awesome-mcp-servers
+    Awesome MCP Servers Awesome
+A curated list of awesome Model Context Protocol (MCP) servers. MCP is a
+
+  • [Both] https://github.com/dmtrKovalenko/fff
+    A file search toolkit for humans and AI agents. Really fast.
+
+Typo-resistant path and content search
+
+  • [Both] https://github.com/elder-plinius/OBLITERATUS
+    OBLITERATUS is the most advanced open-source toolkit for understanding and removing refusal behavior
+
+  • [Both] https://github.com/elder-plinius/ST3GG
+    STE.GG‍​‌​‌​​​​​‌​​‌‌​​​‌​​‌​​‌​‌​​‌‌‌​​‌​‌‌​​‌​​‌​​​​​​‌​​‌‌​​​‌​​‌‌‌‌​‌​‌​‌‌​​‌​​​‌​‌​‌​‌​​‌‌​​‌​​
+
+  • [SaaS] https://github.com/Geolavor/leads-generator-app
+    Prospects AI browser — extract contact details from the Internet in real time
+
+  • [SaaS] https://github.com/iamlukethedev/Claw3D
+    Open source 3D engine built on OpenClaw for games/simulations
+
+  • [Both] https://github.com/mautic/mautic
+    Mautic — open-source marketing automation platform
+
+  • [Both] https://github.com/n8n-io/n8n
+    Open-source workflow automation (30k+ stars) — visual low-code lead gen workflows
+
+  • [SaaS] https://github.com/omkarcloud/google-maps-scraper
+    Extract names, addresses, phones, reviews, websites from Google Maps (~1.4k stars)
+
+  • [Both] https://github.com/onyx-dot-app/onyx
+    Open Source AI Platform — AI Chat with advanced features for every LLM
+
+  • [Both] https://github.com/parcelvoy/platform
+    Parcelvoy — open-source multi-channel marketing automation (email, SMS, push)
+
+  • [Both] https://github.com/pedroslopez/whatsapp-web.js
+    WhatsApp Web API client library
+
+  • [Both] https://github.com/RasaHQ/rasa
+    Open-source conversational AI framework — multi-channel bot builder (16k+ stars)
+
+  • [SaaS] https://github.com/rohitg00/ai-engineering-from-scratch
+    AI Engineering from scratch — Learn it. Build it. Ship it.
+
+  • [Both] https://github.com/Shubhamsaboo/awesome-llm-apps
+    100 AI Agent & RAG apps you can clone, customize, and ship
+
+  • [Both] https://github.com/tiledesk/tiledesk
+    Tiledesk — open-source live chat and chatbot platform
+
+  • [SaaS] https://github.com/timolins/clawdbot
+    Personal AI assistant — Any OS, Any Platform
+
+  • [SaaS] https://github.com/ultraworkers/claw-code
+    100K+ stars repo — built in Rust using oh-my-codex
+
+  • [Both] https://github.com/yusufkaraaslan/SkillSeekers
+    Convert ANY documentation website into a Claude skill
+
+  • [Both] https://github.com/0xSteph/pentest-ai
+    AI-assisted pentest framework that uses LLMs to plan and execute security testing workflows. It focu
+
+  • [Both] https://github.com/FerroxLabs/ijfw
+    Framework for building injection/ fuzzing/ web exploitation workflows. Likely used to automate repea
+
+  • [Both] https://github.com/GH05TCREW/pentestagent
+    Pentest-oriented agent integrating several tools and workflows behind a single interface. Its goal i
+
+  • [SaaS] https://red-team.tools/tools/
+    Directory of red‑team tools spanning exploit, phishing, C2, etc. Good “shopping list” for building a
+
+  • [Both] https://github.com/cipher387/osint_stuff_tool_collection
+    Collection of small OSINT tools and scripts. Handy for quick niche OSINT tasks. Unique because it fo
+
+  • [Both] https://github.com/frishtik/osint-tools-mcp-server
+    MCP server exposing OSINT tools as skills to MPC‑compatible clients (e.g., Claude desktop). Ideal fo
+
+  • [SaaS] https://github.com/sherlock-project/sherlock
+    Username OSINT tool: find accounts on hundreds of platforms. Core identity correlation tool. Unique 
+
+  • [Both] https://hackingpassion.com/dorks-eye/
+    Web GUI for search dorks OSINT (Google, etc.). Good for quick web‑based reconnaissance without CLI. 
+
+  • [SaaS] https://hackingpassion.com/shodan-eye/
+    Web front-end for Shodan-based OSINT. Simplifies device discovery via Shodan queries. Unique as a si
+
+  • [SaaS] https://dorksearch.com/
+    Dork search engine for quick queries. Useful when you don’t want to write dorks manually. Unique as 
+
+  • [SaaS] https://github.com/Rishabh-creator601/Books
+    OSINT/resource repo but focused on PDF/books for learning. Helps build your own OSINT library. Uniqu
+
+  • [Both] https://github.com/agent0ai/agent-zero
+    General-purpose open-source AI agent framework. Designed for building multi-tool, multi-step agents.
+
+  • [Both] https://github.com/AISecurityLab/hackagent
+    Security-focused AI agent for offensive/defensive tasks. Bridges AI planning with security tools. Un
+
+  • [Both] https://github.com/browser-use/video-use
+    Agent controlling browsers with video-style reasoning (probably built on browser-use). Good for comp
+
+  • [Both] https://github.com/Agenvoy (pardnchiu/Agenvoy)
+    Agent environment or orchestration layer (name implies Agent + Convoy). Helps manage fleets of agent
+
+  • [Both] https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+    Collection of predefined cybersecurity “skills” for Anthropic/Claude. Lets you quickly wire security
+
+  • [Both] https://github.com/cporter202/api-mega-list (via repodir link)
+    Mega list of APIs categorized by domain. Great discovery layer for building SaaS integrations. Uniqu
+
+  • [Both] https://github.com/firecrawl/firecrawl
+    Crawler that converts sites into structured data (markdown/JSON) with LLM assistance. Excellent for 
+
+  • [Both] https://ultimatewebscraper.com/
+    SaaS/course/tool around large-scale scraping automation. Might provide UI + code templates. Unique b
+
+  • [Both] https://github.com/affaan-m/everything-claude-code
+    Central repo about Claude Code usage, tips, and workflows. Great for mining patterns for your own Cl
+
+  • [Both] https://github.com/luongnv89/claude-howto
+    Practical “how‑to” examples for Claude integration. Good for quick reference on typical patterns. Un
+
+  • [Both] https://github.com/nicedreamzapp/claude-code-local
+    Run Claude Code‑style workflows locally with your own stack. Very interesting for privacy/hardening.
+
+  • [Both] https://github.com/langflow-ai/langflow
+    Node-based visual builder for LLM workflows (agents, tools, RAG). Great for orchestrating your multi
+
+  • [Both] https://github.com/langgenius/dify
+    Full-stack “AI app builder” platform (chatflows, RAG, agents). Strong for deploying internal tools q
+
+  • [SaaS] https://github.com/trimstray/the-book-of-secret-knowledge
+    Huge sysadmin/devops/infosec knowledge dump. Excellent for broad system-level awareness. Unique brea
+
+  • [SaaS] https://github.com/codecrafters-io/build-your-own-x
+    Tutorials/repos for building your own DBs, interpreters, OS, etc. Great for deep technical mastery. 
+
+  • [SaaS] https://zerotomastery.io/courses/
+    ZTM course platform across dev/AI topics.
+
+  • [Both] https://github.com/GyulyVGC/sniffnet
+    Cross-platform network traffic monitor with friendly UI. Great for visualizing what’s happening on y
+
+  • [SaaS] https://yycsnakes.com/andrax/download.html
+    Android-based pentest distribution. Good for mobile on-the-go pentesting. Unique as an Android platf
+
+  • [Both] https://www.autodesk.com/products/flow-studio/overview
+    Autodesk Flow Studio for production workflows (media pipeline orchestration). Could be relevant for 
+
+  • [SaaS] https://www.dropcourse.com/
+    Course marketplace/downloader oriented platform. Useful to quickly source course content and see cur
+
+  • [SaaS] https://appsumo.com/products/flexifunnels/
+    FlexiFunnels lifetime/SaaS funnel builder. Could complement your current funnel-hosting setup. Uniqu
+
+  • [Both] https://botcommerce.app/lifetime-deal/
+    BotCommerce for chatbot-driven e‑commerce flows. Fits nicely into AI store funnels. Unique as a bot-
+
+  • [Both] https://digitaldfyproducts.com/products/the-ultimate-n8n-automation-bundle
+    Bundle of n8n workflows/templates. You can use them as reference architectures. Unique for dense pre
+
+  • [Both] https://github.com/scaleapi/scale-agentex
+    scale-agentex is Scale’s open-source example of advanced agent architectures, showcasing planning, t
+
+  • [SaaS] https://github.com/techenthusiast167/OSINTMAILER-
+    OSINTMAILER is a Python OSINT tool focused on analyzing email addresses across social media, known b
+
+  • [Both] https://github.com/OpenOSINT/OpenOSINT
+    OpenOSINT is an AI‑powered OSINT agent for the terminal that uses Claude, GPT‑5 or local models to i
+
+  • [Both] https://github.com/reconurge/flowsint
+    Flowsint is a graph-based OSINT and cyber-investigation platform that lets you represent entities (d
+
+  • [Both] https://github.com/ZishanAdThandar/pentest
+    This repository collects pentesting and bug bounty notes, cheat sheets, and guides for ethical hacke
+
+  • [Both] https://github.com/Moh4696/websites-100-audit
+    This repo appears to provide resources or scripts to audit 100+ websites or a structured methodology
+
+  • [Both] https://www.opensourceprojects.dev/post/optimizerduck
+    This page profiles the “optimizerduck” open-source project (most likely a repo) and provides metadat
+
+  • [Both] https://www.autodesk.com/products/flow-studio/overview?utm_id=120239989537040476
+    Autodesk Flow Studio is a workflow/orchestration product for media and production pipelines. You can
+
+  • [Both] https://github.com/adithya-s-k/omniparse
+    OmniParse is a document and media ingestion platform that converts almost any unstructured content (
+
+  • [Both] https://repodir.com/repo/nilbuild-developer-roadmap
+    This Repodir entry points to a “developer roadmap” repository that likely structures learning paths 
+
+  • [Both] https://github.com/thewhiteh4t/FinalRecon
+    FinalRecon is an all‑in‑one web reconnaissance tool that performs subdomain discovery, port scanning
+
+  • [Both] https://github.com/CarterPerez-dev/Cybersecurity-Projects
+    This repo aggregates practical cybersecurity projects—from labs to scripts—for learning and demonstr
+
+  • [SaaS] https://duckduckgo.com/?q=github%3A+microsoft%2FSkillOpt&atb=v457-1&ko=-1&t=ddg_android&ia=web
+    This DuckDuckGo search URL queries GitHub for microsoft/SkillOpt. You’d use it to quickly jump into 
+
+  • [Both] https://github.com/rmyndharis/OpenWA
+    OpenWA appears here in the context of WhatsApp automation/agent integration, likely a fork or wrappe
+
+  • [Both] https://github.com/apurvsinghgautam/robin
+    robin is likely a personal automation or agent that handles recurring tasks (email, scheduling, noti
+
+  • [Both] https://github.com/OpenBMB/VoxCPM
+    VoxCPM is an open-source voice foundation model (multi-lingual, multi-speaker) from OpenBMB for spee
+
+  • [SaaS] https://www.opensourceprojects.dev/post/omnivoice-studio
+    This page profiles “OmniVoice Studio,” an open-source or indie voice project, summarizing its featur
+
+  • [SaaS] http://sv101.ifastnet.com/cookies.html
+    This is a basic cookie policy page on an ifastnet-hosted site. It’s not itself a tool but could be p
+
+  • [Both] https://blink.new/pricing
+    Blink.new’s pricing page details costs and tiers for its product (likely a dev tool, app builder, or
+
+  • [SaaS] https://github.com/unicodeveloper/globalthreatmap
+    GlobalThreatMap aggregates threat intelligence data and visualizes cyber attacks and indicators on a
+
+  • [SaaS] https://github.com/urbanadventurer/Android-PIN-Bruteforce
+    This tool exploits Android’s adb interface to brute-force the PIN of a locked device (under certain 
+
+  • [Both] https://github.com/Giskard-AI/giskard-oss
+    Giskard is an open-source Python library for evaluating AI systems, including LLMs, RAG agents, and 
+
+  • [Both] https://github.com/higgsfield-ai/higgsfield
+    Higgsfield is an AI content creation / generation platform, with the repo providing SDKs, examples, 
+
+  • [Both] https://github.com/DigitalPlatDev/FreeDomain
+    FreeDomain looks like an automation or utility project to help acquire or manage free domains or DNS
+
+  • [SaaS] https://stan.store/jacobhartmanofficial
+    This is Jacob Hartman’s Stan Store page, a marketplace for his digital products (courses, templates,
+
+  • [SaaS] https://www.opensourceprojects.dev/post/removerized
+    This is a profile page on opensourceprojects.dev for the project “Removerized,” summarizing its purp
+
+  • [Both] https://huggingface.co/blog/samihalawa/automating-lead-generation-with-ai
+    This Hugging Face blog post explains how to build an AI-automated lead generation pipeline, combinin
+
+  • [Both] https://github.com/openai/codex
+    This is the OpenAI Codex repository, which historically documented and demoed the Codex model used f
+
+  • [Both] https://github.com/topics/ai-osint
+    This GitHub topic aggregates repositories that combine AI with OSINT—agents, assistants, and pipelin
+
+  • [Both] https://www.gitreverse.com/
+    GitReverse is a website that analyzes Git repositories, helping you reverse-engineer project structu
+
+  • [Both] https://www.reddit.com/r/microsaas/comments/1qnla53/built_an_opensource_selfhosted_ai_agent/
+    This Reddit post discusses building an open-source, self-hosted AI agent as a micro‑SaaS. The commen
+
+  • [Both] https://omma.build/pricing
+    Omma.build’s pricing page outlines the cost tiers and features of their product (likely an automatio
+
+  • [Both] https://github.com/calesthio/Crucix?ref=opensourceprojects.dev
+    Crucix is a project (referenced via opensourceprojects.dev) that you’ve bookmarked in the context of
+
+  • [Both] https://github.com/ruzin/stenoai
+    StenoAI is likely a tool that provides transcription, summarization, or note-taking automation, poss
+
+  • [Both] https://github.com/PolymathicAI/the_well/
+    the_well is a 15 TB collection of physics simulation datasets covering 16 domains (fluids, biologica
+
+  • [SaaS] https://barkod.studio/
+    Barkod Studio is a design/branding/product site—likely a studio offering design, visuals, or brand s
+
+  • [Both] https://www.blueprint.am/
+    blueprint.am is a product (likely a planning/blueprint tool) with a visually-oriented interface for 
+
+  • [Both] https://github.com/blader/humanizer
+    humanizer is a Claude Code skill that rewrites text to sound more human, removing typical AI tell‑ta
+
+  • [Both] https://github.com/NawfalMotii79/PLFM_RADAR
+    PLFM_RADAR is an open-source 10.5 GHz phased-array RADAR system, including hardware design, firmware
+
+  • [SaaS] https://vonsel.com/
+    Vonsel is a product or studio site (likely design, dev, or AI-oriented) you’ve bookmarked. It’s a re
+
+  • [Both] https://safishamsi/graphify → https://github.com/safishamsi/graphify
+    Graphify is a project (context suggests graph tooling for AI, e.g., LangGraph-like agents or graph‑b
+
+  • [Both] https://cobalt.tools/
+    cobalt.tools is a web tool suite (often used for multimedia downloading/processing, historically You
+
+  • [Both] https://www.sabrina.dev/p/claude-code-source-leak-analysis?…
+    Sabrina’s article analyzes the Claude Code source leak, explaining architecture decisions, capabilit
+
+  • [Both] https://www.hostinger.com/openclaw?session=…
+    This is Hostinger’s OpenClaw landing/offer page, bundling hosting tailored for OpenClaw-based projec
+
+  • [SaaS] https://hexsec.netlify.app/
+    HexSec is a small site (Netlify-hosted) that likely showcases infosec content, tools, or a persona/b
+
+  • [Both] https://getle.ad/?utm_id=…
+    GetLe.ad appears to be a lead generation/automation product, automating outreach and follow-up. The 
+
+  • [SaaS] https://mapstocash.com/free-website-871576?campaign_id=… (two UTM variants)
+    These MapstoCash URLs are campaign-specific landers promising a free website built from Google Maps 
+
+  • [SaaS] https://scienceearth.org/
+    ScienceEarth is an educational site (course/blog platform) about science, likely with content that c
+
+  • [Both] https://app.emergent.sh/landing/
+    Emergent.sh landing page: likely a product or course around AI, agents, or emergent behavior. It’s v
+
+  • [Both] https://hiro.fm/sp/lifetime-deal/
+    Hiro.fm’s lifetime deal page offers a one-time price for their platform (likely podcast/audio hostin
+
+  • [SaaS] https://coddy.tech/
+    Coddy.tech is an educational/coding platform (interactive coding exercises, games, or AI-driven teac
+
+  • [SaaS] https://drive.google.com/… (three folders/files)
+    These Drive links are your own collections—likely PDFs, course dumps, or templates. They are raw mat
+
+  • [SaaS] https://github.com/breferrari/obsidian-mind (also in C)
+    Obsidian + AI interface; see above.
+
+  • [Both] https://restream.io/signup?continue=… & https://restream.io/dr/upload-and-stream?… & https://restream.io/pricing?…
+    These are Restream signup, upload-and-stream, and pricing pages. Restream powers multistreaming (sim
+
+  • [SaaS] https://netool.io/?utm_id=…
+    Netool sells handheld network analysis hardware that quickly maps network info (VLAN, switchport, et
+
+  • [Both] https://github.com/codeforreal1/compressO
+    CompressO is a free, offline, open-source app that compresses any video or image into a tiny size on
+
+  • [Both] https://github.com/GP-commits/Git-Secrets
+    Git-Secrets is a repo focused on detecting and handling secrets in Git repositories (naming contextu
+
+  • [Both] https://github.com/sooryathejas/METATRON
+    METATRON is a CLI-based AI-powered penetration testing assistant that runs entirely on your local ma
+
+  • [Both] https://botcommerce.app/lifetime-deal/?utm_id=…
+    BotCommerce’s lifetime deal page; BotCommerce is likely a chatbot/automation platform for e‑commerce
+
+  • [Both] https://socialauditpro.com/how-to-retrieve-a-list-of-your-followers-from-instagram/
+    This article explains methods/tools to extract a list of your Instagram followers. It covers API, sc
+
+  • [Both] https://app.selfpublishing.ai/
+    SelfPublishing.ai is a tool/platform for AI-assisted book creation, layout, and publishing. It helps
+
+  • [Both] https://appsumo.com/products/the-black-friday-bundle/?utm_id=…
+    AppSumo listing for a “Black Friday Bundle,” bundling multiple tools at a deal price. Great for seei
+
+  • [Both] https://www.aikido.dev/?ad_id=…
+    Aikido.dev is a developer-first security platform that monitors repos/infrastructure for vulnerabili
+
+  • [SaaS] https://www.trademarkmystuff.com/?utm_id=…
+    TrademarkMyStuff is a service helping individuals and businesses file trademarks. It simplifies lega
+
+  • [Both] https://dealify.com/products/n8nitro?utm_id=…
+    Dealify’s page for n8NITRO, likely a performance-enhancing add-on/toolkit for n8n automations. It ma
+
+  • [SaaS] https://docs.google.com/document/u/0/d/1V4ddYjEKTHCdiKNbXylaLqKMuF52TQXRu-0Xr0ZflRw/mobilebasic
+    A Google Doc you’ve saved—likely a guide, set of notes, or DIY system. Again, great candidate for co
+
+  • [SaaS] https://appsumo.com/products/the-black-friday-bundle/?… (already above)
+    Bundle of tools/courses.
+
+  • [SaaS] https://zerotrace.org/kb/anonymous-sim-card-powered-by-silent-link/
+    Zerotrace KB article explaining anonymous SIM cards via Silent Link. It walks through how they work,
+
+  • [SaaS] https://appsumo.com/products/flexifunnels/ (already in C)
+    Funnel builder listing; see above.
+
+  • [SaaS] https://docs.google.com/document/d/1Z5SX89FV6bTy2KKnGGb61xCcS9iPg_fv2USQYi4Wc3g/mobilebasic
+    Another Google Doc you saved; likely a guide or notes on some technical or strategic topic. Unique a
+
+  • [Both] https://github.com/llm-exe/llm-exe and https://github.com/gregreindel/llm-exe?utm_id=…
+    llm-exe is a TypeScript/JavaScript library providing base components to build and maintain LLM-power
+
+  • [Both] https://github.com/chenglou/pretext
+    Pretext is a pure JS/TS library for multiline text measurement and layout that never touches the DOM
+
+  • [Both] https://github.com/OpenBB-finance/OpenBB%EF%BF%BC
+    Core OpenBB repo (terminal/platform) for investment research and analytics. It aggregates data sourc
+
+  • [Both] https://github.com/yusufkaraaslan/Skill_Seekers
+    Skill_Seekers is a repo about building or tracking skills (learning paths, projects). It may provide
+
+  • [Both] https://github.com/cloudcommunity/Free-Certifications
+    Free-Certifications lists free and discounted certification courses across cloud, security, and more
+
+  • [SaaS] https://github.com/browser-use/web-ui/tree/main/assets
+    Assets (icons, images, etc.) used by the browser-use web UI. Useful if you want to replicate or exte
+
+  • [Both] https://github.com/open-jarvis/OpenJarvis
+    OpenJarvis is a research framework for composable, on‑device AI systems designed to build personal A
+
+  • [Both] https://github.com/elementalsouls/Claude-BugHunter
+    Claude-BugHunter is a Claude Code skill bundle for bug hunting and external red‑team work: 51 skills
+
+  • [Both] https://github.com/withkynam/vibecode-pro-max-kit/
+    vibecode-pro-max-kit is a bundle of tools, templates, and workflows for building “vibe” code/brands.
+
+  • [Both] https://github.com/confident-ai/deepteam
+    DeepTeam is a simple-to-use, open-source red teaming framework for LLM systems. Think of it as penet
+
+  • [Both] https://github.com/1N3/Sn1per
+    About
+Automated penetration testing & attack surface management platform. Recon, scan, exploit, repo
+
+  • [Both] https://github.com/cporter202/API-mega-list
+    About
+This GitHub repo is a powerhouse collection of APIs you can start using immediately to build e
+
+  • [SaaS] https://github.com/The-Osint-Toolbox/Telephone-OSINT
+    You will find helpful telephone number OSINT tools on this page. Telephone OSINT can be tricky as th
+
+  • [SaaS] https://679894f2019f3c5c5707545e.sos.knowledgebases.net/kb
+    GoPhantom Knowledge Base. This is omething that I can refer to for GoStackBase, GoHighlEvel, & Build
+
+  • [Both] https://github.com/AMAP-ML/SkillClaw?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev
+    SkillClaw: Evolving Agent Skills From Real Conversations
+Imagine you've built an AI agent that handl
+
+  • [Both] https://www.imonu.com/home
+    Studio
+/ video engine
+One prompt. Full video. Your keys or ours.
+
+Bring Your Own Keys — any AI API —
+
+  • [Both] https://github.com/nicotsx/zerobyte
+    About
+Backup automation for self-hosters. Built on top of restic
+
+zerobyte.app
+
+  • [Both] https://github.com/JCodesMore/ai-website-cloner-template
+    About
+Clone any website with one command using AI coding agents
+
+dsc.gg/jcodesmore
+
+  • [SaaS] https://github.com/akhil-dara/WAInsight
+    About
+Forensic analysis of already-acquired WhatsApp Android databases - browse every chat exactly l
+
+  • [SaaS] https://github.com/awesome-foss/awesome-sysadmin
+    About
+A curated list of amazingly awesome open-source sysadmin resources.
+
+  • [Both] https://termux.achik.us/darkfly-in-termux-installation-and-usage-commands/
+    DarkFly-Tool in Termux – Installation & Usage Commands
+DarkFly-Tool is an all-in-one Termux toolkit 
+
+  • [Both] https://github.com/cporter202/stock-market-signal-automation
+    About
+Build your own data-driven market edge with swing-trade signal webhooks, dashboards, alerts, A
+
+  • [Both] https://github.com/six2dez/burp-ai-agent
+    About
+Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, p
+
+  • [Both] https://github.com/loxy0devlp/RedTiger-Tools
+    About
+RedTiger-Tools is a multifunction automation tool dedicated to pentesting and OSINT. The proje
+
+  • [SaaS] https://github.com/iamsrikanthnani/pluely
+    About
+The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that work
+
+  • [Both] https://github.com/Donchitos/Claude-Code-Game-Studios
+    About
+Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complet
+
+  • [Both] https://github.com/santifer/career-ops
+    About
+AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generatio
+
+  • [SaaS] https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+    About
+An AI SKILL that provide design intelligence for building professional UI/UX multiple platform
+
+  • [Both] https://github.com/czlonkowski/n8n-mcp
+    About
+A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+
+www
+
+  • [SaaS] https://github.com/OpenCut-app/OpenCut
+    About
+The open-source CapCut alternative
+
+opencut.app
+
+  • [Both] https://github.com/infoslack/awesome-web-hacking
+    awesome-web-hacking
+This list is for anyone wishing to learn about web application security but do n
+
+  • [Both] https://github.com/Salomondiei08/oh-my-hermes
+    About
+An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent
+
+  • [Both] https://github.com/LiteLLM-Labs/litellm-agent-control-plane
+    About
+1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, 
+
+================================================================================
+SECTION 4: IMAGE DEPLOYMENT STATUS
+================================================================================
+
+  Needs building: 333 (71.9%)
+  N/A - Not a GitHub URL: 130 (28.1%)
+
+================================================================================
+END OF REPORT
+================================================================================

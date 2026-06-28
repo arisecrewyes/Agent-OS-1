@@ -1,0 +1,322 @@
+﻿Checklist
+Check List
+
+
+1. Make sure the menu link says “pricing” instead of “investing” in your main landing page “/home” (only if you have an old snapshot)
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*SEE NEXT PAGES BELOW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Make phone number not required on forms “DFY Success Call Form” & “AI Demo Magic Link Generator” 
+
+
+👉 Find your forms under GHL Sites → Form
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Make sure your form “AI Demo Magic Link Generator” has the new T&C format.
+
+
+
+
+  
+
+
+
+
+
+
+
+4. Make sure your website works on “www” and without “www”
+
+
+5. Make sure the root domain is for the same company or just redirect to the AI agency funnel for now.
+
+
+6. Make sure you have in the footer your legal company name and brand name in case you are doing a DBA (doing business as).
+  
+
+
+
+7. Make sure your calendar is working in the main landing page /home , otherwise make sure the calendar is set to “active” in the settings and has a team member added to it at least. 
+
+
+  
+
+
+
+
+
+
+
+⚠️ IMPORTANT: The "Root Domain" Trap (Read Before Submitting)
+One of the most common reasons for A2P rejection isn't your funnel—it's the Root Domain.
+Even if you submit a perfect subdomain (like app.client.com), the human reviewer will often delete the "app" part and check the main website (client.com) to verify the business is real.
+You will be REJECTED if the Root Domain (client.com) is:
+* Broken: Shows a 404 error or a "GoDaddy Parking" page.
+* Incomplete: Shows a "Coming Soon" or "Under Construction" banner.
+* Non-Compliant: Has a contact form that is missing the SMS checkbox/legal text.
+* Mismatched: Shows a different brand name than the one on your application.
+✅ How to Pass Safely (Choose One Option)
+If your or your client's main website is broken, non-compliant, or messy, do not use it. Use one of these two workarounds instead:
+Option 1: The "Redirect" Trick (Free) If you have access to their DNS (GoDaddy, Cloudflare, etc.), set up a Permanent Redirect (301).
+* The Goal: Make client.com automatically forward to your compliant funnel link (app.client.com).
+* Why it works: When the reviewer tries to check the root, they are forced back to your perfectly compliant funnel page.
+Option 2: The "Clean Slate" Method (Safest - ~$12) If the client's main site is a mess and they won't let you touch it, buy a brand new domain dedicated to this system.
+* The Goal: Buy a domain like try-clientvip.com and put your funnel on the main homepage (root).
+* Why it works: There is no "other" website for the reviewer to check. The root is the compliant page.
+Rule of Thumb: Never submit an application if the main homepage (root domain) looks suspicious or broken. Fix the root, or buy a new domain.
+
+
+Start Registration
+1. Open your GHL account and click on “Settings”
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The click on “Phone systems” → “Trust Center”
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Then “Start registration” and follow the prompts. Make sure to READ VERY WELL THE INSTRUCTIONS AND QUESTIONS THEY ASK
+  
+
+Brand Registration
+⚠️ IMPORTANT: New LLCs Please Read
+If you recently opened a new LLC, do not attempt A2P verification immediately. You must wait 15 days because the third-party databases used to verify business identities take time to update. Applying too early will result in rejection.
+👉 The Solution: To start sending messages immediately, register as a “Sole Proprietor” instead. This verifies you as an individual rather than a company. While the daily message limits are slightly lower, they are sufficient for getting started.
+Once your LLC is fully established in the databases (after 4 weeks), you can resubmit your registration as a Company.
+
+
+________________________________________________________
+
+
+⚠️ LLC BRAND SUBMISSION RULES
+When submitting your Brand Information, accuracy is not optional—it is mandatory. The vetting system is automated and unforgiving.
+1. Legal Business Name: This must match your IRS (SS-4) or Tax documents character-for-character.
+* Right: Digital Warriors, LLC
+* Wrong: Digital Warriors LLC (Missing comma)
+* Wrong: Digital Warriors (Missing suffix)
+2. EIN / Tax ID: Double-check your Tax ID number. A single wrong digit will trigger an immediate rejection.
+3. Business Address: Use the exact address registered with your EIN. If you moved but didn’t update the IRS, use the old address that is still on official file.
+________________________________________________________
+
+
+⚠️ SOLE PROPRIETOR BRAND SUBMISSION RULES
+When registering as a Sole Proprietor, the verification logic changes. Follow these specific rules to avoid rejection:
+1. Legal Business Name = Your Full Name
+* Unless you have a legally filed DBA (Doing Business As), you must enter your personal First and Last Name as the "Legal Business Name."
+* Wrong: "Best Marketing Agency"
+* Right: "John Doe"
+2. The Mobile Number (Critical Step)
+* Sole Proprietor registration requires a valid mobile number for identity verification (OTP).
+* NO VoIP: You cannot use a Google Voice, Skype, or business line for this. It must be a personal mobile phone with a major carrier (AT&T, T-Mobile, Verizon, etc.).
+* You will receive a text code during registration that you must verify immediately.
+3. Physical Address
+* Use the physical address where you reside or receive mail. This is often your home address. It must be a valid location, not a P.O. Box if possible.
+Campaign Registration
+Messaging Use Case
+
+
+* Use Case Description:
+
+
+This messaging campaign is used by [LEGAL COMPANY NAME] to send text messages to individuals who have voluntarily opted in to receive updates, service information, scheduling communications, and relevant announcements related to [LEGAL COMPANY NAME]’s offerings.
+
+
+* Sample Message #1
+
+
+Hello, this is a team member from [LEGAL COMPANY NAME] reaching out regarding your recent inquiry. Let us know if you’d like to continue the conversation or have any questions we can help with. Reply STOP to opt out of future text messages.
+
+
+* Sample Message #2
+
+
+Hi from [LEGAL COMPANY NAME]. This message is to confirm your upcoming scheduled session. If you need assistance or would like to make changes, you may reply directly. Reply STOP to unsubscribe from SMS notifications.
+
+
+
+
+Example:
+
+
+  
+
+
+
+Messaging Use Case
+
+
+* How do Contacts Opt-in to Messages?
+
+
+End users opt in by visiting https://yourwebsite.com/ and submitting a form that includes a clearly labeled checkbox consenting to receive SMS notifications and informational or promotional messages from [LEGAL COMPANY NAME]. Users may also opt in by texting START to the business phone number listed on the website.
+
+
+* Opt-in Message
+
+
+You’re subscribed! You have successfully opted in to receive SMS messages from [LEGAL COMPANY NAME]. You can opt out at any time by replying STOP.
+
+
+
+
+* Opt-In Method
+
+
+Website Form
+
+
+* Opt-in Form/Image URL 
+
+
+https://yourwebsite.com/home
+
+
+
+
+Example:

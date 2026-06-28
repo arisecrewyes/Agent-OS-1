@@ -1,0 +1,260 @@
+Connecting Your Domain on GHL - A Guide : HighLevel Support Portal
+All
+Articles
+Recent Searches
+Clear all
+No recent searches
+Popular Articles
+Articles
+View all
+Topics
+View all
+Tickets
+View all
+Sorry! nothing found for
+Connecting Your Domain on GHL - A Guide
+Modified on: Wed, 25 Mar, 2026 at  4:47 PM
+Connecting your domain to HighLevel ensures that your branded presence is consistent across websites, funnels, emails, and client-facing tools. This guide breaks down the process and explains how each product integrates with a connected domain.
+TABLE OF CONTENTS
+Step-by-Step Domain Connection Process
+Troubleshoot - Connecting Your Domain
+Products You Can Connect a Domain To
+Pro Tips
+Helpful Links
+Step-by-Step Domain Connection Process
+There are two main ways to connect a domain to HighLevel:
+1. Automatic Method (For Supported Providers)
+If your domain is registered with a
+supported provider
+(like GoDaddy, Google Domains, or Cloudflare), you can connect it automatically via API-based authentication.
+Recommended if your domain is managed by one of our integrated providers.
+Go to Sites >
+Settings > Domains
+in your HighLevel account.
+Choose
+“Connect a Domain”
+.
+Choose the product you'd like to connect (e.g., funnel, website, email).
+Enter your root domain or subdomain in the provided field. If adding the "www" subdomain as well, you'll see an option to add the root domain.
+If your domain is with Google Domains, Go Daddy, or Cloudflare, you'll see an "Authorize" button. Click on it to allow Domain Connect to access your DNS settings.
+Follow the on-screen prompts to complete the authorization process on your domain provider's interface. This will automatically add or connect the required DNS records.
+Once authorization is complete, close that tab and return to the Domain Connect interface.
+2. Manually Adding a Domain
+If your domain is hosted by
+Namecheap, Bluehost, or any provider not listed
+, you'll need to add DNS records manually.
+Use this option if your provider is not directly supported.
+Navigate to
+Sites
+>
+Settings > Domains.
+Choose
+“Connect a Domain.”
+Choose the product you'd like to connect (e.g., funnel, website, email).
+If you want to connect the domain to a funnel, website, blog or webinar enter the domain name as per the prompt.
+Click on the add records manually option.
+You'll receive specific DNS records (A Records, CNAME, TXT) that need to be added in your domain registrar.
+Log into your domain provider (e.g., Namecheap), and navigate to DNS settings.
+Add the records exactly as shown.
+Save changes and wait for DNS propagation (can take up to 24 hours).
+Manual DNS Setup by Provider
+Cloudflare
+Log in to your
+Cloudflare dashboard.
+Select your domain and click on the
+DNS
+tab.
+Click
+Add Record
+.
+For each required record from HighLevel:
+Choose type: A, CNAME, or TXT.
+A Record
+for
+@
+(root domain) → Point to the IP address.
+CNAME
+for
+www
+or subdomains (if applicable).
+TXT
+for email verification (e.g., SPF/DKIM).
+Important
+: Toggle
+Proxy status to "DNS Only"
+(gray cloud) for A and CNAME records.
+Click
+Save
+for each.
+Wait for propagation (few minutes to 24 hours).
+GoDaddy
+Log in to your GoDaddy account.
+Go to
+My Products > Domains
+, then click
+Manage DNS
+next to your domain.
+Under the
+Records
+section, click
+Add
+:
+Select type: A, CNAME, or TXT.
+Use
+@
+for root domain and
+www
+for subdomain.
+Enter the
+record values exactly
+as provided by HighLevel.
+Click
+Save
+after adding each record.
+Allow time for changes to propagate.
+Namecheap
+Log in to your
+Namecheap dashboard.
+Navigate to
+Domain List > Manage
+next to your domain.
+Go to the
+Advanced DNS
+tab.
+Under
+Host Records
+, click
+Add New Record
+:
+A Record
+for
+@
+CNAME Record
+for
+www
+TXT Record
+for verification or email (e.g., SPF/DKIM)
+Paste the exact values from your HighLevel instructions.
+Click
+Save All Changes
+.
+Wait up to 24 hours for DNS propagation.
+Squarespace
+Log in to your Squarespace account.
+Go to
+Settings > Domains
+and select your domain.
+Click
+DNS Settings
+(Advanced).
+Add the following:
+A Record
+for
+@
+(use IP provided)
+CNAME
+for
+www
+(if required)
+TXT
+for email verification
+Click
+Save
+after each record.
+Return to HighLevel and reconnect the domain once changes are saved.
+Troubleshoot - Connecting Your Domain
+While connecting your domain either manually or automatically, you could run into a few common issues like:
+Record Conflicts: Multiple A Records:
+Troubleshooting link
+AAAA Record Conflict:
+Troubleshooting link
+CAA Record Conflict:
+Troubleshooting link
+DNS Records Do Not Match:
+Troubleshooting link
+Domain is Connected Elsewhere:
+Troubleshooting link
+Products You Can Connect a Domain To
+Funnel / Website / Store / Webinar / Blog
+Use your domain to
+host customer-facing pages
+such as funnels, ecommerce stores, webinars, or blogs.
+WordPress
+If you're using
+HighLevel's WordPress hosting
+, point your domain to your WordPress site using provided DNS records.
+The system will auto-detect and validate once DNS setup is complete.
+You can read more about it here -
+WordPress: Domain Connect Integration
+Email
+A domain is required to
+authenticate your email sending
+(e.g., via SPF, DKIM, DMARC).
+Connecting it improves email deliverability and ensures your messages aren’t flagged as spam.
+You can read more about it here -
+Dedicated Email Sending Domains Overview & Setup
+Branded Domain (for White-Labeling)
+Connect a domain to
+white-label
+your HighLevel sub-account or SaaS features.
+This replaces the default
+.hlpages.co
+URLs with your own branding.
+You can read more about it here -
+Branding System-Generated Links (API Domain)
+and
+Why and HOW TO Setup Branded Domains
+Client Portal
+Use your custom domain to host a
+client-facing dashboard
+.
+Gives your clients a branded experience when accessing assets, campaigns, or reports.
+You can read more about it here -
+How to set up the Client Portal?
+Pro Tips
+DNS Propagation
+: Changes can take from a few minutes up to 24 hours to fully propagate.
+SSL
+is automatically provisioned once the domain is connected and records are correct.
+You can manage all connected domains under
+Settings > Domains
+.
+If your domain says
+“Pending”
+for over 24 hours, double-check DNS values or reach out to support.
+Helpful Links
+Troubleshooting Guide - Connecting Your Domain
+Was this article helpful?
+No
+Yes
+That’s Great!
+Thank you for your feedback
+Sorry! We couldn't be helpful
+Thank you for your feedback
+Your e-mail address
+*
+Let us know how can we improve this article!
+*
+Need more information
+Difficult to understand
+Inaccurate/irrelevant content
+Missing/broken link
+Select at least one of the reasons
+Please give your comments
+CAPTCHA verification is required.
+Cancel
+Send
+Feedback sent
+We appreciate your effort and will try to fix the article
+Print
+Articles in this Folder
+Connecting Your Domain on GHL - A Guide
+Related Articles
+WordPress - How to Add Domains to Sites
+How to fix links in the email that do not open?
+How to set up Root Domain/Subdomain for your Funnels/Websites?
+AI Studio in HighLevel
+How to create your Whitelabel Community
+How to integrate Razorpay within the CRM
+X
+0 of 0

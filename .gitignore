@@ -1,0 +1,11 @@
+# Large binary files - keep local only
+*.mp4
+*.MOV
+*.mov
+# The course raw files are too large for GitHub
+# Analysis docs are the important part
+course-analysis/gdrive-files/Copy My AI Agency/*.pdf
+course-analysis/gdrive-files/Copy My AI Agency/*.png
+course-analysis/gdrive-files/Copy My AI Agency/*.jpg
+course-analysis/gdrive-files/Copy My AI Agency/*.docx
+course-analysis/Copy_My_AI_Agency_*.txt
