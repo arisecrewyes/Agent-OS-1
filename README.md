@@ -117,6 +117,11 @@ Then open `https://agentos.your-domain.com`
 | `docs/hermes-one-click-setups.md` | One-Click Setups (Ollama + MaxHermes) |
 | `docs/hermes-commands-reference.md` | Complete CLI command reference |
 
+### 🔌 AI Agent Connection Guide
+| File | Purpose |
+|------|--------|
+| `docs/lead-connector-ai-agent-connection-guide.md` | Step-by-step: Connect OpenClaw, Hermes, n8n, Agent OS to GHL, GoStackBase, BuildwithOS, Lead Connector |
+
 ### 📄 Lead Connector Derivatives (Post #6)
 | File | Purpose |
 |------|---------|
