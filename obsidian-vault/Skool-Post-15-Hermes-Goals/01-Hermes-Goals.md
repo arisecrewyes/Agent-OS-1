@@ -72,10 +72,10 @@ auxiliary:
 
 ```
 📝 /goal Write 5 SEO blog posts about AI automation and save them as files
-� /goal Fix every error in my code and make sure all tests pass
+🔧 /goal Fix every error in my code and make sure all tests pass
 📊 /goal Research the top 10 AI agent tools in 2026 and write a comparison report
 🌐 /goal Build a landing page for my product and deploy it to Netlify
-� /goal Draft 7 days of email sequences for my new course launch
+📧 /goal Draft 7 days of email sequences for my new course launch
 ```
 
 ## Safety Features
