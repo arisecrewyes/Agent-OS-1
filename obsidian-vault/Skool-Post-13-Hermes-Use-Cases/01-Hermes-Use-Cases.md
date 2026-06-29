@@ -467,4 +467,371 @@ Analyse this checkout flow [describe it] and suggest 5 improvements to reduce ca
 
 ```text
 # 56. Case Study
-Write a case study about a client result [describe result]. Include problem, solution, result, and quote
+Write a case study about a client result [describe result]. Include problem, solution, result, and quote.
+```
+
+```text
+# 57. Webinar Outline
+Create a webinar outline for a 60-minute presentation selling [product]. Include slide structure and talking points.
+```
+
+```text
+# 58. DM Opener
+Write 3 different versions of an Instagram DM opener for reaching out to potential clients about [service].
+```
+
+```text
+# 59. Lead Magnet
+Build a lead magnet outline for [target audience]. The lead magnet should solve one specific problem in 10–15 minutes.
+```
+
+```text
+# 60. Discovery Call Script
+Write a sales script for a 30-minute discovery call for [service]. Include qualifying questions and a soft close.
+```
+
+### 🤖 AI Agent-Specific (Prompts 61–70)
+
+```text
+# 61. Morning Briefing
+Build me a morning briefing. Search the web for the top 5 news stories in [niche] from the last 24 hours. Summarise each in 3 sentences.
+```
+
+```text
+# 62. Competitor Blog Monitor
+Monitor [competitor website] for any new blog posts published in the last 7 days. List titles, URLs, and main topics.
+```
+
+```text
+# 63. Brand Mentions
+Search for all mentions of [brand/keyword] on social media in the last 48 hours. Categorise as positive, negative, or neutral.
+```
+
+```text
+# 64. Podcast Guests
+Research 20 potential podcast guests for a show about [topic]. Include their name, why they're relevant, and contact info.
+```
+
+```text
+# 65. Tool Research
+Browse the web and compile a list of the top 10 tools in the [category] space. Include pricing, features, and user ratings.
+```
+
+```text
+# 66. Job Listings
+Search for all job listings for [role] posted in the last 30 days. List company, location, salary range, and requirements.
+```
+
+```text
+# 67. Reddit/Twitter Monitor
+Monitor [keyword] across Reddit and Twitter for the last 7 days. What questions are people asking? What problems do they have?
+```
+
+```text
+# 68. Affiliate Programmes
+Search for affiliate programmes in [niche]. List commission rates, cookie duration, and average order values.
+```
+
+```text
+# 69. Bestselling Books
+Research the top 10 bestselling books in [category] on Amazon. Summarise each in 3 bullet points.
+```
+
+```text
+# 70. Website Contact Scrape
+Browse [website] and extract all contact information, social media links, and team member names.
+```
+
+### 🧠 Strategy & Planning (Prompts 71–80)
+
+```text
+# 71. Value Perception
+Act as a business strategist. Analyse my current offer [describe it] and suggest 3 ways to increase its perceived value without changing the price.
+```
+
+```text
+# 72. Competitive Analysis
+Build a competitive analysis for [your product] vs [competitor]. Compare pricing, positioning, features, and target audience.
+```
+
+```text
+# 73. Customer Avatar
+Create a customer avatar for [product/service]. Include: demographics, goals, fears, objections, and buying triggers.
+```
+
+```text
+# 74. Content Strategy Audit
+Audit my current content strategy [describe it] and identify the 3 biggest gaps causing me to miss growth.
+```
+
+```text
+# 75. SWOT Analysis
+Write a SWOT analysis for [business/idea]. Be brutal and honest. End with 3 actionable next steps.
+```
+
+```text
+# 76. Pricing Strategy
+Build a pricing strategy for [service]. Include: anchor pricing, upsell stack, and positioning rationale.
+```
+
+```text
+# 77. Market Size
+Research the market size for [niche]. Include total addressable market, typical customer spend, and growth rate.
+```
+
+```text
+# 78. JV Partnership Strategy
+Create a partnership outreach strategy for finding 10 JV partners in [niche]. Include how to qualify, approach, and structure the deal.
+```
+
+```text
+# 79. Product Roadmap
+Map out a 12-month product roadmap for [business]. Include: launch dates, revenue targets, and team requirements.
+```
+
+```text
+# 80. Investor Pitch
+Write an investor pitch deck outline for [business]. Include: problem, solution, market, traction, team, and ask.
+```
+
+### 📊 Data & Analytics (Prompts 81–85)
+
+```text
+# 81. YouTube Analytics
+Analyse these YouTube analytics [paste data]. Tell me which videos performed best and why. Suggest 3 content strategy changes.
+```
+
+```text
+# 82. Email Open Rates
+Review my email open rate data [paste data] and identify which subject line patterns get the best results.
+```
+
+```text
+# 83. Sales Patterns
+Look at this sales data [paste data]. Find the patterns — best day to sell, best price point, best traffic source.
+```
+
+```text
+# 84. KPI Dashboard
+Build a monthly KPI dashboard template for [type of business]. Include the 10 most important metrics to track.
+```
+
+```text
+# 85. Traffic Source Analysis
+Analyse my traffic sources [describe them] and tell me where to focus my marketing effort for maximum ROI.
+```
+
+### 🎓 Education & Course (Prompts 86–90)
+
+```text
+# 86. Course Outline
+Build a full course outline for a beginner course on [topic]. Include 5 modules with 3 lessons each.
+```
+
+```text
+# 87. Lesson Notes
+Write lesson notes for a 20-minute video about [topic]. Include key concepts, examples, and a quiz at the end.
+```
+
+```text
+# 88. Community Challenge
+Create a community challenge for [platform] about [topic]. Include: daily tasks, prizes, and engagement prompts.
+```
+
+```text
+# 89. FAQ Document
+Write a FAQ document for [product/course] answering the 20 most common questions customers ask before buying.
+```
+
+```text
+# 90. Student Onboarding
+Design an onboarding sequence for new students of [course]. Include: welcome message, Day 1–7 tasks, and success milestones.
+```
+
+### ⚡ Productivity (Prompts 91–95)
+
+```text
+# 91. Task Prioritisation
+I have 4 hours today. Here are my tasks [paste list]. Prioritise them using the Eisenhower Matrix and tell me what to do in what order.
+```
+
+```text
+# 92. SOP Creation
+Write a standard operating procedure for [task I do weekly]. Break it into numbered steps with decision points.
+```
+
+```text
+# 93. Document Summary
+Summarise this document [paste doc] in under 200 words. Pull out the 5 most important points.
+```
+
+```text
+# 94. Meeting Transcript
+Read this meeting transcript [paste it] and write: action items, decisions made, and owners for each task.
+```
+
+```text
+# 95. Morning Routine
+Review my morning routine [describe it] and suggest 3 changes that would improve my focus and energy.
+```
+
+### 🌍 International (Prompts 96–98)
+
+```text
+# 96. Translation
+Translate this blog post [paste it] into Spanish. Maintain the tone and style of the original.
+```
+
+```text
+# 97. Cultural Adaptation
+Adapt this marketing copy [paste it] for a European audience. Change cultural references, units, and idioms as needed.
+```
+
+```text
+# 98. International Markets
+Research the top 5 markets outside the US for [product type]. Include market size, competition level, and entry strategy.
+```
+
+### 🔗 Link Building (Prompts 99–103)
+
+```text
+# 99. Guest Post Targets
+Find 20 websites in [niche] that accept guest posts. Include domain authority, contact form URL, and submission guidelines.
+```
+
+```text
+# 100. Broken Link Building
+Research broken links on [topic] niche websites and suggest 10 pieces of content I could create to replace them.
+```
+
+```text
+# 101. Competitor Backlinks
+Find all websites that have linked to [competitor] but not to me. List them with their domain authority and the page they linked from.
+```
+
+```text
+# 102. Outreach Emails
+Write 5 outreach email templates for link building in [niche]. Each should feel personalised and not spammy.
+```
+
+```text
+# 103. Link Building Campaign
+Create a 90-day link building campaign plan for [website]. Include strategies, targets, and weekly milestones.
+```
+
+### 🎙️ Podcast & Video (Prompts 104–107)
+
+```text
+# 104. Podcast Outline
+Write a podcast episode outline for a 45-minute episode about [topic]. Include intro, 5 main points, and outro.
+```
+
+```text
+# 105. Interview Questions
+Create 10 interview questions for a podcast guest who is an expert in [topic].
+```
+
+```text
+# 106. YouTube Script
+Write a YouTube video script for [topic] that's 8–10 minutes long. Include a hook, main content, and CTA.
+```
+
+```text
+# 107. Video to Blog
+Transcribe and summarise this video [paste transcript]. Turn it into a blog post under 800 words.
+```
+
+### 💰 Monetisation (Prompts 108–110)
+
+```text
+# 108. Monetisation Ideas
+List 10 ways someone with an audience in [niche] could monetise it. Rank by: revenue potential, time to set up, and difficulty.
+```
+
+```text
+# 109. Membership Programme
+Design a membership programme for [topic]. Include: tiers, pricing, what's included at each level, and retention tactics.
+```
+
+```text
+# 110. Sponsorship Deck
+Write a sponsorship deck for [content channel]. Include: audience stats, reach, formats, and pricing options.
+```
+
+---
+
+## 30-Day Roadmap
+
+### 🗓️ Week 1 — Setup & First Win (Days 1–7)
+
+| Day | Action |
+|-----|--------|
+| 1 | Create free OpenRouter account. Get API key. Confirm Owl Alpha shows as $0. |
+| 2 | Download and install Hermes Agent. Connect to OpenRouter with Owl Alpha. Send first test message. |
+| 3 | Run first content task using Prompt #1 or #2. Just run it and see what happens. |
+| 4 | Pick one real business task you do every week. Prompt Hermes Agent to do it. |
+| 5 | Refine your prompt based on yesterday's output. Save as template. |
+| 6 | Explore Hermes Agent's 40+ built-in tools. Enable web search. Run a research task. |
+| 7 | Weekly review. What worked? What do you want to automate next? |
+
+### 🗓️ Week 2 — Build Your First Workflow (Days 8–14)
+
+| Day | Action |
+|-----|--------|
+| 8 | Pick a multi-step process (research → write → format). Map it on paper. |
+| 9 | Build Step 1 as a Hermes Agent prompt. Test and refine. |
+| 10 | Build Step 2. Feed Step 1 output into Step 2 manually. |
+| 11 | Build Step 3 if needed. Connect the sequence. |
+| 12 | Run the full workflow end to end. Note what breaks. |
+| 13 | Fix the breaks. Run again. |
+| 14 | Save the full workflow. Schedule it to run automatically once per week. |
+
+### 🗓️ Week 3 — Stack Agents (Days 15–21)
+
+| Day | Action |
+|-----|--------|
+| 15 | Pick a second business task to automate. Build the prompt. |
+| 16 | Connect this new task to an output from your Week 2 workflow. |
+| 17 | Explore Hermes Agent's sub-agent feature. Have one agent delegate to another. |
+| 18 | Build morning briefing automation using Prompt #61. |
+| 19 | Build competitor monitoring workflow using Prompt #23 or #63. |
+| 20 | Stack content research agent into content writing agent. |
+| 21 | Weekly review. How many hours did agents save you this week? |
+
+### 🗓️ Week 4 — Scale & Compound (Days 22–30)
+
+| Day | Action |
+|-----|--------|
+| 22 | Document every workflow. Create an SOP for each one. |
+| 23 | Share one workflow for feedback. Improve it. |
+| 24 | Build a sales or lead generation agent using Prompts #51–60. |
+| 25 | Add analytics monitoring to your agent stack. Use Prompts #81–85. |
+| 26 | Review your entire agent stack. Remove anything that isn't saving time or making money. |
+| 27 | Build one more automated workflow based on your biggest remaining time drain. |
+| 28 | Run the full Goldie Infinite Agent Loop™ review: Capture, Connect, Calibrate, Clone, Compound. |
+| 29 | Calculate time saved this month. Calculate value at your hourly rate. That's your ROI. |
+| 30 | Set your 30-day targets for Month 2. |
+
+---
+
+## Key Takeaways
+
+1. **Hermes Agent is not a chatbot — it's an AI employee** that runs 24/7, builds memory, and takes action in your actual apps.
+2. **Cost is not a barrier** — people run full setups for $0–$20/month using free models like Owl Alpha.
+3. **You don't need to code** — plain English prompts are all you need.
+4. **The 24/7 Business Machine™ framework** gives you a systematic approach: Brain → Workers → Systems → Pipeline → Growth Loop.
+5. **110+ ready-to-use prompts** cover content, email, SEO, business automation, social media, sales, strategy, data, education, productivity, and more.
+6. **The 30-day roadmap** takes you from zero to fully automated agent workflows.
+
+---
+
+## Related Notes
+
+- [[Skool-Post-12-Hermes-Computer-Use]]
+- [[Skool-Post-14-Hermes-Agent-OS-System]]
+- [[Agent-OS-Documentation]]
+- [[Hermes-Agent-Setup-Guide]]
+
+---
+
+*Source: Julian Goldie, AI Profit Boardroom — Skool Post #13 (May 11, 2026)*
