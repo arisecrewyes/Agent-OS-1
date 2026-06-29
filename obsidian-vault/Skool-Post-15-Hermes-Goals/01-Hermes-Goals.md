@@ -57,7 +57,8 @@ auxiliary:
 
 ### Bad vs. Good
 
-| ❌ Bad | |--------|
+| ❌ Bad | ✅ Good |
+|--------|--------|
 | `/goal write some blog posts` | `/goal Write 3 SEO blog posts about AI automation, each 1000 words, targeting keywords "AI agent tools 2026", "best AI automation software", and "how to automate with AI". Save each as a separate .md file.` |
 
 ### Rules for Great Goals
@@ -141,10 +142,48 @@ auxiliary:
 | 6 | Review outputs — note what worked |
 | 7 | Rest |
 
+### Week 2: Automation (Days 8–14)
+
+| Day | Task |
+|-----|------|
+| 8 | Run a code-fix goal on a real project |
+| 9 | Set up a research goal that runs daily via cron |
+| 10 | Try a multi-file content generation goal |
+| 11 | Test the judge with an intentionally vague goal (learn its limits) |
+| 12 | Build a business-specific goal relevant to your SOPs |
+| 13 | Review and refine your goal prompts library |
+| 14 | Measure time saved vs. manual prompting |
+
+### Week 3: Systems (Days 15–21)
+
+| Day | Task |
+|-----|------|
+| 15 | Combine /goal with Obsidian vault for auto-saving outputs |
+| 16 | Set up sub-agents that each run their own /goal |
+| 17 | Build a competitor research goal with weekly schedule |
+| 18 | Create a content pipeline goal (research → write → format → save) |
+| 19 | Test /goal resume after a full restart |
+| 20 | Document your top 5 reusable goal templates |
+| 21 | Track week-over-week improvement in output quality |
+
+### Week 4: Scale (Days 22–30)
+
+| Day | Task |
+|-----|------|
+| 22 | Deploy Hermes on a VPS for 24/7 goal running |
+| 23 | Set up Telegram notifications for goal completion |
+| 24 | Build a team goal template library |
+| 25 | Create a client delivery goal (automate a service you sell) |
+| 26 | Set up nightly goals that run while you sleep |
+| 27 | Review your goal library — prune what doesn't work |
+| 28 | Calculate ROI: hours saved through /goal automation |
+| 29 | Share your best goal templates with the community |
+| 30 | Plan next month's automation expansion |
+
 ## Related
 
-- [[01-Second-Brain-Stack|Post #10: Hermes + Obsidian]]
-- [[01-Hermes-Qwen|Post #11: Hermes + Qwen 3.7 Max]]
-- [[01-Claude-Obsidian|Post #12: Claude + Obsidian]]
-- [[SOP - Hermes Agent Setup]]
-- [[Agent-OS-Ecosystem|Ecosystem: Hermes Agent]]
+- [[Skool-Post-10-Hermes-Obsidian/01-Second-Brain-Stack|Post #10: Hermes + Obsidian]]
+- [[Skool-Post-12-Claude-Obsidian/01-Claude-Obsidian|Post #12: Claude + Obsidian]]
+- [[SOPs/SOP - Hermes Agent Setup]]
+- [[Agent-OS-Base/Agent-OS-Ecosystem|Ecosystem: Hermes Agent]]
+- [[docs/post15-hermes-goals-quickstart|QuickStart: Hermes /goal]]
