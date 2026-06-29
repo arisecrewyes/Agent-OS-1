@@ -108,6 +108,20 @@ When choosing a voice generation platform for your inbound call agent, consider 
 
 ---
 
+## Use Cases
+
+- **Service businesses** — Answer booking calls 24/7 without a receptionist
+- **Agencies** — Qualify inbound leads automatically and log notes to CRM
+- **E-commerce** — Handle order status and FAQ calls without human staff
+- **Solo operators** — Never miss a client call; let the agent take first-line notes
+
+## Tips
+
+- 🔊 Test voice quality with **real phones**, not just browser audio — mobile networks compress differently.
+- ✍️ Keep agent responses **short and natural**. Long monologues lose callers.
+- 🔄 Review call transcripts weekly to refine prompts and catch edge cases.
+- 🔐 Don't share your agent's phone number publicly — it's a live line to an AI with API access.
+
 ## Related Posts in This Series
 
 - Scraping Live Pages With AI + N8N
