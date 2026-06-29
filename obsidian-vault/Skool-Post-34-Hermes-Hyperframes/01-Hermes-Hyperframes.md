@@ -263,7 +263,6 @@ npx hyperframes render --quality high  # Final quality render
 
 ## Related Posts
 
-- [[Skool-Post-33-Hermes-ElevenLabs|Post #33: Hermes Agent + ElevenLabs]]
 - [[Skool-Post-32-Claude-Code-AgentOS|Post #32: Setup Free Claude Code + Agent OS]]
 - [[Skool-Post-31-Paperclip-AgentOS|Post #31: Paperclip + Agent OS]]
 - [[Skool-Post-25-Hermes-Browser-Agents|Post #25: Hermes Browser Agents + Agent OS]]
