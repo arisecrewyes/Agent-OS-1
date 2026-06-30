@@ -52,7 +52,7 @@ _Last updated: 2026-06-28_
 - **Typeset:** ✅ Connected — AI content creation, PDF/PPTX export, Unsplash/Getty images. Subscription on pause. Browser: https://app.typeset.com
 - **Pyxa AI:** ✅ Connected — v2.pyxa.ai/dashboard, Premium Creator Lifetime, unlimited words/images, 50+ documents. Browser session active.
 - **Content Pipeline:** Hermes Agent (writes) → ArtSpace AI (images) → Content 360 (schedules) → VoiceWave AI (voiceovers)
-- **GitHub push blocked:** PAT token expired — needs new token to push
+- **GitHub PAT:** Updated 2026-06-30 — stored as secredential only. 3 commits pushed (217838f, 5cd67af, 801d836).
 
 ## GoStackBase Connection (Established 2026-06-28)
 - **Dashboard URL:** https://app.gostackbase.com (NOT gostackbase.com/login — 404s)
