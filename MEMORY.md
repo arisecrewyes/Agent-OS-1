@@ -50,7 +50,7 @@ _Last updated: 2026-06-28_
 - **ArtSpace AI:** ✅ Connected — 282 one-click AI tools (FLUX KONTEXT, SEEDREAM 4.0, NANO BANANA). Browser: https://space.artspace.ai
 - **Content 360:** ✅ Connected — Social media management, bulk posting, RSS campaigns, webhooks. Browser: https://app.content360.io/os/
 - **Typeset:** ✅ Connected — AI content creation, PDF/PPTX export, Unsplash/Getty images. Subscription on pause. Browser: https://app.typeset.com
-- **Pyxa AI:** ⚠️ Pending — 2FA required. Awaiting user code.
+- **Pyxa AI:** ✅ Connected — v2.pyxa.ai/dashboard, Premium Creator Lifetime, unlimited words/images, 50+ documents. Browser session active.
 - **Content Pipeline:** Hermes Agent (writes) → ArtSpace AI (images) → Content 360 (schedules) → VoiceWave AI (voiceovers)
 - **GitHub push blocked:** PAT token expired — needs new token to push
 

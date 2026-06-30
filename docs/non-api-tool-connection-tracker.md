@@ -7,7 +7,7 @@
 
 | # | Tool | URL | Status | Connected To | Notes |
 |---|------|-----|--------|-------------|-------|
-| 1 | Pyxa AI | https://v2.pyxa.ai/login | ⚠️ 2FA Required | — | Voice AI — needs 2FA code |
+| 1 | Pyxa AI | https://v2.pyxa.ai/dashboard | ✅ Connected | OpenClaw browser | Lifetime Premium Creator — unlimited words/images, AI Chat, AI Image, AI Video, 50+ documents |
 | 2 | VoiceWave AI | https://www.voicewave.ai/signin | ✅ Connected | OpenClaw browser | Voice AI |
 | 3 | ArtSpace AI | https://www.artspace.ai/signin | ✅ Connected | OpenClaw browser | 282 AI creative tools |
 | 4 | Content 360 | https://app.content360.io/os/login | ✅ Connected | OpenClaw browser | Social media management |
