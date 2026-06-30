@@ -166,5 +166,21 @@ _Last updated: 2026-06-28_
 - **Infrastructure:** Traefik (80/443), n8n (5678)
 - **Agent Stack:** Agent OS (3000), Hermes Agent (4860, 8642), Connector Router (8888), Universal API Gateway (8889)
 - **Memory Stack:** Goldie Obsidian Vault (8200), Goldie Memory Engine (8100), Memory Engine (8090), OSINT Sherlock (9090)
-- **New — Dev Tools:** Bolt.DIY (5173), Odysseus (7000) + Chromadb (8101), SearXNG (8080), ntfy (8091)
-- **Total containers: 17**
+- **Dev Tools:** Bolt.DIY (5173), Odysseus (7000) + Chromadb (8101), SearXNG (8080), ntfy (8091)
+- **AI/LLM:** Ollama (11434) — qwen2.5:1.5b + tinyllama, CPU-only
+- **Voice/Audio:** Piper TTS (10200) — self-hosted TTS (ElevenLabs alternative)
+- **Video:** Hyperframes (3001) — HTML→video renderer (CLI tool, 3.6GB image)
+- **Total containers: 20**
+
+## Protected Docker Projects (User Directive — NEVER touch)
+- browser-use, hermes-agent-7llb, n8n-secondary-library, n8n-workflows
+- nocodb-a4cp, openclaw-x9sc, root, the-vault-financial
+
+## Traefik Configuration Reference
+- **Container:** root-traefik-1 (in root Docker project)
+- **Network:** traefik-public
+- **Cert resolver:** mytlschallenge (TLS challenge)
+- **Entrypoints:** web (80) → redirect → websecure (443)
+- **Working label pattern:** traefik.enable=true, entrypoints=web,websecure, tls=true, certresolver=mytlschallenge
+- **Services with HTTPS:** Ollama ✅ | Bolt.DIY ✅ | Odysseus ✅ | Agent OS ✅
+- **Services without HTTPS (direct port):** Piper TTS (TCP protocol), Hyperframes (CLI tool)

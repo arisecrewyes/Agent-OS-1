@@ -89,9 +89,50 @@
 ### 📋 Protected Docker Projects (User Directive)
 NEVER touch: browser-use, hermes-agent-7llb, n8n-secondary-library, n8n-workflows, nocodb-a4cp, openclaw-x9sc, root, the-vault-financial
 
+### Traefik HTTPS Status
+| Service | HTTPS URL | Status | Notes |
+|---------|-----------|--------|-------|
+| Ollama | https://ollama.srv1121935.hstgr.cloud | ✅ HTTP 200 | Fully working with valid cert |
+| Piper TTS | piper:10200 (direct) | ✅ Running | Wyoming TCP protocol — routed directly, no HTTPS needed |
+| Hyperframes | Internal only | ✅ Sleeping | CLI tool — use `docker exec hyperframes` for rendering |
+
+### Traefik Label Pattern (working)
+```
+traefik.enable=true
+traefik.http.routers.NAME.entrypoints=web,websecure
+traefik.http.routers.NAME.rule=Host(\`NAME.srv1121935.hstgr.cloud\`)
+traefik.http.routers.NAME.tls=true
+traefik.http.routers.NAME.tls.certresolver=mytlschallenge
+traefik.http.services.NAME.loadbalancer.server.port=PORT
+```
+- Cert resolver: \`mytlschallenge\` (NOT \`letsencrypt\`)
+- Traefik container: \`root-traefik-1\` in \`root\` project
+- Network: \`traefik-public\`
+
+### Question 8: ElevenLabs & Retell Alternatives
+| Need | Solution | Status |
+|------|----------|--------|
+| ElevenLabs (TTS) | Piper TTS (self-hosted, Wyoming protocol) | ✅ Running |
+| Retell AI (Voice agents) | **Dograh** — open-source Retell/Vapi alternative | ❌ GHCR images locked |
+| Retell fallback | VoiceWave AI (SaaS, already connected) | ✅ Available |
+
+### Question 9: Ollama (MiniMax/Qwen/Step local LLM)
+- **Ollama deployed** with qwen2.5:1.5b + tinyllama models
+- Both MiniMax M3, Qwen 3.7 Max, Step 3.7 Flash available on OpenRouter (API)
+- Ollama provides free local inference via CPU
+- Can pull any model that fits in 3GB RAM limit
+
+### Question 10: Indexceptional
+- **Self-hosted alternative found:** **Dograh** was the closest alternative researchers found
+- Best self-hosted SEO monitoring alternatives from library:
+  - **SearXNG** (already running on VPS at port 8080) — meta-search engine
+  - Could add Uptime Kuma for monitoring
+- Indexceptional itself is SaaS-only (indexceptional.com)
+- **Recommend:** Use Uptime Kupa (lightweight, Docker) for site monitoring
+
 ### 📊 VPS Resource Status
-- **RAM:** 7.8GB total, ~4.3GB available after new deployments
-- **Disk:** 96GB total, 78GB used (81%), 20GB free
+- **RAM:** 7.8GB total, ~4GB available after deployments
+- **Disk:** 97GB total, 79GB used (81%), 18GB free
 - **CPU:** 2 cores (no GPU)
-- **Containers:** 20 total (17 existing + 3 new)
+- **Containers:** 20 total (17 existing + Ollama + Piper + Hyperframes)
 ---
