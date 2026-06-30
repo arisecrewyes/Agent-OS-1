@@ -141,3 +141,30 @@ _Last updated: 2026-06-28_
 - **Scripts:** `transcribe.sh` (single video), `batch_transcribe.py` (course-wide batch)
 - **Platform notes:** YouTube (transcript API), ClientClub/GHL (blob URLs — needs screen recording), Vimeo/Wistia (yt-dlp), Teachable/Kajabi (DOM scrape)
 - **Saved to:** GitHub + Obsidian vault + OpenClaw skills
+
+## Bolt.DIY (Deployed 2026-06-30)
+- **Repo:** https://github.com/stackblitz-labs/bolt.diy
+- **URL:** https://bolt-diy.srv1121935.hstgr.cloud
+- **Port:** 5173 | **Docker:** bolt-diy:latest (built from source, 2.78GB)
+- **Location:** /root/agentos/bolt-diy/
+- **Status:** ✅ Running, healthy
+- **Config:** Placeholder OpenRouter API key (needs real key), free models only
+- **Note:** Prebuilt GHCR image denied — built from source. Wrangler needed separate install in container.
+
+## Odysseus (Deployed 2026-06-30)
+- **Repo:** https://github.com/pewdiepie-archdaemon/odysseus
+- **URL:** https://odysseus.srv1121935.hstgr.cloud
+- **Port:** 7000 | **Docker:** odysseus-odysseus (built from source)
+- **Location:** /root/agentos/odysseus/
+- **Status:** ✅ Running, healthy (login page 200)
+- **Admin:** admin / password in /root/agentos/odysseus/.admin_password
+- **Dependencies:** Chromadb (host:8101), SearXNG (8080), ntfy (8091)
+- **Note:** Chromadb host port 8100→8101 (conflict with goldie-memory-engine)
+- **LLM:** Not configured yet — needs OpenRouter/Ollama/OpenAI key
+
+## Full VPS Container List (2026-06-30)
+- **Infrastructure:** Traefik (80/443), n8n (5678)
+- **Agent Stack:** Agent OS (3000), Hermes Agent (4860, 8642), Connector Router (8888), Universal API Gateway (8889)
+- **Memory Stack:** Goldie Obsidian Vault (8200), Goldie Memory Engine (8100), Memory Engine (8090), OSINT Sherlock (9090)
+- **New — Dev Tools:** Bolt.DIY (5173), Odysseus (7000) + Chromadb (8101), SearXNG (8080), ntfy (8091)
+- **Total containers: 17**
