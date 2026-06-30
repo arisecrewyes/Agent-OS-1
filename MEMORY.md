@@ -53,6 +53,10 @@ _Last updated: 2026-06-28_
 - **Pyxa AI:** ✅ Connected — v2.pyxa.ai/dashboard, Premium Creator Lifetime, unlimited words/images, 50+ documents. Browser session active.
 - **Content Pipeline:** Hermes Agent (writes) → ArtSpace AI (images) → Content 360 (schedules) → VoiceWave AI (voiceovers)
 - **GitHub PAT:** Updated 2026-06-30 — stored as secredential only. 3 commits pushed (217838f, 5cd67af, 801d836).
+- **Content 360:** ✅ Connected — app.content360.io, workspace 00b01979, Instagram: bountifulanonymity, webhooks available
+- **Typeset:** ⏸️ Subscription paused — skip until resumed
+- **Capability Audits:** All 4 active tools audited — see docs/capability-audit-*.md
+- **Connection SOP:** docs/sop-non-api-tool-connection-guide.md — universal AI agent guide
 
 ## GoStackBase Connection (Established 2026-06-28)
 - **Dashboard URL:** https://app.gostackbase.com (NOT gostackbase.com/login — 404s)
