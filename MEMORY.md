@@ -44,6 +44,16 @@ _Last updated: 2026-06-28_
 - **Security flags:** Hermes `ADMIN_PASSWORD=admin123` flagged — change immediately
 - **GitHub:** All docs pushed to `Agent-OS-1` repo, fully organized in README.md
 
+## Non-API Tool Connections (Established 2026-06-30)
+- **Connection Tracker:** `docs/non-api-tool-connection-tracker.md`
+- **VoiceWave AI:** ✅ Connected — 2495+ voices, 38 languages, voice cloning, multi-track editor. Browser: https://space.voicewave.ai
+- **ArtSpace AI:** ✅ Connected — 282 one-click AI tools (FLUX KONTEXT, SEEDREAM 4.0, NANO BANANA). Browser: https://space.artspace.ai
+- **Content 360:** ✅ Connected — Social media management, bulk posting, RSS campaigns, webhooks. Browser: https://app.content360.io/os/
+- **Typeset:** ✅ Connected — AI content creation, PDF/PPTX export, Unsplash/Getty images. Subscription on pause. Browser: https://app.typeset.com
+- **Pyxa AI:** ⚠️ Pending — 2FA required. Awaiting user code.
+- **Content Pipeline:** Hermes Agent (writes) → ArtSpace AI (images) → Content 360 (schedules) → VoiceWave AI (voiceovers)
+- **GitHub push blocked:** PAT token expired — needs new token to push
+
 ## GoStackBase Connection (Established 2026-06-28)
 - **Dashboard URL:** https://app.gostackbase.com (NOT gostackbase.com/login — 404s)
 - **Location ID:** huqxBD72T6Abd4AJxAni
